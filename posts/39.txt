@@ -1,0 +1,2 @@
+Animal : Fox
+Baby Name : hatchling,juvenile

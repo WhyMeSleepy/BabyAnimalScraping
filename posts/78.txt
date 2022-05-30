@@ -1,0 +1,2 @@
+Animal : Wombat
+Baby Name : foal,colt(m),filly(f),stat,stag,hog-colt,youngster,yearlingorhogget

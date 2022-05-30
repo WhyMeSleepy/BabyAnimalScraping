@@ -1,0 +1,2 @@
+Animal : Hyena
+Baby Name : calf
