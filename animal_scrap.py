@@ -28,7 +28,7 @@ def animal_name():
         if tage_name_animal is not None:
             name_animal = tage_name_animal.text.replace(' ','').strip()
             if name_animal != '':
-                with open(f'posts/{i}.txt','w') as f:
+                with open(f'animals/{i}.txt','w') as f:
                     f.write(f'Animal : {name_animal}\n')
                     f.write(f'Baby Name : {list_baby_name[i]}')
                     i += 1

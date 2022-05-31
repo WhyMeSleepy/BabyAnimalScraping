@@ -1,0 +1,8 @@
+Job Positions : Backend Developer
+Company : SEASIA LEADAVATION CENTER CO., LTD.
+Company Location : คลองเตย
+Salary : THB 35K - 70K /เดือน 
+  skill  
+- Building performant APIs and Web Applications
+- Develop and implement solutions
+- Lead the technical aspect

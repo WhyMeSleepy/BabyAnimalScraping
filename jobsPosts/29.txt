@@ -1,0 +1,8 @@
+Job Positions : Junior Data Engineer **Open for New Grads
+Company : Central Retail Corporation Ltd. (JD Finance)
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Understanding of Hadoop ecosystem
+- Experience with data pipeline and workflow
+- Familiar with APIs, JSON, REST

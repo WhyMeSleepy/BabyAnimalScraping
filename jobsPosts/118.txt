@@ -1,0 +1,8 @@
+Job Positions : Software Engineer
+Company : Fabrinet Co., Ltd.
+Company Location : คลองหลวง
+Salary : No Infomation
+  skill  
+- Test and debug applications based on users.
+- Software of platform for C,C++,C#,LabVIEW,MATLAB
+- Bill of Materials knowledge.

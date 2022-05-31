@@ -1,0 +1,8 @@
+Job Positions : Senior Data Engineer
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Degree in IT/Computer Engineering
+- Experience in Data Engineer
+- Experience in ETL tools

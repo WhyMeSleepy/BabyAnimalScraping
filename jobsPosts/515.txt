@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- Building systems collect, manage, and convert data
+- Develop data models for analytics
+- Make data accessible so that organizations can use

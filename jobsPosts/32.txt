@@ -1,0 +1,8 @@
+Job Positions : Back-End Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- Fresh graduates with a degree in computer science
+- 3 years experience in backend development
+- Go, Java, and Python and Kotlin

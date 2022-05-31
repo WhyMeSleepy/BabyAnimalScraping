@@ -1,0 +1,8 @@
+Job Positions : Data Scientist, Advanced Analytics
+Company : PANDORA
+Company Location : ประเวศ
+Salary : No Infomation
+  skill  
+- Data mangling and advanced statistical analysis
+- Forecasting and optimization techniques with data
+- Analytical products, exploration and prototyping

@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : SCG Cement-Building Materials Co., Ltd.
+Company Location : บางซื่อ
+Salary : No Infomation
+  skill  
+- Develop data ingestion & data operationalization
+- Support and Implement Data Governance processes
+- Work with internal users in Digital Office

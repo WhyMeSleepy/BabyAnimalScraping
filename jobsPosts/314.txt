@@ -1,0 +1,8 @@
+Job Positions : Machine Learning Engineer
+Company : Mu Space and Advanced Technology Co., Ltd.
+Company Location : พญาไท
+Salary : No Infomation
+  skill  
+- Experienced in machine learning and deep learning
+- Python and/or C/C++ languages
+- Tensorflow, Keras, Pytorch, etc.

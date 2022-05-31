@@ -1,0 +1,8 @@
+Job Positions : Data Scientist
+Company : Central JD Fintech Co., Ltd.
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Proficient in SQL and Python/R/Spark
+- Hands on experiences using visual analytics tool
+- Develop quantitative models for estimation

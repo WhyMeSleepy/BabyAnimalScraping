@@ -1,0 +1,8 @@
+Job Positions : Software Engineer, Full Stack
+Company : Finnomena Co., Ltd.
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Front-end, Back-end
+- Vuejs, React, Node.js, Golang
+- Agile, Scrum Team, Hybrid Worplace

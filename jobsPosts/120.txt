@@ -1,0 +1,8 @@
+Job Positions : Data Scientist
+Company : LINE Company (Thailand) Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- 5+ years of machine learning & data scientist exp.
+- Experience with the Hadoop ecosystem
+- Strong SQL skills

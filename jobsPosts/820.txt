@@ -1,0 +1,8 @@
+Job Positions : Data Engineer / Big Data Engineer (SQL skill is a must)
+Company : Muang Thai Life Assurance Public Company Limited
+Company Location : Huaykwang
+Salary : No Infomation
+  skill  
+- Experience in ETL tools or Data Pipeline
+- Strong SQL skills
+- Data integration, Data Warehouse, Data Lake

@@ -1,0 +1,8 @@
+Job Positions : Software Developer
+Company : CHAZ Insurance Brokers Ltd.
+Company Location : วัฒนา
+Salary : No Infomation
+  skill  
+- 1-3 years experience in Programming
+- C#.Net, .Net Core, Java, PHP, JSON, Webservice API
+- MVC design pattern and Object-Oriented-Programming

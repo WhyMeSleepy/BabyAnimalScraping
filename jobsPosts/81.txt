@@ -1,0 +1,8 @@
+Job Positions : IoT Engineer
+Company : Toyo Business Engineering (Thailand) Co., Ltd.
+Company Location : Klongtoey
+Salary : No Infomation
+  skill  
+- Degree in Computer Engineering
+- Experience in utilizing SQL and NoSQL databases.
+- Experience with IoT platform and web-server.

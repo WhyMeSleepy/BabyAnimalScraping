@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : Bangkok Industrial Gas Co., Ltd.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- Data Architecture/ Data Engineer/ Data Science
+- data mining,data lake,SQL server
+- Python, Java, R Code, C#, Scala, Hadoop and Spark

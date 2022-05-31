@@ -1,0 +1,8 @@
+Job Positions : Data Operations Engineer (Data Ops Team) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- data operations
+- data management processes
+- SQL, Python, Azure

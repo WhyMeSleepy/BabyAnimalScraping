@@ -1,0 +1,8 @@
+Job Positions : Data Operation Specialist (Backend)
+Company : Ascend Group Co., Ltd.
+Company Location : Prakanong
+Salary : No Infomation
+  skill  
+- Experience in Software Development
+- Cloud-based platforms such as AWS, Google Cloud
+- Kubernetes, Docker, and system architect

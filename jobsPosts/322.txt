@@ -1,0 +1,8 @@
+Job Positions : Senior Full Stack Developer (Python) Upto 150K
+Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
+Company Location : บางกะปิ
+Salary : THB 120K - 160K /เดือน 
+  skill  
+- Advanced Python, Django, React.JS
+- CI & Code Review
+- Strong in Web API - Software Architecture

@@ -1,0 +1,8 @@
+Job Positions : Data Engineer/Senior Data Engineer
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- Exp. in data warehouse development & architecture
+- SQL,PL/SQL,Unix shell scripting,Perl,Spark,Python
+- Experience in Big Data platform

@@ -1,0 +1,8 @@
+Job Positions : Software Engineer (Backend) - Middle to Senior level - Commercial Platform
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Node.js, Python, Java, Go, C, .NET
+- Flask, Spring Boot, Express
+- MySQL, Postgresql, Oracle, MongoDB

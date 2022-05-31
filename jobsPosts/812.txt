@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer
+Company : Central JD Fintech Co., Ltd.
+Company Location : Pathumwan
+Salary : No Infomation
+  skill  
+- Experience in DevOps roles
+- Familiar with Cloud based environment
+- Strong operational experience in Linux/Unix

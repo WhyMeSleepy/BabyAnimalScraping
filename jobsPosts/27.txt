@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : CIMB Thai Bank
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Head Office based in Chidlom area (BTS)
+- Annual Leave 15 Days/year
+- Experiences in databases, query authoring (SQL)

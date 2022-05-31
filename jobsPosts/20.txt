@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : Coraline Co.,Ltd
+Company Location : ธนบุรี
+Salary : No Infomation
+  skill  
+- Develop ETL processes
+- Understanding Data Lake, Data Warehouse, Data Mart
+- Experience in Big Data technologies

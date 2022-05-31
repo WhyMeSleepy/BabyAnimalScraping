@@ -1,0 +1,8 @@
+Job Positions : Back-end Developer (Golang)
+Company : TRIDEPT COMPANY LIMITED
+Company Location : วัฒนา
+Salary : No Infomation
+  skill  
+- At least 2 years experience with Go (GoLang)
+- Experience in E-Commerce
+- Understanding of code versioning tools,such as Git

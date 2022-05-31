@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer (Senior-Specialist)
+Company : Pomelo Fashion Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 160K /เดือน 
+  skill  
+- Terraform
+- AWS
+- DevOps

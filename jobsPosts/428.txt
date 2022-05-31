@@ -1,0 +1,8 @@
+Job Positions : Data Engineer (Manager/Senior Manager)
+Company : ABeam Consulting (Thailand) Ltd.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- AWS Glue, Redshift, S3
+- Data Management
+- IT Implementation

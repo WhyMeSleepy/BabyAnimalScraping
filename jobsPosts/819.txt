@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : nocnoc
+Company Location : Bangsue
+Salary : No Infomation
+  skill  
+- Experience with relational SQL and NoSQL databases
+- Experience with data science project pipeline
+- Create data tools for analytics team

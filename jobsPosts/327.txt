@@ -1,0 +1,8 @@
+Job Positions : Data Engineer
+Company : Ever Medical Technologies Company Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Join dynamic team of technology-driven healthcare
+- Build processes supporting data transformation
+- Optimizing ‘Big Data’ pipelines, architecture

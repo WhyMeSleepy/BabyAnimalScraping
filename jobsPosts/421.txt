@@ -1,0 +1,8 @@
+Job Positions : Technology Developer ( 1-year contract) (React, Node.js,Python,Vue.js,Nuxt.Js,Golang)
+Company : SCG Cement-Building Materials Co., Ltd.
+Company Location : บางซื่อ
+Salary : No Infomation
+  skill  
+- work from anywhere
+- React, Node.js,Python,Vue.js,Nuxt.Js,Golang
+- Android(Koltin), IOS (swift)

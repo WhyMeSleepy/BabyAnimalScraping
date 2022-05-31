@@ -1,0 +1,8 @@
+Job Positions : Data Engineer (Phuket Based)
+Company : Primo World Co., Ltd.
+Company Location : ภูเก็ต
+Salary : No Infomation
+  skill  
+- Data ETL and data migration works
+- Incidence management and root cause analysis
+- AWS Cloud Infrastructure

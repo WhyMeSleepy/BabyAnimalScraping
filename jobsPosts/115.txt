@@ -1,0 +1,8 @@
+Job Positions : Data Scientist
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- statistical programming  (e.g., Python, R,pandas)
+- database software (e.g., SQL, PySpark)
+- hypothesis testing, regression, machine learning

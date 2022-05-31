@@ -1,0 +1,8 @@
+Job Positions : Software Engineer/Software Developer
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- Developer - JAVA, Spring Boot, Node.js, Golang
+- Writing unit test cases, automated testing
+- Cloud Platform, AWS, OpenShift

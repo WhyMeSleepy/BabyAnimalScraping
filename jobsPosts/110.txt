@@ -1,0 +1,8 @@
+Job Positions : Python Developer (Business Intelligence Team)
+Company : Jet Commerce
+Company Location : ดินแดง
+Salary : No Infomation
+  skill  
+- Experience developing Python
+- Web scraping python library| requests,selenium,bs4
+- Hybrid Workplace
