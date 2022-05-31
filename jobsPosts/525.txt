@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : MC Group Public Company Limited
-Company Location : ประเวศ
+Job Positions : Data Scientist Analytics - Team Lead
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Data Engineer
-- Data Analyst
-- Data Platforms
+- Data Scientist, ML , Deep Learning
+- Data Team Lead, Manager
+- Fintech Global Company

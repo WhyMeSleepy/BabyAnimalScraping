@@ -1,8 +1,4 @@
-Job Positions : Software Developer (Web/Mobile/Back-End/Full Stack)
-Company : Playtorium Solutions Company Limited
-Company Location : จตุจักร
+Job Positions : Lead Software Engineer
+Company : Refinitiv
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Web: React, Angular, Vue.js   CMS: Wordpress
-- MOB: Flutter,React-Native,Kotlin,Swift,Objective-c
-- Back-End: NodeJS,Java Spring Boost,Python,PHP

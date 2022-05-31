@@ -1,0 +1,8 @@
+Job Positions : Software Development Team Lead
+Company : Central Retail Corporation Ltd. (Central Technology Office)
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- C#(ASP .NET Core), Angular, TypeScript, JavaScript
+- Cloud (Azure), Microservice, Relational, NoSQL
+- Agile, SCM, WMS, TMS

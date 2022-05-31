@@ -1,8 +1,8 @@
-Job Positions : Automation Engineer (Digital Workflow)
-Company : Krungsri Consumer
-Company Location : ปทุมวัน
+Job Positions : Application development Lead
+Company : Siam Winery Trading Plus Co., Ltd.
+Company Location : ดอนเมือง
 Salary : No Infomation
   skill  
-- Assist business to design the technical solution
-- Knowledge in Python, HTML, Java script and SQL
-- Location: BTS Ploenchit wiht Hybrid working
+- Experience in designed, researching and procuring
+- At least 5 years’ experience in system development
+- Strong leadership, management and customer service

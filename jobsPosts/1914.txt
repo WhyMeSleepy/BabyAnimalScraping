@@ -1,0 +1,8 @@
+Job Positions : Software Engineering
+Company : Magnecomp Precision Technology Public Company Limited
+Company Location : อยุธยา
+Salary : No Infomation
+  skill  
+- Bachelor / Master graduated in Engineering related
+- Experience Dot NET programming. Used to .NET. C#
+- Async/Paralle/Multithreading design

@@ -1,0 +1,8 @@
+Job Positions : Programmer จำนวน 5 อัตรา (รับสมัครด่วน)
+Company : Thai Agri Foods Public Company Limited
+Company Location : บางคอแหลม
+Salary : No Infomation
+  skill  
+- ปริญญาตรี สาขา Computer Science
+- มีประสบการณ์ในการเขียนโปรแกรมด้วยภาษา C#
+- มีความรู้และประสบการณ์โปรแกรม FullStack

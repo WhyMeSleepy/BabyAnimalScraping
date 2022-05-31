@@ -1,0 +1,8 @@
+Job Positions : DevOps up to 130k
+Company : RDA GROUP RECRUITMENT LTD.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Strong experiences on managing CI/CD with Jenkins
+- GitLab and AWS resources
+- JIRA, Confluence, MS Team is a plus

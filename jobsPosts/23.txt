@@ -1,8 +1,8 @@
-Job Positions : Data Engineer/Data Engineer
-Company : Siam Paragon Development Co., Ltd.
+Job Positions : Django-Python Developer / Programmer
+Company : CODIUM Company Limited
 Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Cloud, Python, Java or similar
-- Build data systems and pipelines
-- Hands-on experience with SQL database design
+- Django-Python Developer / Programmer
+- Django
+- Friendly, cozy, delicious, high-tech environment

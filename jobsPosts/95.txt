@@ -1,0 +1,8 @@
+Job Positions : Software Developer (Education Products and Services) ประจำสีลม
+Company : Chanwanich Group
+Company Location : บางรัก
+Salary : No Infomation
+  skill  
+- Exp. > 3 yrs in C#, ASP.NET is a must
+- Angular, Bootstrap, Web Services, MVC, Web API
+- Work with control software e.g. GIT, Subversion

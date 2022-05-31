@@ -1,0 +1,8 @@
+Job Positions : Programmer Backend, Frontend/Backend, Full-Stack, Mobile ( Junior / Senior )
+Company : 2J Solution & Service Co., Ltd.
+Company Location : บางกะปิ
+Salary : No Infomation
+  skill  
+- Programmer, Full-stack, Backend, Frontend, Mobile
+- Web App&API with Dot Net Core/Framework,PHP,NodeJS
+- CI/CD Git Agile C# SQL Docker Kubernetes,Jenkins

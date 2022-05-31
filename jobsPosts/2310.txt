@@ -1,0 +1,8 @@
+Job Positions : Senior Software Engineer (Spring boot) - TrueMoney
+Company : Ascend Group Co., Ltd.
+Company Location : พระโขนง
+Salary : No Infomation
+  skill  
+- Primarily focused on Spring Boot and Spring Cloud.
+- CI/CD deployments on a Kubernetes-based platform.
+- 3 or more years of relevant work experience.

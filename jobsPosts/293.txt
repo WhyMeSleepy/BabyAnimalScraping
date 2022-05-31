@@ -1,0 +1,8 @@
+Job Positions : Assistant Data Engineer Manager
+Company : Ananda Development Public Company Limited
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- SQL
+- Python
+- Analysis Service

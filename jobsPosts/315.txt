@@ -1,8 +1,8 @@
-Job Positions : Senior Developer (Python / Node.JS / JavaScript)
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior Flutter Developer
+Company : Siam Paragon Development Co., Ltd.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Senior Full Stack Developer (Python, Node.JS, Etc)
-- International Company
-- Agile Environment
+- Flutter/Dart for mobile application (SuperAPP)
+- Building applications in digital platform envi
+- Working place > Hybrid

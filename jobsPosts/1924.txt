@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : Siam Piwat Co., Ltd.
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Front end application architecture
+- Back end website applications
+- Designing and developing APIs

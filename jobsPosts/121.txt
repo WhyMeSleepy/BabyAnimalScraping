@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : SCB TECH X CO., LTD.
-Company Location : กรุงเทพมหานคร
+Job Positions : Programmer
+Company : INNOValues Precision (Thailand) Ltd.
+Company Location : Ayutthaya
 Salary : No Infomation
   skill  
-- Experience in Data Architecture, Data Modeler
-- Have a background in programming skills
-- Hand-on experience in Big Data technology
+- Degree or higher in Computer Engineerin
+- 3-5 year experience in programming
+- 5 days working,Free shuttle bus, Bonus, insurance

@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Ever Medical Technologies Company Limited
-Company Location : ปทุมวัน
+Job Positions : Senior Software Developer (C#)
+Company : Tilleke & Gibbins International Ltd.
+Company Location : Yannawa
 Salary : No Infomation
   skill  
-- Join dynamic team of technology-driven healthcare
-- Build processes supporting data transformation
-- Optimizing ‘Big Data’ pipelines, architecture
+- C#, ASP.Net, VB.NET, VB, Crystal Report, XML
+- RDBMS and Microsoft SQL
+- System Development, Design and Implemenetation

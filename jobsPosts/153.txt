@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- develop & maintain container-based infrastructure
+- Docker and Kubernetes, Cloud platform, AWS or Open
+- Agile Environment

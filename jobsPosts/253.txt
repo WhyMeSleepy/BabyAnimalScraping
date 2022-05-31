@@ -1,0 +1,8 @@
+Job Positions : Front and Back End Developer
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Coding FrontEnd (HTML/CSS not required)
+- Coding BackEnd (RestFul API)
+- System Analysis , SDLC, Project Management, Scrum

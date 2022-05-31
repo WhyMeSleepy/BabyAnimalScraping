@@ -1,4 +1,8 @@
-Job Positions : Senior Full Stack Software Developer - Work from home
-Company : Software Angels Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Engineer
+Company : MC Group Public Company Limited
+Company Location : ประเวศ
 Salary : No Infomation
+  skill  
+- Data Engineer
+- Data Analyst
+- Data Platforms

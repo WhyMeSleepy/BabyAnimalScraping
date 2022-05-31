@@ -1,0 +1,8 @@
+Job Positions : iOS Developer
+Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
+Company Location : ปากเกร็ด
+Salary : No Infomation
+  skill  
+- Bachelor's degree in computer science
+- Skill in swift language
+- 1-2 years of experiences in iOS development

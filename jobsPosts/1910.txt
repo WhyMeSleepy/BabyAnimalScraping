@@ -1,0 +1,8 @@
+Job Positions : Data Modeler
+Company : TMBThanachart Bank or ttb
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Data Architect
+- Design and Maintenance Big Data environment
+- Technical : Data State, Data Model, Big Data

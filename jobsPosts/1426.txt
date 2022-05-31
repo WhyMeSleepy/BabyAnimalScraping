@@ -1,0 +1,8 @@
+Job Positions : Data Engineering Lead
+Company : Central Retail
+Company Location : บางรัก
+Salary : No Infomation
+  skill  
+- data pipeline, ETL, ELT, data transformation
+- Google BigQuery, Spark, Airflow
+- Data Engineer

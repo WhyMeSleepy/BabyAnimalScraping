@@ -1,0 +1,8 @@
+Job Positions : Developer
+Company : ALL NOW LOGISTICS CO., LTD.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- Experience with PHP, .Net, MVC and web service
+- Experience with SQL command and Database
+- Understanding OOP and happy work as project base

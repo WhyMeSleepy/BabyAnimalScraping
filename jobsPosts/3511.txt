@@ -1,0 +1,8 @@
+Job Positions : Programmer/โปรแกรมเมอร์
+Company : Central Retail Corporation Ltd. (Central Hardline Group)
+Company Location : บางพลี
+Salary : No Infomation
+  skill  
+- Programmer
+- C#.NET, VB.NET, ASP.NET, .NET Framework
+- .NET Framework

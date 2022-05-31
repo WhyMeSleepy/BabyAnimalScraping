@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer (Many position)
-Company : Chanwanich Digital Group
-Company Location : บางรัก
+Job Positions : Lead Data Engineer
+Company : Greenline Synergy Co., Ltd.
+Company Location : Suanluang
 Salary : No Infomation
   skill  
-- 3 years of experience in programming
-- 1 Programming Net Core, Angular, React.js, Node.Js
-- Agile methodology
+- Data Engineer Team Lead
+- Data Architecture, Data Lake, Data Warehouse
+- Experience with relational database systems

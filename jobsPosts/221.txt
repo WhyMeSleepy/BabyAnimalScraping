@@ -1,8 +1,8 @@
-Job Positions : Backend Developer
-Company : T.N. INCORPORATION LTD.
-Company Location : สาทร
-Salary : THB 30K - 55K /เดือน 
+Job Positions : Test Engineer
+Company : Kimball Electronics (Thailand) Ltd.
+Company Location : ชลบุรี
+Salary : No Infomation
   skill  
-- FinTech Industry
-- Core Banking System
-- i-Banking Application
+- Bachelor's Degree in Computer / Electronics
+- Good command of both spoken and written in English
+- Experience with Keysight (Agilent) ICT 3070

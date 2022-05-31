@@ -1,0 +1,8 @@
+Job Positions : Senior Software Engineer (Teparuk Plant)
+Company : Seagate Technology (Thailand) Ltd.
+Company Location : เมืองสมุทรปราการ
+Salary : No Infomation
+  skill  
+- C#, C++, Python
+- Framework application, NET, ROS
+- UML diagram knowledge

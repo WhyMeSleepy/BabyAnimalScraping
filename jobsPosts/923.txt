@@ -1,0 +1,8 @@
+Job Positions : Backend Developer (Business Intelligence Team)
+Company : Jet Commerce
+Company Location : ดินแดง
+Salary : No Infomation
+  skill  
+- Strong in Python, Django and at least one RDBMS
+- Excellent with data structure & algorithm concepts
+- Hybrid Workplace

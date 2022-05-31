@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : CIMB Thai Bank
-Company Location : ปทุมวัน
+Job Positions : Data Scientist
+Company : SCB TECH X CO., LTD.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Head Office based in Chidlom area (BTS)
-- Annual Leave 15 Days/year
-- Experiences in databases, query authoring (SQL)
+- Experience in Data Architecture, Data Modeler
+- Have a background in programming skills
+- Hand-on experience in Big Data technology

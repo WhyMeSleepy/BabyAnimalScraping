@@ -1,8 +1,8 @@
-Job Positions : Senior / Lead Software Engineer (C#)
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Data Engineer
+Company : JORAKAY CORPORATION CO., LTD.
+Company Location : Sapan-suang
 Salary : No Infomation
   skill  
-- Work From Home / Hybrid Work
-- Good at English
-- Strong Technical skill in C#.net
+- Data Engineer
+- Data Analytic
+- Statistics

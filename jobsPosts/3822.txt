@@ -1,0 +1,8 @@
+Job Positions : Senior ETL Developer (SSIS) (Renewal Contract)
+Company : Hitachi Vantara (Thailand) Ltd.
+Company Location : ลาดกระบัง
+Salary : No Infomation
+  skill  
+- ETL tool
+- SSIS, SSMS, SSRS, SSAS
+- Business Intelligence

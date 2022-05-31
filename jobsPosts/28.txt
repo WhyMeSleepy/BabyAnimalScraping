@@ -1,8 +1,8 @@
-Job Positions : Data Scientist - Customer Analytics
-Company : Bangkokbank (BBL)
-Company Location : บางรัก
+Job Positions : Campaign Developer (SQL Server/Python)
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Data Scientist Data Mining Statistics
-- Computer Engineering , IT
-- Marketing , Consumer Behavior , CRM Analytics
+- SQL Server, Python,Programer
+- CRM platforms
+- DMP :  Adobe, Salesforce Marketing Cloud, Knowesis

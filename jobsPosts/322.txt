@@ -1,8 +1,8 @@
-Job Positions : Senior Full Stack Developer (Python) Upto 150K
-Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
-Company Location : บางกะปิ
-Salary : THB 120K - 160K /เดือน 
+Job Positions : Senior Software Developer [JAVA]/ Up to 60K/ MRT Thailand Cultural Centre Station
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : Klongtoey
+Salary : No Infomation
   skill  
-- Advanced Python, Django, React.JS
-- CI & Code Review
-- Strong in Web API - Software Architecture
+- Bachelor’s degree in IT or related
+- 2 year experience in programming using C#, NET
+- Knowledge of frameworks for .NET or JAVA

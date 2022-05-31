@@ -1,0 +1,8 @@
+Job Positions : Specialist, Quality Assurance
+Company : 2C2P (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Quality of the deliverable products, Automate test
+- Software automation testing implementation
+- Improvement of overall QA operation

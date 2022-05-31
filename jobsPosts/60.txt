@@ -1,8 +1,8 @@
-Job Positions : Software Developer/ซอฟแวร์ ดีเวลลอปเปอร์
-Company : CP ALL PUBLIC COMPANY LIMITED
-Company Location : ปากเกร็ด
+Job Positions : Full Stack Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : Klongtoey
 Salary : No Infomation
   skill  
-- ปริญญาตรี - ปริญญาโท สาขาสารสนเทศ
-- Angular, PHP , Node js
-- computer science
+- Fresh graduates with a degree in computer science
+- 3 years experience as a full stack engineer
+- Strong understanding of both front-end & back-end

@@ -1,8 +1,8 @@
-Job Positions : Sales strategy & data scientist - VP (Contract 18 months)
-Company : United Overseas Bank (Thai) Public Company Limited (UOB)
-Company Location : Sathorn
-Salary : No Infomation
+Job Positions : Senior DevOps Engineer
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : สาทร
+Salary : THB 90K - 160K /เดือน 
   skill  
-- data analytics
-- Propose strategic and tactical campaigns
-- Sales producti & marketing/tactical campaigns
+- Salary is up to 140,000 THB
+- DevOps/Infrastructure
+- Great working culture

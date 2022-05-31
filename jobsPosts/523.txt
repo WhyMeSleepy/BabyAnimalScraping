@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (ERP project)
-Company : aCommerce Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Software Developer/ซอฟแวร์ ดีเวลลอปเปอร์
+Company : CP ALL PUBLIC COMPANY LIMITED
+Company Location : ปากเกร็ด
 Salary : No Infomation
   skill  
-- E-commerce Industry
-- International Work Environment
-- Options to Work From Home
+- ปริญญาตรี - ปริญญาโท สาขาสารสนเทศ
+- Angular, PHP , Node js
+- computer science

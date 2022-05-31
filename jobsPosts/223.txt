@@ -1,4 +1,8 @@
-Job Positions : Backend Developer  1  position
-Company : LEGIONNEST CO., LTD.
-Company Location : บางนา
-Salary : THB 30K - 55K /เดือน 
+Job Positions : Data Architecture
+Company : KASIKORNBANK PUBLIC COMPANY LIMITED
+Company Location : พญาไท
+Salary : No Infomation
+  skill  
+- Data Architecture
+- Software network design
+- Good english

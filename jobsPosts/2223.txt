@@ -1,0 +1,8 @@
+Job Positions : System Developer
+Company : Bridgestone Sales (Thailand) Co.,Ltd.
+Company Location : บางรัก
+Salary : No Infomation
+  skill  
+- Get requirement from users for system developer
+- Develop solution, unit test plans and investigate
+- At least 3 years in Software Development

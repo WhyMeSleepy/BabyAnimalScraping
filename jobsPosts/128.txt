@@ -1,8 +1,8 @@
-Job Positions : Software Engineer- Full Stack
-Company : SCB TECH X CO., LTD.
-Company Location : จตุจักร
+Job Positions : Full Stack Engineer
+Company : TD Tawandang Co., Ltd.
+Company Location : Sathorn
 Salary : No Infomation
   skill  
-- Designing, developing, and providing SW package
-- 0-5 years of experience in web frontend/backend
-- Hybrid Working Style
+- Angular, RxJs, NgRx, TypeScript
+- experience as a full stack engineer.
+- Kafka or other message queues

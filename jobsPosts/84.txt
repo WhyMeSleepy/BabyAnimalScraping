@@ -1,8 +1,8 @@
-Job Positions : Developer Relations/Developer Advocacy(Junior to Senior Manager)
-Company : SCB TECH X CO., LTD.
-Company Location : Bangkok
-Salary : No Infomation
+Job Positions : Data Engineer
+Company : Extend IT Resource Co., Ltd.
+Company Location : ห้วยขวาง
+Salary : THB 35K - 55K /เดือน 
   skill  
-- Experiment on new ideas and technologies
-- Technology community engagement and growth
-- Hybrid Working
+- Technologies: Elastic Search, Talend or ETL Tool
+- Knowledge in Data Engineer and Big Data
+- Basic Infrastructure (Network, Hardware, Cloud)

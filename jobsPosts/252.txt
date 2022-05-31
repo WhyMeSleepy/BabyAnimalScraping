@@ -1,0 +1,8 @@
+Job Positions : Programmer/โปรแกรมเมอร์
+Company : Project Planning Services Public Company Limited
+Company Location : สวนหลวง
+Salary : THB 55K - 160K /เดือน 
+  skill  
+- Develop Asp.Net Framework WebApplication
+- Develop WebService
+- Develop and Customized Software for Customers

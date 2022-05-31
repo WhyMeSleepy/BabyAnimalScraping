@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Apache Hadoop)
-Company : Bangkok Bank Public Company Limited
-Company Location : ยานนาวา
+Job Positions : | Data Engineer/ETL Developer | /14741/
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : Bangsue
 Salary : No Infomation
   skill  
-- data engineer, apache hadoop
-- big data, etl ,python, spark, hive
-- cloud platform
+- Data Engineer ETL Developer
+- AWS DB Tuning Architect
+- Computer Science Computer Engineering IT ICT

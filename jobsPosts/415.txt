@@ -1,8 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์ (Urgent!)
-Company : V.Mane Fils (Thailand) Co., Ltd.
-Company Location : ลาดกระบัง
+Job Positions : Cloud Infrastructure Architect (AWS)
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- New Graduated are welcome 0 - 5 years
-- Support, maintain and enhance existing application
-- Web Application Software Development.
+- AWS, Cloud Architect, Cloud Infrastructure
+- DevSecOps
+- Certified Cloud Architect

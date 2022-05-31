@@ -1,0 +1,8 @@
+Job Positions : Automate Software Tester (Senior-Specialist)
+Company : Pomelo Fashion Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 120K /เดือน 
+  skill  
+- Automate
+- Javascript
+- Robot framework

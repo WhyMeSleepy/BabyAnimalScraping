@@ -1,0 +1,8 @@
+Job Positions : Senior/Lead iOS Developer - Ascend Commerce
+Company : Ascend Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Proficient with Swift, Objective-C, Dart, and iOS
+- Alamofire, SwifyJson, ObjectMapper, CryptoSwift
+- MVC, MVP, MVVM, BLOC, Clean Swift

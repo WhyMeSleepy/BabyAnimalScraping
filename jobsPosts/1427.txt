@@ -1,0 +1,8 @@
+Job Positions : Risk Model and analytics
+Company : KASIKORNBANK PUBLIC COMPANY LIMITED
+Company Location : พญาไท
+Salary : No Infomation
+  skill  
+- Credit Score / Model validation
+- Risk Model Validation
+- PD, LGD and EAD

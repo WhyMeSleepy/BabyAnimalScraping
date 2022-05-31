@@ -1,8 +1,8 @@
-Job Positions : Data Analyst
-Company : LINE Company (Thailand) Limited
+Job Positions : Data Engineer/Data Engineer
+Company : Siam Paragon Development Co., Ltd.
 Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- 3+ years of experience in relevant fields
-- Experienced in analysis tools - SQL, R, and Python
-- Comfort working with Hadoop Ecosystem
+- Cloud, Python, Java or similar
+- Build data systems and pipelines
+- Hands-on experience with SQL database design

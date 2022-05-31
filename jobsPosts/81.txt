@@ -1,8 +1,8 @@
-Job Positions : IoT Engineer
-Company : Toyo Business Engineering (Thailand) Co., Ltd.
-Company Location : Klongtoey
+Job Positions : MIS & Data Analytics/MIS & Data Analytics
+Company : CP ALL PUBLIC COMPANY LIMITED (Head Quarter)
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Degree in Computer Engineering
-- Experience in utilizing SQL and NoSQL databases.
-- Experience with IoT platform and web-server.
+- Experience with using query languages such as SQL
+- Experience in E-commerce business
+- Customer behavior analysis  is preferable

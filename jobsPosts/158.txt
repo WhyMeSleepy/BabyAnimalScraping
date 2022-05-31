@@ -1,0 +1,8 @@
+Job Positions : Data Scientist
+Company : Bank of Ayudhya Public Company Limited (Ayudhya Capital Auto)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- PL/SQL database and big data Concepts
+- Hadoop, Spark, Hive or Python
+- Data Science

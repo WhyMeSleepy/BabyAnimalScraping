@@ -1,0 +1,8 @@
+Job Positions : System Development : ETL Developer
+Company : Kiatnakin Phatra Bank Public Company Limited
+Company Location : วัฒนา
+Salary : No Infomation
+  skill  
+- Minimum 2 years of experience in ETL Developer
+- Expertise in SQL, PL/SQL,Database Administrator
+- Knowledge of programming (JAVA, Python and XML)

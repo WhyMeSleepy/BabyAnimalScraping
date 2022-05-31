@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : FWD Life Public Company Limited
-Company Location : กรุงเทพมหานคร
+Job Positions : Junior/Senior Software Engineer (Golang) - Ascend Wealth
+Company : Ascend Group Co., Ltd.
+Company Location : Prakanong
 Salary : No Infomation
   skill  
-- 5-7 years of experience in Hadoop technologies
-- Design and develop scripting on best practices
-- Developing and maintain Big data platform
+- Develop and maintain microservice applications
+- Agile engineering and test-driven development
+- Flexible working hour/ high performance culture

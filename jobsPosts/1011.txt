@@ -1,0 +1,8 @@
+Job Positions : Software Developer/นักพัฒนาซอฟต์แวร์
+Company : Absolute Management Solutions Co., Ltd.
+Company Location : บางแค
+Salary : No Infomation
+  skill  
+- 1 years of experience
+- full-stack software developer
+- Flutter, Angular, Nodejs, and/or MongoDB, IoT

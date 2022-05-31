@@ -1,0 +1,8 @@
+Job Positions : Lead Quality Assurance/ QA (Automation test)/ QA (Front-end)
+Company : True Digital Group Co., Ltd.
+Company Location : พระโขนง
+Salary : No Infomation
+  skill  
+- Proven working experience in Software Testing
+- Experiences in test automation i.e., Junit, OCUnit
+- Ability to identify and escalate issues

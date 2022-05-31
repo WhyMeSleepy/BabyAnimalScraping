@@ -1,8 +1,4 @@
-Job Positions : Data Scientist
-Company : Central JD Fintech Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Visualization and Information Management Officer
+Company : COAR GLOBAL LIMITED
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Proficient in SQL and Python/R/Spark
-- Hands on experiences using visual analytics tool
-- Develop quantitative models for estimation

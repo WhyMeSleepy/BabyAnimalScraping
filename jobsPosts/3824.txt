@@ -1,0 +1,8 @@
+Job Positions : Automated Tester
+Company : Charoen Pokphand Foods Public Company Limited
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Automated Tester
+- Robot Framework, Selenium
+- Appium, Cypress

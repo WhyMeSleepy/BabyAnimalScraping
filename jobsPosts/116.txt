@@ -1,8 +1,8 @@
-Job Positions : Data Scientist/Analyst
-Company : Central Retail Corporation (CRC Talent Acquisition)
-Company Location : ปทุมวัน
+Job Positions : Software Developer/ Programmer
+Company : Krungthai Panich Insurance Public Company Limited
+Company Location : ราชเทวี
 Salary : No Infomation
   skill  
-- Strong SQL, Python, Excel, and Tableau
-- Outstanding analytical skills
-- Proficient in English
+- Insurance,Banking
+- Python, Flask/Django Framework
+- Java, HTML5

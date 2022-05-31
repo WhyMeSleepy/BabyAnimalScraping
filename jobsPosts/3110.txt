@@ -1,0 +1,8 @@
+Job Positions : Development Team Lead, Solution Implementation
+Company : WHA Group
+Company Location : บางพลี
+Salary : No Infomation
+  skill  
+- 5 years' experience in full-stack development
+- Exp with software architecture: microservices,PaaS
+- Agile&Test Driven Development(TDD) methodologies

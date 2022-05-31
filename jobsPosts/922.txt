@@ -1,0 +1,8 @@
+Job Positions : Software Engineer
+Company : SRISAWAD POWER 2014 CO., LTD.
+Company Location : หลักสี่
+Salary : No Infomation
+  skill  
+- CI/CD deployments on a Docker  based platform
+- JAVA ,J2EE, PHP,  Angular JS, React JS etc
+- 7 or more years of relevant work experience.

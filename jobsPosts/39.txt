@@ -1,4 +1,8 @@
-Job Positions : Back-End / Full Stack Developer (Senior Level/Team Lead) - Python  (65K-85K)
-Company : Triple Dot Consulting Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 55K - 90K /เดือน 
+Job Positions : Back-End Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- Fresh graduates with a degree in computer science
+- 3 years experience in backend development
+- Go, Java, and Python and Kotlin

@@ -1,4 +1,8 @@
-Job Positions : Backend Python Django developer/Backend Python Django developer
-Company : Mind AI Thailand
-Company Location : ปทุมวัน
-Salary : THB 70K - 120K /เดือน 
+Job Positions : System Engineer/AI Engineer (Chatbot)
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- Exp in Chatbot System Engineer, Contact Center
+- Social media conversation channel interface
+- Machine Learning, Python, AWS

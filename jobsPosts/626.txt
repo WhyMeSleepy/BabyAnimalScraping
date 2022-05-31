@@ -1,4 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : Sammakorn Public Company Limited
-Company Location : พญาไท
+Job Positions : Back-end Developer (Golang)
+Company : TRIDEPT COMPANY LIMITED
+Company Location : Wattana
 Salary : No Infomation
+  skill  
+- At least 2 years experience with Go (GoLang)
+- Experience in E-Commerce
+- Understanding of code versioning tools,such as Git

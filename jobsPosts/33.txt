@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Backend) - Middle to Senior level - Commercial Platform
-Company : ttb spark - TMBThanachart Bank or ttb
-Company Location : จตุจักร
+Job Positions : Data Engineer
+Company : CIMB Thai Bank
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Node.js, Python, Java, Go, C, .NET
-- Flask, Spring Boot, Express
-- MySQL, Postgresql, Oracle, MongoDB
+- Head Office based in Chidlom area (BTS)
+- Annual Leave 15 Days/year
+- Experiences in databases, query authoring (SQL)

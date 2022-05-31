@@ -1,0 +1,8 @@
+Job Positions : System Engineer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- 2-3 Yrs Experiences/Above as System Engineer
+- Instal, Configure, Troubleshoot Windows/Etc
+- Scripting: Shell Scripts, Perl, Ruby, Python

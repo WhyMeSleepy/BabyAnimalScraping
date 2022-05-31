@@ -1,0 +1,8 @@
+Job Positions : Data Engineer & Management/ฝ่ายจัดการและวิเคราะห์ข้อมูลตลาดทุน (สายงานจัดการข้อมูล)
+Company : สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (ก.ล.ต.)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Data Management, ออกแบบโครงสร้างข้อมูลเชิงธุรกิจ
+- วุฒิการศึกษาระดับปริญญาตรีขึ้นไป สาขา Computer
+- สร้าง Data Schema / เขียน Store Procedure/Function

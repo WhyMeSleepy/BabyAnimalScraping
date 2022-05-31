@@ -1,8 +1,8 @@
-Job Positions : ผู้จัดการฝ่าย Data Development
-Company : CP ALL PUBLIC COMPANY LIMITED
-Company Location : บางรัก
+Job Positions : Golang Developer
+Company : PRTR
+Company Location : Bangkok
 Salary : No Infomation
   skill  
-- ประสบการณ์ 5 ปีขึ้นไปในด้านการบริหารจัดการข้อมูล
-- สามารถเขียนโปรแกรม / Python / SQL / IT Structure
-- Data Scientist / Data Engineer
+- Golang Developer / Lead Golang Developer
+- Attractive Salary Package
+- Cutting Edge Technology

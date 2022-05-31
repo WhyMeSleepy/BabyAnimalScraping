@@ -1,0 +1,8 @@
+Job Positions : QA Automation (Innovation team)
+Company : Krungsri Consumer
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Strong in Robot framework for software testing
+- Good knowledge of backend Platform Architectures
+- Work location at Krungsri Ploenchit Office

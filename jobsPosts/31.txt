@@ -1,4 +1,8 @@
-Job Positions : Senior Software Developer
-Company : Demeter ICT Co., Ltd.
-Company Location : สาทร
+Job Positions : Senior Python Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
+  skill  
+- Senior Python Developer
+- Machine Learning
+- Artificial Intelligence

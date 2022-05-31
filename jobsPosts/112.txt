@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Bangkok Industrial Gas Co., Ltd.
-Company Location : สาทร
+Job Positions : Remote / Phuket / Bangkok - Senior Laravel, React and Full Stack Developers
+Company : WebQuest Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Data Architecture/ Data Engineer/ Data Science
-- data mining,data lake,SQL server
-- Python, Java, R Code, C#, Scala, Hadoop and Spark

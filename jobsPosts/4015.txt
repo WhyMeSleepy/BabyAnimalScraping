@@ -1,0 +1,8 @@
+Job Positions : Software Quality Assurance Engineer-Automate (Up to 150k)
+Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Robot Framework, Selenium, Appium, Postman
+- Coding using JAVASCRIPT, HTML5, JSON
+- Experience in Performance and Load Test

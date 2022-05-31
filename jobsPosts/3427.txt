@@ -1,0 +1,8 @@
+Job Positions : Economist
+Company : KASIKORNBANK PUBLIC COMPANY LIMITED
+Company Location : ราษฎร์บูรณะ
+Salary : No Infomation
+  skill  
+- Economist
+- Stress test
+- Python

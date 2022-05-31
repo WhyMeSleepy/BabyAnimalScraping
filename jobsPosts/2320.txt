@@ -1,0 +1,8 @@
+Job Positions : Solutions Architect  - TrueMoney Wallet
+Company : Ascend Group Co., Ltd.
+Company Location : พระโขนง
+Salary : No Infomation
+  skill  
+- Defining, apply & enforcing architecture standard
+- distributed architectures, SOA, microservices
+- Agile and Test Driven Development

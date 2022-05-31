@@ -1,8 +1,8 @@
-Job Positions : Software Developer (Backend)
-Company : Skillpower Services (Thailand) Co., Ltd.
-Company Location : ดินแดง
+Job Positions : Manager, Data Science
+Company : dtac
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Python, Golang, NoSQL, API Development
-- MRT Rama9
-- 1-3 years experience
+- Perform large-scale data analysis
+- Develop effective machine learning, MRT Sam Yan
+- Allowance, Flexible working hrs, Work from home

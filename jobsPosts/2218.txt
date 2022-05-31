@@ -1,0 +1,8 @@
+Job Positions : Regional Head of Data & BI
+Company : Heroleads (Thailand) Co., Ltd.
+Company Location : วัฒนา
+Salary : No Infomation
+  skill  
+- Experience with data warehousing and managing
+- SQL, NOSQL, Apache Airflow, Apache Spark,
+- Apache Kafka, MongoDB, Mysql, Postgres.

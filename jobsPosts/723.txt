@@ -1,8 +1,4 @@
-Job Positions : Data Engineer (Thai and Foreign)
-Company : Ancor Thailand
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Relocation package
-- Health insurance
-- Work from home
+Job Positions : Thai AIOps (CAI Implementation) Engineer
+Company : Mind AI Thailand
+Company Location : ปทุมวัน
+Salary : THB 30K - 45K /เดือน 

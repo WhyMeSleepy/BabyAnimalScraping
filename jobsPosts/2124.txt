@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer (Mobile Application)
+Company : Bangkok Bank Public Company Limited
+Company Location : Bangrak
+Salary : No Infomation
+  skill  
+- cloud services (Azure , AWS , etc.)
+- automation CI/CD tools (Jenkins , Ansible
+- docker and container orchestration

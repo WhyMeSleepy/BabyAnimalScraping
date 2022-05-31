@@ -1,0 +1,8 @@
+Job Positions : Java Development Lead (Ascend Nano)
+Company : Ascend Group Co., Ltd.
+Company Location : ดินแดง
+Salary : No Infomation
+  skill  
+- Java 8-9, Spring Boot, Spring Cloud, NetflixO
+- CI/CD deployments on a Kubernetes based platform
+- Agile and Test Driven Development (TDD)

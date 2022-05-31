@@ -1,8 +1,8 @@
-Job Positions : Associate Data Engineer (Open to Fresh Graduate)
-Company : aCommerce Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Data Analyst
+Company : Coforge Limited
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Options to work remotely
-- AWS cloud environment
-- Big Data System
+- Data Analyst, Permanent job
+- Minimum of 3-year experience as Data Analyst
+- Fixed Bonus+ Provident Fund + Social Security

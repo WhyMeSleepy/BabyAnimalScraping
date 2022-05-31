@@ -1,0 +1,8 @@
+Job Positions : Automate QA Lead
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
+Salary : มากกว่า THB 90K /เดือน 
+  skill  
+- Automate test, Test script, test case
+- Robot framework, Selenium, Cypress
+- Cucumber, CI/CD, Cloud

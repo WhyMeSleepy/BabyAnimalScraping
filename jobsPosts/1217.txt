@@ -1,0 +1,8 @@
+Job Positions : Software Engineer  Backend Developer (Digital Banking)
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : Jatuchak
+Salary : No Infomation
+  skill  
+- Backend developer
+- JavaScript (Node.js), Java, Python, Go, etc
+- Familiarity with API development

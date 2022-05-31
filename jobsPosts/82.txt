@@ -1,4 +1,8 @@
-Job Positions : Software Engineer
-Company : JIBSOFT Co., Ltd.
-Company Location : Bangkok
+Job Positions : Support Programmer
+Company : SHIPPOP CO., LTD.
+Company Location : พญาไท
 Salary : No Infomation
+  skill  
+- analyze issues related program fault
+- collaborate with others teams and developer team
+- Javascript , php, nodejs ,sql,html

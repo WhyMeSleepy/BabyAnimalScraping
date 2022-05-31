@@ -1,8 +1,4 @@
-Job Positions : AI Specialist
-Company : Prudential Life Assurance (Thailand) Public Company Limited
-Company Location : ปทุมวัน
+Job Positions : Platform Analytic Manager ( GMM Stream )
+Company : GMM Grammy Public Company Limited
+Company Location : วัฒนา
 Salary : No Infomation
-  skill  
-- Level – Middle (open fresh graduated)
-- Recognised qualifications in a core quantitative
-- Hands-on, real world machine learning experience

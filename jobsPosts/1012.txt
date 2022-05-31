@@ -1,0 +1,8 @@
+Job Positions : Data Infrastructure Engineer (Data Reliability Engineer) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Data Infrastructure, Data Reliability
+- Incident support, incident analysis
+- SQL, Python, cloud, Big Data

@@ -1,8 +1,8 @@
-Job Positions : Back-End Engineers
-Company : Arise by Infinitas Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Data Scientist (VP level)
+Company : CIMB Thai Bank
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Fresh graduates with a degree in computer science
-- 3 years experience in backend development
-- Go, Java, and Python and Kotlin
+- Head Office based in Chidlom area (BTS)
+- Annual Leave start from 17 Days/year
+- Experience using statistical computer languages

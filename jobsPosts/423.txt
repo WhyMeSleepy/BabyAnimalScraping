@@ -1,8 +1,4 @@
-Job Positions : Backend Developer (Java, C#, NodeJs, Go or Python)  - Mid to Lead - 150,000 THB
-Company : RDA GROUP RECRUITMENT LTD.
-Company Location : กรุงเทพมหานคร
-Salary : THB 55K - 160K /เดือน 
-  skill  
-- Minimum 3 years of experience with Developer role
-- Java, NodeJs, Golang, C#, or Python
-- Experience in cloud platform is a plus
+Job Positions : Data Analytics Senior Associate
+Company : PwC
+Company Location : จังหวัดอื่นๆ
+Salary : No Infomation

@@ -1,0 +1,8 @@
+Job Positions : Unity Developer
+Company : Adecco Recruitment (Thailand) Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Developing Interactive Software such as AR,VR,Game
+- understanding of Unity and Unity3D
+- Experience coding a program in C# Java

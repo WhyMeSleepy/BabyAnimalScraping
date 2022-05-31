@@ -1,0 +1,8 @@
+Job Positions : Senior Software Engineer Full-Stack Developer
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Full stack developer
+- JavaScript, Java, and Python
+- Git, Docker, and Jenkins

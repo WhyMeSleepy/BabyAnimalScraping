@@ -1,8 +1,8 @@
-Job Positions : Senior Python Developer (Expert Level)
-Company : PRTR
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Data Analyst
+Company : Aksorn Charoentat Act Co., Ltd.
+Company Location : Pranakorn
+Salary : THB 45K - 70K /month 
   skill  
-- Senior Python Developer (Expert Level)
-- International Environment
-- Agile Methodology
+- มีประสบการณ์การใช้ Database Management System Tool
+- มีประสบการณ์การใช้ BI Tools
+- Python (optional)

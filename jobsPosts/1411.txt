@@ -1,0 +1,8 @@
+Job Positions : Software Developer (Team Lead)
+Company : Ancor Thailand
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Lead, train and supervise the team of developers
+- Write and run test cases, automated test cases
+- Design and manage infrastructure (GCP, AWS)

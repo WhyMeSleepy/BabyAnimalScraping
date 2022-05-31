@@ -1,8 +1,8 @@
-Job Positions : Senior Learning Data Analyst
-Company : Learn Corporation Public Company Limited
-Company Location : ปทุมวัน
+Job Positions : Business and Technical Analyst
+Company : Purple Ventures Company Limited
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- 1-2 years of work experience as a data analyst
-- experience in handling large data sets
-- Structured problem solver ability with excellent
+- Bachelor or Master’s Degree in Computer Science
+- 5+ years of experience in Full-Stack Developer
+- Design and development of business solutions

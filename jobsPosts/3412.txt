@@ -1,0 +1,8 @@
+Job Positions : Mobile Application
+Company : Nemera International Co., Ltd.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- Developer Mobile App & API Gateway, Flutter
+- Developer Python, Node Jis, VueJs
+- Mobile Application & Application Gateway Developer

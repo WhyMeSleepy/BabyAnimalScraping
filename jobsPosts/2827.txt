@@ -1,0 +1,8 @@
+Job Positions : Software Engineer (Mobile Banking DevEx Engineering)
+Company : Bangkokbank (BBL)
+Company Location : บางรัก
+Salary : No Infomation
+  skill  
+- programming languages:Javascript, C#, Java,Python
+- frontend web applications and mobile apps
+- DevOps principle ,test automation frameworks

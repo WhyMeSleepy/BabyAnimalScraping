@@ -1,4 +1,8 @@
-Job Positions : Full Stack Software Developers (C#, Angular - multiple positions)
-Company : Quantium Technology Co., Ltd.
-Company Location : พระโขนง
-Salary : THB 45K - 90K /เดือน 
+Job Positions : Sr. Programmer / System Analyst
+Company : Fabrinet Co., Ltd.
+Company Location : คลองหลวง
+Salary : No Infomation
+  skill  
+- System Analysis
+- Web Application Developer
+- Coding and developing software applications

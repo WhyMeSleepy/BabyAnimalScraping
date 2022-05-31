@@ -1,0 +1,8 @@
+Job Positions : Full stack Developer
+Company : Nexus System Resources Co., Ltd.
+Company Location : สวนหลวง
+Salary : No Infomation
+  skill  
+- Full Stack Developer,  Back-end
+- Net Stack: C#/.NET Framework/.NET Core, OOPS
+- MS SQL Server, DB2 and noSQL(Mongo)

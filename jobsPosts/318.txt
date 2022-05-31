@@ -1,8 +1,8 @@
-Job Positions : Lead Software Engineer (JavaScript / TypeScript)
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : FULL STACK DEVELOPER / JAVA DEVELOPER/นักพัฒนาซอฟแวร์
+Company : JPWALL Consulting Partners (Thailand) Co., Ltd.
+Company Location : หลักสี่
 Salary : No Infomation
   skill  
-- 7+ years in Full Stack, modern Desktop/Web techno
-- JavaScript, TypeScript, Node.js
-- AWS modern services
+- 100% Agile/Scrum development process.
+- Always new innovation technology and methodology.
+- Product development not Project development.

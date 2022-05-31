@@ -1,0 +1,8 @@
+Job Positions : Support Engineer (PACO)
+Company : Ericsson (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- 5GC
+- Openstack e.g. CEE(Ericsson),RHOS & EPC
+- PACO Products SGSN-MME/PGW/SGW/PCRF

@@ -1,4 +1,8 @@
-Job Positions : Junior/ Senior Application Developer / Software Developer
-Company : ACCELLENCE (THAILAND)  LIMITED
-Company Location : พญาไท
+Job Positions : Full Stack Developer (Many position)
+Company : Chanwanich Digital Group
+Company Location : Bangrak
 Salary : No Infomation
+  skill  
+- 3 years of experience in programming
+- 1 Programming Net Core, Angular, React.js, Node.Js
+- Agile methodology

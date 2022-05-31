@@ -1,0 +1,8 @@
+Job Positions : IT Application Development (Manager - AVP)
+Company : Bank of Ayudhya Public Company Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Bachelor’s degree (B.S.) in Computer Science
+- 5 years programming experience in .NET MVC
+- Familiarity with Visual Studio 2015

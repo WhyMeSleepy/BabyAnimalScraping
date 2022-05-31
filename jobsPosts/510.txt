@@ -1,8 +1,8 @@
-Job Positions : Sr. Programmer / System Analyst
-Company : Fabrinet Co., Ltd.
-Company Location : คลองหลวง
+Job Positions : Data Scientist / Data Engineer- ttb analytics
+Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- System Analysis
-- Web Application Developer
-- Coding and developing software applications
+- Python, R, Tableau, SQL
+- Execute on BUs/SUs analytics problems
+- Employs appropriate algorithm to discover patterns

@@ -1,8 +1,4 @@
-Job Positions : Data Engineer (Manager/Senior Manager)
-Company : ABeam Consulting (Thailand) Ltd.
-Company Location : สาทร
+Job Positions : Senior CRM Promotion Manager
+Company : CENTRAL GROUP
+Company Location : ปากเกร็ด
 Salary : No Infomation
-  skill  
-- AWS Glue, Redshift, S3
-- Data Management
-- IT Implementation

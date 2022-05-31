@@ -1,0 +1,8 @@
+Job Positions : iOS Developer
+Company : TOYOTA K.MOTORS TOYOTA'S DEALER CO., LTD.
+Company Location : วัฒนา
+Salary : THB 30K - 45K /เดือน 
+  skill  
+- มีประสบการณ์ในการพัฒนา iOS Application 1-2 ปี
+- สามมารถใช้ Objective-C และ Swift ได้ดี
+- มีความรู้ความเข้าใจ REST API Node JS  AJAX  PY

@@ -1,8 +1,4 @@
-Job Positions : Data Scientist
-Company : True Corporation Public Company Limited
-Company Location : ห้วยขวาง
-Salary : No Infomation
-  skill  
-- Customer Lifecycle Management
-- Machine Learning
-- Big data
+Job Positions : Software Developer (Kotlin,Java Spring Boot,Golang,.Net Core )
+Company : THE CONSULTANT CO., LTD.
+Company Location : Klongtoey
+Salary : THB 30K - 70K /month 

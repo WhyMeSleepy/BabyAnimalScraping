@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Ocean Life Insurance Public Company Limited
-Company Location : คลองเตย
+Job Positions : IT Developer
+Company : One Asset Management Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
-  skill  
-- Data engineer
-- BI
-- ETL/ELT Too

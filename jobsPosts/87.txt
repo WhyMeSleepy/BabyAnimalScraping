@@ -1,8 +1,8 @@
-Job Positions : Data Operation Specialist (Backend)
-Company : Ascend Group Co., Ltd.
-Company Location : Prakanong
+Job Positions : Software Engineer (Flutter/Go/Blockchain)/วิศวกรรมซอฟต์แวร์ (Flutter/Go/Blockchain)
+Company : Hugeman Consultant  Co.,Ltd.
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- Experience in Software Development
-- Cloud-based platforms such as AWS, Google Cloud
-- Kubernetes, Docker, and system architect
+- Min 3 years of experience in software development
+- Competitive salary and benefits
+- Amazing culture supporting your growth and ideas

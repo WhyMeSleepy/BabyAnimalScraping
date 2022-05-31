@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer (Golang / VueJS)
+Company : LINE Company (Thailand) Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- 3+ Years of Experience in Software Development
+- Experience in Golang and Vue.js
+- Good Practice in Software Design

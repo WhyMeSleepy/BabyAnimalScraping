@@ -1,4 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : Yakult Sales (Bangkok) Co., Ltd.
-Company Location : Phayathai
+Job Positions : Data Operation Specialist (Backend)
+Company : Ascend Group Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
+  skill  
+- Experience in Software Development
+- Cloud-based platforms such as AWS, Google Cloud
+- Kubernetes, Docker, and system architect

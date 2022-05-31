@@ -1,0 +1,8 @@
+Job Positions : MIS Supervisor/หัวหน้าแผนกสารสนเทศ
+Company : Thai Stainless Steel Co., Ltd.
+Company Location : Wattana
+Salary : No Infomation
+  skill  
+- Website
+- Database, MySQL, MSSQL, PHP, HTML, CSS, JavaScrip
+- API

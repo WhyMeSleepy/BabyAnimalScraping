@@ -1,0 +1,8 @@
+Job Positions : Senior Software Engineer (Full Stack)
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : THB 55K - 120K /เดือน 
+  skill  
+- experience in React.js (Next.js) or Node.js (Nest.
+- 5+ years of experience in software development
+- Experienced with Git and Agile methodologies

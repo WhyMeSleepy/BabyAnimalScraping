@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer
+Company : MFEC Public Company Limited
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- CI/CD
+- Linux shell script
+- Positive environment

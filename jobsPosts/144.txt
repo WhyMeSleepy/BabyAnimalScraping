@@ -1,0 +1,8 @@
+Job Positions : Embeded System Engineer
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Embeded System Engineer
+- motion control, power management
+- embedded Linux board

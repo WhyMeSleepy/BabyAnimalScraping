@@ -1,8 +1,8 @@
-Job Positions : Lead Software Engineer (Javascript,Python)/Lead Software Engineer (Javascript,Python)
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Data Engineer
+Company : Coraline Co.,Ltd
+Company Location : ธนบุรี
 Salary : No Infomation
   skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Automated test and Workflow development
+- Develop ETL processes
+- Understanding Data Lake, Data Warehouse, Data Mart
+- Experience in Big Data technologies

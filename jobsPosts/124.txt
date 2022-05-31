@@ -1,8 +1,8 @@
-Job Positions : Data Scientist - Ascend Commerce
-Company : Ascend Group Co., Ltd.
-Company Location : บางนา
-Salary : No Infomation
+Job Positions : Senior Data Engineer
+Company : Adastra (Thailand) Co., Ltd.
+Company Location : Bangkok
+Salary : THB 45K - 120K /month 
   skill  
-- SQL, SAS, Python, Spark, R, VBA, Python Dash
-- Experienced in working with analytics tools
-- statistical analysis/ and data management
+- at least 5 years of experience
+- 100%Flexible Working Hours & Remote Work Allowance
+- Salary = 50,000 – 130,000 THB (Negotiable)

@@ -1,0 +1,8 @@
+Job Positions : Senior DevOps Engineer
+Company : Central Group
+Company Location : Rajthevee
+Salary : No Infomation
+  skill  
+- Experience in DevOps
+- Experience working with AWS infrastructure
+- Experience working with Jenkins, Kubernetes

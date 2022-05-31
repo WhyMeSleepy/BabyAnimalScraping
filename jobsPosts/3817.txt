@@ -1,0 +1,8 @@
+Job Positions : Control Systems Engineer (Graduate Level)
+Company : Siemens
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Design and engineer system configuration
+- Assemble and configure hardware components
+- Verification of OCS designs

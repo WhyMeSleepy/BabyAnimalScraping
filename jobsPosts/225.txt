@@ -1,8 +1,8 @@
-Job Positions : Data Engineer/Senior Data Engineer
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
+Job Positions : Assistant Data Warehouse Development Manager
+Company : Ananda Development Public Company Limited
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Exp. in data warehouse development & architecture
-- SQL,PL/SQL,Unix shell scripting,Perl,Spark,Python
-- Experience in Big Data platform
+- data warehouse
+- Data Science
+- visualization relational Power BI

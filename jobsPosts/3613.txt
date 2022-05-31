@@ -1,0 +1,8 @@
+Job Positions : Manufacturing Automation Engineer / Automation Engineer
+Company : Kimball Electronics (Thailand) Ltd.
+Company Location : ชลบุรี
+Salary : No Infomation
+  skill  
+- Bachelor's Degree in Engineering
+- >2 years experiences in automation and robot
+- Knowledge of Python, LabView, VB, C/C++

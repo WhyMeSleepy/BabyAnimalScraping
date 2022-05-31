@@ -1,8 +1,8 @@
-Job Positions : Data Operations Engineer (Data Ops Team) - DataX
-Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
-Company Location : จตุจักร
+Job Positions : Data Engineer (Apache Hadoop)
+Company : Bangkok Bank Public Company Limited
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- data operations
-- data management processes
-- SQL, Python, Azure
+- data engineer, apache hadoop
+- big data, etl ,python, spark, hive
+- cloud platform

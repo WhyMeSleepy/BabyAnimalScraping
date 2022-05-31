@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer (Senior Associate)
-Company : DBS Vickers Securities (Thailand) Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Back-end Developer
+Company : PTG Energy Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Senior Software Developer
-- Knowledge with JavaScript frameworks and libraries
-- Proficiency with server-side languages
+- Golang
+- NodeJS
+- JavaScript

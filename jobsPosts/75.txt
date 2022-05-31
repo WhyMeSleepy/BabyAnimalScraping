@@ -1,8 +1,8 @@
-Job Positions : Manager, Data Science
-Company : dtac
-Company Location : ปทุมวัน
+Job Positions : Software Developer [Job ID:62503]
+Company : Reeracoen Recruitment Co.,Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Perform large-scale data analysis
-- Develop effective machine learning, MRT Sam Yan
-- Allowance, Flexible working hrs, Work from home
+- 1 year working experience as a software developer
+- Visual Studio C#, PHP, Java and PL/SQL
+- Salary 30-55k

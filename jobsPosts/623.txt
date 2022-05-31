@@ -1,4 +1,8 @@
-Job Positions : Software Engineer
-Company : IT Creation Co., Ltd.
-Company Location : จตุจักร
-Salary : THB 25K - 35K /เดือน 
+Job Positions : Software Engineer (Engine Control)
+Company : บริษัท ทรานสตรอน (ไทยแลนด์) จำกัด/TRANSTRON (THAILAND) CO.,LTD.
+Company Location : Huaykwang
+Salary : THB 20K - 25K /month 
+  skill  
+- Embedded software development
+- C Programming
+- Model-Based Development

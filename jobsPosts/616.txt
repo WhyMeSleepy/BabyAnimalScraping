@@ -1,8 +1,8 @@
-Job Positions : Machine Learning Engineer/วิศวกรด้านแมชชีนเลิร์นนิง
-Company : AIGEN CO., LTD.
-Company Location : ห้วยขวาง
-Salary : THB 45K - 120K /เดือน 
+Job Positions : Sr. specialist – Oracle Developer (PL/SQL)
+Company : Allianz Ayudhya Assurance Public Company Limited
+Company Location : Pathumwan
+Salary : No Infomation
   skill  
-- 3-5 yrs experience in machine/deep learning
-- Bachelor Degree. Experience in NLP, machine vision
-- Flexible hrs., WFH, Health Insurance
+- At least 3 years experiences in Oracle Form Report
+- At least 3 years experiences in PL/SQL
+- Can do both developer & team’s management role

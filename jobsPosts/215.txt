@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Bangkok Based)
-Company : Primo World Co., Ltd.
-Company Location : บางรัก
+Job Positions : Data Analyst
+Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
+Company Location : Prakket
 Salary : No Infomation
   skill  
-- Data ETL and data migration works
-- Incidence management and root cause analysis
-- AWS Cloud Infrastructure
+- Sales Management
+- Fast Growing Company
+- Flat organization with modern culture

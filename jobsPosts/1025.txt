@@ -1,0 +1,8 @@
+Job Positions : Full-Stack Developer [Jr. / Sr. level]
+Company : Wisdom Vast Company Limited
+Company Location : ปริมณฑล-นนทบุรี
+Salary : No Infomation
+  skill  
+- Jr. Level: 2Yrs+ in Front-End or Back-End Coding
+- Sr. Level: 5Yrs+ in full-stack programming
+- JAVA, Go Lang, Node.JS, Vue.JS, React.JS

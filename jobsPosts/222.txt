@@ -1,8 +1,8 @@
-Job Positions : Software/ Sr. Software Developer (Cloud-base server and Web application)
-Company : Transtron (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : Senior Programmer/เจ้าหน้าที่พัฒนาโปรแกรมอาวุโส
+Company : Honda Leasing (Thailand) Co., Ltd.
+Company Location : บางนา
 Salary : No Infomation
   skill  
-- Develop Software for Cloud-base andWeb application
-- database, and smartphone development tool/platform
-- C/C++, C#, JAVA, HTML, CSS.
+- Senior Programmer
+- Angular JS, Node JS, React, Vue JS, Git, Docker
+- Microservice Architect, GitHub, Jenkins, Elasticse

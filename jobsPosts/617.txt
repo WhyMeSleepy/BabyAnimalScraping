@@ -1,8 +1,8 @@
 Job Positions : Data Engineer
-Company : Krungsri Consumer
-Company Location : ปทุมวัน
+Company : SCG Cement-Building Materials Co., Ltd.
+Company Location : Bangsue
 Salary : No Infomation
   skill  
-- Cloudera, Hortonworks, Hive, Hadoop, Spark
-- Good remuneration package and career growth
-- Work Location: KSPT Building, BTS Ploenchit Exit 5
+- Develop data ingestion & data operationalization
+- Support and Implement Data Governance processes
+- Work with internal users in Digital Office

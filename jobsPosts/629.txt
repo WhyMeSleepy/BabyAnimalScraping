@@ -1,8 +1,8 @@
-Job Positions : Quantitative Researcher Senior Manager
-Company : Argyll Scott Asia
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Engineer
+Company : Arise by Infinitas Co., Ltd.
+Company Location : Klongtoey
 Salary : No Infomation
   skill  
-- machine learning; Software Engineer
-- Financial Market Data
-- Quantitative Research; Python
+- Building systems collect, manage, and convert data
+- Develop data models for analytics
+- Make data accessible so that organizations can use

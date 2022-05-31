@@ -1,0 +1,8 @@
+Job Positions : Programmer Analyst
+Company : PTG Energy Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- สามารถเขียนภาษโปรแกรม C#.Net หรือ Java
+- มีความรู้และเคยใช้ฐานข้อมูล MSSQL หรือ Oracle
+- สามารถเขียน Web Service และใช้งาน SOAP

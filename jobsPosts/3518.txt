@@ -1,0 +1,8 @@
+Job Positions : Solution Architect (Java/Golang 150K)
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
+Salary : THB 90K - 160K /เดือน 
+  skill  
+- Java Spring Boot, Golang, Design Solution
+- Design Pattern, Domain context
+- Domain Boundar

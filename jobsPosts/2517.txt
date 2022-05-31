@@ -1,0 +1,8 @@
+Job Positions : API Developer (Innovation team)
+Company : Krungsri Consumer
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Experiences in Java, API development
+- Experiences in Spring framework, database, Linux
+- Work location at Krungsri Ploenchit Office

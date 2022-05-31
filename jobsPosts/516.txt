@@ -1,8 +1,8 @@
-Job Positions : IoT Engineer (25K-50K) (SDG-76371)/วิศวกร IoT
-Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Data Engineer
+Company : Bangkok Smartcard System Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Opportunity for improving your skill
-- Working experience as IT engineer more than 1 year
-- Programming ERP system
+- Data analytics techniques, Data integration
+- Working within a fast growing team
+- Competitive salary with high benefits

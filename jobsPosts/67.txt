@@ -1,4 +1,8 @@
-Job Positions : DevOps Engineer/Dev/Ops
-Company : Lightnet (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
-Salary : No Infomation
+Job Positions : Junior Data Engineer
+Company : Coforge Limited
+Company Location : Bangsue
+Salary : THB 25K - 35K /month 
+  skill  
+- Data Engineer 1-3 years of experience
+- Data Warehouse/ Data science for enterprise
+- Fixed Bonus, Life/Health Insurance, PVD,

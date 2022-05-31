@@ -1,0 +1,8 @@
+Job Positions : Data Analyst/นักวิเคราะห์ระบบข้อมูล (Data Analyst, BI)
+Company : Hi-Tech Apparel Co., Ltd.
+Company Location : ทุ่งครุ
+Salary : No Infomation
+  skill  
+- SQL, Reporting
+- python
+- C#

@@ -1,8 +1,8 @@
-Job Positions : Software Developer
-Company : Mu Space and Advanced Technology Co., Ltd.
-Company Location : พญาไท
-Salary : No Infomation
+Job Positions : Senior System Engineer
+Company : ReadyPlanet Co., Ltd.
+Company Location : บางกะปิ
+Salary : THB 45K - 55K /เดือน 
   skill  
-- Python, Go, Dart, JavaScript, C/C++
-- Understanding of the logic of programming
-- Experience in collaborative software development
+- มีประสบการณ์ไม่น้อยกว่า 5 ปี
+- มีประสบการณ์ในการดูแลจัดการระบบ IT
+- มีประสบการณ์การทำงานกับ Public Cloud Service

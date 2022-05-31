@@ -1,8 +1,4 @@
-Job Positions : Programmer/Programmer
-Company : World Vision Foundation of Thailand
-Company Location : ห้วยขวาง
+Job Positions : Senior Data Engineer
+Company : 4Plus Consulting Co., Ltd.
+Company Location : Rajthevee
 Salary : No Infomation
-  skill  
-- Programmer
-- Application Developer
-- Programming Experience

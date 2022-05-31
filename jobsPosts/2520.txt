@@ -1,0 +1,8 @@
+Job Positions : Back-end Developer (Golang / PHP Laravel)
+Company : Adecco Recruitment (Thailand) Limited
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Golang and PHP (Laravel)
+- 4-6 years of experience in backend web development
+- Experience in Cryptography or blockchain is a plus

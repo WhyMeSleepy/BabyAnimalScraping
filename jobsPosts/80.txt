@@ -1,8 +1,4 @@
-Job Positions : DevOps Engineer – FSG Business Unit
-Company : SS&C Technologies, Inc. - Thailand office
-Company Location : Wattana
+Job Positions : Software Engineer
+Company : JIBSOFT Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- 6 minutes walk from BTS Promphong
-- Currently work from home, work with US Colleagues
-- Java, DevOps, CI/CD, Spring MVC, SQL

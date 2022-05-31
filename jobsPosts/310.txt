@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : Thaioil Energy Services Company Limited
-Company Location : ชลบุรี
+Job Positions : Senior Mobile(Android) Developer
+Company : Berli Jucker Public Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
   skill  
-- Bachelor’s degree in Computer Sc., Computer Eng.
-- Statistical and/or data science
-- Data visualization
+- Mobile Developer
+- Java Developer
+- Software Developer

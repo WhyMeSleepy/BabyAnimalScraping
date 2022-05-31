@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Flutter/Go/Blockchain)/วิศวกรรมซอฟต์แวร์ (Flutter/Go/Blockchain)
-Company : Hugeman Consultant  Co.,Ltd.
-Company Location : Phayathai
+Job Positions : Data Engineer
+Company : Krungsri Consumer
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Min 3 years of experience in software development
-- Competitive salary and benefits
-- Amazing culture supporting your growth and ideas
+- Cloudera, Hortonworks, Hive, Hadoop, Spark
+- Good remuneration package and career growth
+- Work Location: KSPT Building, BTS Ploenchit Exit 5

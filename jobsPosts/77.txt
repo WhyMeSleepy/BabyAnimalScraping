@@ -1,8 +1,8 @@
-Job Positions : Data Modeling Assistant Manager (Data Scientist)
-Company : NES Fircroft (Thailand) Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Software Developer (Backend)
+Company : Skillpower Services (Thailand) Co., Ltd.
+Company Location : ดินแดง
 Salary : No Infomation
   skill  
-- 7 years of experience in data and/Business Analyst
-- online analytical processing, and ETL framework
-- BI tools, SQL, SASS, Python
+- Python, Golang, NoSQL, API Development
+- MRT Rama9
+- 1-3 years experience

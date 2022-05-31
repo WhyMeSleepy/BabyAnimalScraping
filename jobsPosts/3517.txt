@@ -1,0 +1,8 @@
+Job Positions : Quantitative Researcher (Junior to Lead)
+Company : Kiatnakin Phatra Securities Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Bachelors, Masters, or PhD in Computer Science
+- Competency in Python or C++
+- Previous experience as a quant or data scientist

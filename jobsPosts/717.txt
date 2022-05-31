@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Any Level)
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : กรุงเทพมหานคร
+Job Positions : Category Investment Executive (Data Modeling / Data Scientist)
+Company : Colgate-Palmolive (Thailand) Limited
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Big Data Engineer
-- Work closely with Data Arc. and Data Sci.
-- Data Transformation and Data Management
+- Key Focus : Investment, Price & Promo, Revenue
+- Strong Data modeling, New analytical tools, FMCG
+- Business & Financial Analysis / English speaking

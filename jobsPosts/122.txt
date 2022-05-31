@@ -1,8 +1,8 @@
-Job Positions : Python Developer (Senior Level/Team Lead)
-Company : CXC Global Talent Recruitment (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 70K - 120K /เดือน 
+Job Positions : IT Development Officer - Manager (Urgently !!!)
+Company : AIRA Securities Public Company Limited
+Company Location : Pathumwan
+Salary : No Infomation
   skill  
-- AI and Machine Learning exposure
-- Willing to learn new technologies
-- Flexible Working Environment
+- Experience in using API Back-end
+- Experience with Programming languages C++,VB.NET
+- Familiarity with HTML, JavaScript, CSS, and AJAX

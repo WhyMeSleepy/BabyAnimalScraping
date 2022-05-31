@@ -1,0 +1,8 @@
+Job Positions : Full-Stack Developer - True Robotic
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- Full-Stack Developer
+- Develop and maintain website backend systems
+- HTML, CSS, JavaScript, jQuery, Node.js, PHP

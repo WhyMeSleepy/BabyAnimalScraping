@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : nocnoc
-Company Location : Bangsue
+Job Positions : Data Engineer ( ETL )
+Company : NTT DATA (Thailand) Co., Ltd. (Locus Telecommunication Inc., Ltd.)
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Experience with relational SQL and NoSQL databases
-- Experience with data science project pipeline
-- Create data tools for analytics team
+- 3 year in ETL,R Python,Data Governance
+- SQL/Store Procedure on Oracle/DB2 or other DBMS
+- CW Tower, Ratchada Rd, Near MRT

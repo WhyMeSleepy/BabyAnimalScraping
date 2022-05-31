@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Supalai Public Company Limited
-Company Location : ยานนาวา
+Job Positions : Full Stack UX/UI Backend Programmer/โปรแกรมเมอร์
+Company : S.W. TECH & MEDIA CO., LTD.
+Company Location : พญาไท
 Salary : No Infomation
-  skill  
-- PL/SQL database and big data Concepts
-- Python ,Data Science, Data Engineer
-- Can do attitude

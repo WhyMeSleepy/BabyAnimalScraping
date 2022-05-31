@@ -1,0 +1,8 @@
+Job Positions : PROGRAMMER
+Company : Fischer & Partners Co., Ltd.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- HTML, CSS and JavaScript/jQuery
+- Database Management Systems: SQL Server and MySQL
+- write Web Services, Web API, Frontend

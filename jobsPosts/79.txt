@@ -1,8 +1,8 @@
-Job Positions : Data Analytic/Science Lead
-Company : Central JD Fintech Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Modeling Assistant Manager (Data Scientist)
+Company : NES Fircroft (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Explore new data science and business concepts
-- Lead data analytic/science team
-- Find new insights that help Central Group
+- 7 years of experience in data and/Business Analyst
+- online analytical processing, and ETL framework
+- BI tools, SQL, SASS, Python

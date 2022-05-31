@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (New Grads)
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Job Positions : Python Developer / Python Programmer/นักพัฒนาซอฟต์แวร์ Python / Python โปรแกรมเมอร์
+Company : Opendream Co., Ltd.
 Company Location : จตุจักร
-Salary : No Infomation
+Salary : THB 45K - 120K /เดือน 
   skill  
-- Java, J2EE, web service, RESTful API, JavaScript
-- 0 - 2 yrs experience in applications development
-- Knowledge of MySQL Stored Procedure, GIT, CI/CD
+- Senior Python Developer
+- Resilient to failure
+- Willing to put your skill for social development

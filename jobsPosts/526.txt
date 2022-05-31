@@ -1,8 +1,8 @@
-Job Positions : Data Scientist Analytics - Team Lead
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Associate Data Engineer (Open to Fresh Graduate)
+Company : aCommerce Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Data Scientist, ML , Deep Learning
-- Data Team Lead, Manager
-- Fintech Global Company
+- Options to work remotely
+- AWS cloud environment
+- Big Data System

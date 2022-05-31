@@ -1,6 +1,6 @@
 Job Positions : Data Engineer/Senior Data Engineer
 Company : Greenline Synergy Co., Ltd.
-Company Location : สวนหลวง
+Company Location : Suanluang
 Salary : No Infomation
   skill  
 - Data Warehouse Conceptual - ETL/ELT

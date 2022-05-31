@@ -1,0 +1,8 @@
+Job Positions : Software Engineer (Mobile / Frontend) - Middle to Senior level - Commercial Platform
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- JavaScript, Angular, React, HTML, CSS, Bootstrap
+- Flutter, Swift, Kotlin
+- Node.js, Python, Java, Go, C, .NET is a plus.

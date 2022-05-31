@@ -1,8 +1,8 @@
-Job Positions : Full Stack Software Developer (Phuket Based)
-Company : PRIMO
-Company Location : ภูเก็ต
+Job Positions : Software Verification Officer  - Mobile phone
+Company : Thai Samsung Electronics Co., Ltd.
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- Design and code various web/mobile/server
-- Work in startup environment
-- 2+ years experience in software development
+- Telecommunication/Computer/ Electronics Engineer
+- Min 1-2 Year in tester, test report findings
+- Knowledge in GSM/UMTS /LTE /NR Network

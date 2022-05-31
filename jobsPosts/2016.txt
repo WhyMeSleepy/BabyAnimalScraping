@@ -1,0 +1,8 @@
+Job Positions : System Analysis
+Company : Central Retail Corporation Ltd. (Central Technology Office)
+Company Location : Bangrak
+Salary : No Infomation
+  skill  
+- Systems analysis
+- NodeJS, Spring boots framework, K2 or Camunda
+- Java, JavaScript

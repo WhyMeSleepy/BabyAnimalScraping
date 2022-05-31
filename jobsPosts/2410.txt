@@ -1,0 +1,8 @@
+Job Positions : Full Stack developer (Many Positions)
+Company : NES Fircroft (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Front-end JavaScript libraries and framework
+- backend development: Java 1.7 (Spring framework)
+- Good knowledge of issue tracking (JIRA), Source

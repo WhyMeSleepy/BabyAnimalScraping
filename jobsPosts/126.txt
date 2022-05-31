@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : ExxonMobil Limited
-Company Location : คลองเตย
-Salary : No Infomation
+Job Positions : Senior Data Scientist
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : Pathumwan
+Salary : THB 90K - 120K /month 
   skill  
-- 3 years of work experience
-- Data Analytic, Data Scientist
-- Oil&Gas
+- Salary up to 80,000 – 100,000 THB + Benefits
+- A leading energy technology company
+- 4-10 years of experience with data science

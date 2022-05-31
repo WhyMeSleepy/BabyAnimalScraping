@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : JORAKAY CORPORATION CO., LTD.
-Company Location : สะพานสูง
+Job Positions : Junior/ Senior Application Developer / Software Developer
+Company : ACCELLENCE (THAILAND)  LIMITED
+Company Location : Phayathai
 Salary : No Infomation
-  skill  
-- Data Engineer
-- Data Analytic
-- Statistics

@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer (Senior-Specialist)
-Company : Pomelo Fashion Co., Ltd.
+Job Positions : NodeJS Developer (Senior/Junior - Many Headcounts)
+Company : Adecco Recruitment (Thailand) Limited
 Company Location : กรุงเทพมหานคร
-Salary : THB 70K - 160K /เดือน 
+Salary : No Infomation
   skill  
-- Terraform
-- AWS
-- DevOps
+- 2+ years of experience with NodeJS
+- PHP/ JavaScript / ReactJS
+- Communicative English

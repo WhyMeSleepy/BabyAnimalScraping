@@ -1,0 +1,8 @@
+Job Positions : Data Engineer Supervisor/ Executive (Business Intelligence Team)
+Company : Jet Commerce
+Company Location : ดินแดง
+Salary : No Infomation
+  skill  
+- Experience for developing Python or PySpark
+- Well understand in Data Warehouse and ETL concept
+- Hybrid Workplace

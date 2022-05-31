@@ -1,0 +1,8 @@
+Job Positions : Software Engineer (Java)
+Company : N2N GLOBAL SOLUTIONS LIMITED
+Company Location : ราชเทวี
+Salary : No Infomation
+  skill  
+- Java, Spring, Spring Boot and JavaScript framework
+- Service-Oriented Architecture using RESTful APIs
+- Object-Oriented design skills

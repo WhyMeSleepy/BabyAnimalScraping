@@ -1,0 +1,8 @@
+Job Positions : Internship Program - Quality Assurance/Software Testing
+Company : Central JD Fintech Co., Ltd.
+Company Location : Pathumwan
+Salary : No Infomation
+  skill  
+- Create test tools and test plans
+- Continually improve the quality of the Dolfin app
+- Evaluate product requirements, system design

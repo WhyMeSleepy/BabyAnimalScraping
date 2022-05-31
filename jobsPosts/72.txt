@@ -1,8 +1,8 @@
-Job Positions : Senior DataStage Developer
-Company : Bred IT (Thailand) Ltd.
-Company Location : สาทร
+Job Positions : Data Engineer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Open for every nationalities
-- Good benefit & International Environment
-- Hybrid Working Policy
+- Bachelor's in Computer Engineering / Related
+- 2-3 Yrs in Hadoop Technologies, ETL , Python
+- Excellent Communication Skills

@@ -1,8 +1,8 @@
-Job Positions : Full Stack Software Developer (Bangkok Based)
-Company : Primo World Co., Ltd.
-Company Location : บางรัก
+Job Positions : Data Engineer (ERP project)
+Company : aCommerce Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Design and code various web/mobile/server
-- Work in startup environment
-- Experience in software development
+- E-commerce Industry
+- International Work Environment
+- Options to Work From Home

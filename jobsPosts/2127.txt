@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : BTI Executive Search (Thailand) Co., Ltd.
+Company Location : Bangkok
+Salary : No Infomation
+  skill  
+- Expertise in ASP.Net Core, C#, React, Node Js
+- Stack using WCF, JSON, C# .NET, ASP.Net Core, Web
+- Database Management: MS SQL. Raven DB 3.5 or Mongo

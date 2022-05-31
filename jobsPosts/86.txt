@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Extend IT Resource Co., Ltd.
-Company Location : Huaykwang
-Salary : THB 35K - 55K /month 
+Job Positions : Programmer
+Company : SPS MEDICAL CO., LTD.
+Company Location : คลองสาน
+Salary : No Infomation
   skill  
-- Technologies: Elastic Search, Talend or ETL Tool
-- Knowledge in Data Engineer and Big Data
-- Basic Infrastructure (Network, Hardware, Cloud)
+- วุฒิการศึกษาปริญญาตรี ด้านเทคโนโลยีสารสนเทศและคอม
+- เข้าใจระบบเครือข่ายและวางแผนการจัดการระบบเครือข่าย
+- Work location close to BTS Krungthonburi

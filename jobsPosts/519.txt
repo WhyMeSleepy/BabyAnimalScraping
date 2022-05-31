@@ -1,8 +1,8 @@
-Job Positions : AVP Data Scientist
-Company : Magnolia Quality Development Corporation Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Scientist / Data Analyst  (Python, R, SQL) (Jr. - Team Lead)
+Company : Muang Thai Life Assurance Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Highly Analytical
-- Project Management
-- Communication & Collaboration Across Teams
+- Develops and executes statistical analyses
+- Statistical Modeling
+- Coding skills in SQL, R, and Python is a must

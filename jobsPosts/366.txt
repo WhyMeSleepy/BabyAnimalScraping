@@ -1,0 +1,8 @@
+Job Positions : Web Developer
+Company : Greenline Synergy Co., Ltd.
+Company Location : สวนหลวง
+Salary : No Infomation
+  skill  
+- Develop Web Applications for Hospital Management
+- Python, .net, node.js, JavaScript (on your demand)
+- We are a subsidiary Company of BDMS Group.

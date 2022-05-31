@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : Bangkok Smartcard System Co., Ltd.
+Company Location : สาทร
+Salary : No Infomation
+  skill  
+- NodeJS/Angular / React / Javascript
+- Knowledge in Cloud-base Service (AWS/Google)
+- Well understand Agile Methodology

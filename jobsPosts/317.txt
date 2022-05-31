@@ -1,8 +1,8 @@
-Job Positions : Fullstack Developer
-Company : Maknet
-Company Location : บางกะปิ
+Job Positions : Data Analysis and Data Strategic Manager (Operation team)
+Company : Wongnai Media Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- International Workplace
-- Work from Anywhere
-- Opportunities for Career Development
+- SQL
+- Redash
+- Data Analyst

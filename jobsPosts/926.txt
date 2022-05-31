@@ -1,0 +1,8 @@
+Job Positions : Clinical Data Manager
+Company : Mahidol-Oxford Research Unit,
+Company Location : พญาไท
+Salary : No Infomation
+  skill  
+- Develop data collection tools for the project
+- Design database to collect study data
+- Generate datasets and reports as required

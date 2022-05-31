@@ -1,8 +1,8 @@
-Job Positions : Machine Learning Engineer
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
+Job Positions : Data Engineer
+Company : Ever Medical Technologies Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- statistical programming  (e.g., Python, R,pandas)
-- database software (e.g., SQL, PySpark)
-- hypothesis testing, regression, machine learning
+- Join dynamic team of technology-driven healthcare
+- Build processes supporting data transformation
+- Optimizing ‘Big Data’ pipelines, architecture

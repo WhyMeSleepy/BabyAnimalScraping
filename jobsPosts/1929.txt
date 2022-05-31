@@ -1,0 +1,8 @@
+Job Positions : Dev-Op-AppSolution
+Company : Charoen Pokphand Foods Public Company Limited
+Company Location : บางรัก
+Salary : No Infomation
+  skill  
+- AWS, Azure
+- On-premises and Cloud
+- DevOps

@@ -1,8 +1,8 @@
-Job Positions : Senior Python Developer
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Analyst
+Company : LINE Company (Thailand) Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Senior Python Developer
-- Machine Learning
-- Artificial Intelligence
+- 3+ years of experience in relevant fields
+- Experienced in analysis tools - SQL, R, and Python
+- Comfort working with Hadoop Ecosystem

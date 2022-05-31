@@ -1,0 +1,8 @@
+Job Positions : Android Software Engineer
+Company : True Digital Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Android app development with Kotlin and Java
+- Knowledge of general mobile landscape/architecture
+- Experience with Dagger, Http, Retrofit, Rxjava etc

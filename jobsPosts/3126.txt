@@ -1,0 +1,8 @@
+Job Positions : Senior Tech Lead / Dev. Lead (Golang, JAVA, ReactJS, NextJS)
+Company : Muang Thai Life Assurance Public Company Limited  (Head Office)
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- ReactJS / NextJS
+- Golang / JAVA
+- RESTful and GraphQL endpoints.

@@ -1,0 +1,8 @@
+Job Positions : Data Analyst (Fashion Retail)
+Company : Jaspal Co., Ltd.
+Company Location : พระโขนง
+Salary : No Infomation
+  skill  
+- data analyst
+- ETL, SSIS, SSAS, Python
+- Data Visualization

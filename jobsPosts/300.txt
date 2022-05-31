@@ -1,0 +1,8 @@
+Job Positions : ETL Developer
+Company : The Prodigy (Thailand) Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 35K - 70K /เดือน 
+  skill  
+- At least 1 year's experience in ETL
+- SQL command and database management
+- Understanding of Data model

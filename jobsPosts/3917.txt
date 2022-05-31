@@ -1,0 +1,8 @@
+Job Positions : HIL Test Engineer
+Company : NES Fircroft (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- 2 - 7 years of work experience in the Automotive
+- Hardware in the loop (HIL) Validation.
+- Analyze Debugging on HIL step by step.

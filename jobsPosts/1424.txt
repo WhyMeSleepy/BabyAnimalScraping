@@ -1,0 +1,8 @@
+Job Positions : Programmer/โปรแกรมเมอร์
+Company : Gunkul Engineering Public Company Limited
+Company Location : บางกรวย
+Salary : THB 20K - 45K /เดือน 
+  skill  
+- Programmer
+- C#, C#.NET, ASP.NET, VB.NET, Java, JavaScript
+- Database Oracle, SQL Server

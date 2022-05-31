@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Minor International Public Company Limited (MINT)
-Company Location : กรุงเทพมหานคร
+Job Positions : Software Developer (Web/Mobile/Back-End/Full Stack)
+Company : Playtorium Solutions Company Limited
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- 5+ years of experience in a Data Engineer role
-- Strong project management & organizational skill
-- Willing to learn new technologies
+- Web: React, Angular, Vue.js   CMS: Wordpress
+- MOB: Flutter,React-Native,Kotlin,Swift,Objective-c
+- Back-End: NodeJS,Java Spring Boost,Python,PHP

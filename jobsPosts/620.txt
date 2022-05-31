@@ -1,8 +1,8 @@
-Job Positions : Software Developer/นักพัฒนาระบบงาน
-Company : Univentures Public Company Limited
-Company Location : ปทุมวัน
+Job Positions : Data Engineer
+Company : Ocean Life Insurance Public Company Limited
+Company Location : Klongtoey
 Salary : No Infomation
   skill  
-- Skills training, Career growth opportunity
-- work life balance
-- Location : Park Ventures Ecoplex (BTS เพลินจิต)
+- Data engineer
+- BI
+- ETL/ELT Too

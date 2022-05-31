@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer
+Company : Puun Intelligent Co., Ltd.
+Company Location : ดินแดง
+Salary : THB 45K - 90K /เดือน 
+  skill  
+- Experience as DevOps Engineer or similar software
+- Proficient with git and git workflows
+- Problem-solving attitude

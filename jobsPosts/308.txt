@@ -1,0 +1,8 @@
+Job Positions : Embedded Test Engineer - 2 Positions
+Company : NES Fircroft
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- System Testing on Embedded Systems
+- Software Development using C Programming
+- Railway/Aerospace/Industrial/Automotive domain

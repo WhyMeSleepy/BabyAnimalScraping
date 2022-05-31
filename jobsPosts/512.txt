@@ -1,8 +1,8 @@
-Job Positions : Software Engineer - Full Stack Developer (Venture Builder)
-Company : SCB 10X Co., Ltd.
-Company Location : คลองเตย
-Salary : THB 55K - 160K /เดือน 
+Job Positions : Machine Learning Engineer
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
+Salary : No Infomation
   skill  
-- front-end and back-end development
-- ES6+,Typescript,Nest.js,Next.js,Solidity/CosmWasm
-- Proficiency in Python, JavaScript, Smart contract
+- statistical programming  (e.g., Python, R,pandas)
+- database software (e.g., SQL, PySpark)
+- hypothesis testing, regression, machine learning

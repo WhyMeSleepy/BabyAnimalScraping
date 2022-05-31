@@ -1,0 +1,8 @@
+Job Positions : Programmer / Software Developer
+Company : Srinanaporn Marketing PLC.
+Company Location : ปริมณฑล-สมุทรสาคร
+Salary : No Infomation
+  skill  
+- ประสบการณ์การพัฒนาซอฟต์แวร์ Laravel framework
+- เขียนรายละเอียดสเปคของระบบเว็บไซต์ของบริษัท
+- โบนัสตามผลงาน, ทำงานสัปดาห์ละ 5 วัน, ประกันชีวิต

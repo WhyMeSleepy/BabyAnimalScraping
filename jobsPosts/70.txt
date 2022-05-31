@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : PRTR
+Job Positions : Quantitative Researcher Senior Manager
+Company : Argyll Scott Asia
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Bachelor's in Computer Engineering / Related
-- 2-3 Yrs in Hadoop Technologies, ETL , Python
-- Excellent Communication Skills
+- machine learning; Software Engineer
+- Financial Market Data
+- Quantitative Research; Python

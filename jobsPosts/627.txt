@@ -1,8 +1,8 @@
-Job Positions : Data Scientist/นักวิทยาศาสตร์ข้อมูล
-Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
-Company Location : ปากเกร็ด
-Salary : No Infomation
+Job Positions : Software Engineer - Full Stack Developer (Venture Builder)
+Company : SCB 10X Co., Ltd.
+Company Location : Klongtoey
+Salary : THB 55K - 160K /month 
   skill  
-- Computer vision, pattern recognition, etc.
-- Big data on cloud infrastructure
-- New graduates are welcome too!
+- front-end and back-end development
+- ES6+,Typescript,Nest.js,Next.js,Solidity/CosmWasm
+- Proficiency in Python, JavaScript, Smart contract

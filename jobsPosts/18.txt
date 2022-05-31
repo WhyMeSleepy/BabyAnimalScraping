@@ -1,8 +1,8 @@
-Job Positions : Machine Learning Engineer
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
+Job Positions : Head of Engineer (Python)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- statistical programming  (e.g., Python, R,pandas)
-- database software (e.g., SQL, PySpark)
-- hypothesis testing, regression, machine learning
+- Head of Engineering (Python)
+- International Environment
+- Global Reach

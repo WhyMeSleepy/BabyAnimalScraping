@@ -1,4 +1,8 @@
-Job Positions : Data Scientist –Python- Manager
-Company : TMB Asset Management  Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Programmer
+Company : Mektec Manufacturing Corporation (Thailand) Ltd.
+Company Location : อยุธยา
 Salary : No Infomation
+  skill  
+- VB, VB.NET, ASP.NET, HTML, XML, PHP, C# etc.
+- Knowledge about SQL Server, Oracle
+- Good command of English

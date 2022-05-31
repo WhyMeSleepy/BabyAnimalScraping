@@ -1,7 +1,7 @@
 Job Positions : Full Stack Developer
 Company : Azure Computers (Thailand) Co., Ltd.
-Company Location : Bangkok
-Salary : THB 70K - 90K /month 
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 90K /เดือน 
   skill  
 - Bachelor’s Degree in IT
 - Experience developing web application

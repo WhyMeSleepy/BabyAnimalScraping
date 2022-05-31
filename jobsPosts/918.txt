@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : THB 45K - 70K /เดือน 
+  skill  
+- CI/CD tools. (Jenkins)
+- Amazon Web Service or Google Cloud Platform
+- (Docker, Kubernetes)

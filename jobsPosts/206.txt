@@ -1,0 +1,8 @@
+Job Positions : Test Automation Engineer
+Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
+Company Location : Prakket
+Salary : No Infomation
+  skill  
+- Bachelor’s Degree in Com-Sci / Engineering
+- Experienced in programming ex. SQL, Micro Service
+- Selenium, Robot, Cypress, Cucumber

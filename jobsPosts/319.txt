@@ -1,8 +1,4 @@
-Job Positions : Senior Data Engineer
-Company : True Corporation Public Company Limited
-Company Location : ห้วยขวาง
-Salary : No Infomation
-  skill  
-- Degree in IT/Computer Engineering
-- Experience in Data Engineer
-- Experience in ETL tools
+Job Positions : .NET & Flutter Developer/ผู้พัฒนาระบบ .NET, Flutter
+Company : W2S Software Co.,Ltd.
+Company Location : ประเวศ
+Salary : THB 20K - 35K /เดือน 

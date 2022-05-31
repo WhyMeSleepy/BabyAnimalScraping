@@ -1,8 +1,8 @@
-Job Positions : Software Engineer, Full Stack
-Company : Finnomena Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Scientist/นักวิทยาศาสตร์ข้อมูล
+Company : AIGEN CO., LTD.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Front-end, Back-end
-- Vuejs, React, Node.js, Golang
-- Agile, Scrum Team, Hybrid Worplace
+- Min. Bachelor, 2-8 yr experience
+- Provident fund, healthcare benefit
+- Exciting AI/ML growth in healthcare/insur tech biz

@@ -1,8 +1,8 @@
-Job Positions : Software Engineer/Software Developer
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
+Job Positions : MIS Data Analyst
+Company : Citibank , N.A.
+Company Location : Klongtoey
 Salary : No Infomation
   skill  
-- Developer - JAVA, Spring Boot, Node.js, Golang
-- Writing unit test cases, automated testing
-- Cloud Platform, AWS, OpenShift
+- Monitoring, assess, analyze and evaluate data
+- Identifies policy gaps and formulates policies
+- Interprets data and makes recommendations

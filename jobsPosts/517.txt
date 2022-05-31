@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Bangkok Smartcard System Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior DevOps Engineer
+Company : Data Wow Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
-  skill  
-- Data analytics techniques, Data integration
-- Working within a fast growing team
-- Competitive salary with high benefits

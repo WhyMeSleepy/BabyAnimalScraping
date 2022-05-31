@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer
-Company : TRIDEPT COMPANY LIMITED
-Company Location : วัฒนา
+Job Positions : AI-Machine Learning Engineer (Conversational AI)
+Company : CP ALL PUBLIC COMPANY LIMITED
+Company Location : ปากเกร็ด
 Salary : No Infomation
   skill  
-- Building and maintaining AWS
-- Experience of data stores Relational, NoSQL, Kafka
-- Experience with Docker, GitHub, Jenkins, ELK
+- AI / Machine Learning / AI System / AI Services
+- Computer Engineering or related fields
+- Good Command in English / AI, ML, Python

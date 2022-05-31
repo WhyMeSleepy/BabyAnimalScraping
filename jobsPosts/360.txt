@@ -1,0 +1,8 @@
+Job Positions : Quality Assurance (Software Tester)
+Company : Krungsri Auto
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Automate tester
+- Python, JAVA, Shell script
+- Project Management

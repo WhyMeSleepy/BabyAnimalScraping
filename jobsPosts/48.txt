@@ -1,8 +1,8 @@
-Job Positions : Backend Engineer
-Company : Maknet
-Company Location : บางกะปิ
+Job Positions : Full Stack Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- International Workplace
-- Work from Anywhere
-- Opportunities for Career Development
+- Fresh graduates with a degree in computer science
+- 3 years experience as a full stack engineer
+- Strong understanding of both front-end & back-end

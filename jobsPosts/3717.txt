@@ -1,0 +1,8 @@
+Job Positions : Software QA Engineer (Automation) - TrueMoney
+Company : Ascend Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Automation / Performance testing
+- Agile / Scrum process
+- CI/CD

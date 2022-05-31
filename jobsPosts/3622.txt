@@ -1,0 +1,8 @@
+Job Positions : Quality Assurance/(Software Tester)
+Company : iCONEXT CO., LTD. (Head Office)
+Company Location : ดินแดง
+Salary : THB 55K - 70K /เดือน 
+  skill  
+- Develop automated tests
+- Using Robot framework, Python, Katalon Studio
+- Work From Home / Hybrid Work / On-site Work

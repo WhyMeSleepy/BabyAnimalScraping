@@ -1,8 +1,8 @@
-Job Positions : Data Engineer / Big Data Engineer (SQL skill is a must)
-Company : Muang Thai Life Assurance Public Company Limited
-Company Location : Huaykwang
+Job Positions : Collection Data Analyst, Collection Team (True Money)
+Company : Ascend Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Experience in ETL tools or Data Pipeline
-- Strong SQL skills
-- Data integration, Data Warehouse, Data Lake
+- Attractive Benefit
+- Good Locaton
+- Challenge Job

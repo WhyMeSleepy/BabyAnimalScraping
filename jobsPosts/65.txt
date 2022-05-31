@@ -1,8 +1,8 @@
-Job Positions : Software Developer (Chonburi, Up to 60K)
-Company : Ancor Thailand
-Company Location : ชลบุรี
-Salary : No Infomation
+Job Positions : DevOps Engineer (Senior-Specialist)
+Company : Pomelo Fashion Co., Ltd.
+Company Location : Bangkok
+Salary : THB 70K - 160K /month 
   skill  
-- Application development and maintenance
-- Production support
-- Ensure that coding is of high quality
+- Terraform
+- AWS
+- DevOps

@@ -1,0 +1,8 @@
+Job Positions : Cloud Engineer
+Company : Central Retail Corporation Ltd. (Central Technology Office)
+Company Location : Bangrak
+Salary : No Infomation
+  skill  
+- Could AWS/Azure, Cloud Architect-Design-Security
+- CI/CD systems, SysOps and DevOps
+- Web services, API, REST, and RPC

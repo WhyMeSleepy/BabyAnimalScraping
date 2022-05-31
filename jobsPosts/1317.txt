@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : Code Play Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Website, Database, Programmer
+- HTML5, CSS, PHP, Javascript
+- Web Responsive, application

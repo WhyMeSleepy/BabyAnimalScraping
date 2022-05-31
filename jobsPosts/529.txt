@@ -1,8 +1,8 @@
-Job Positions : New! Software Engineer
-Company : KASIKORN Business - Technology Group (KBTG)
-Company Location : ปากเกร็ด
+Job Positions : Software/ Senior Software developer (Embedded Firmware) (22K-35K) (SDG-76249)/ผู้พัฒนาซอฟต์แวร์ / ผู้พัฒนาซอฟต์แวร์อาวุโส (เฟิร์มแวร์ฝังตัว)
+Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Banking industry
-- JAVA, GO, JavaScript, Node.js, Python, C#, etc.
-- Fresh grad is also welcome
+- Challenge Software developer (Firmware) Japan Com
+- 0-5 years in Software development of Embedded
+- Maintenance & Develop firmware based on C, C#

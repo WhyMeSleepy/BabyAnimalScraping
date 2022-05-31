@@ -1,0 +1,8 @@
+Job Positions : Programmer and Programmer Analyst สมัครด่วน!!
+Company : Prospersof Consulting Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 25K - 35K /เดือน 
+  skill  
+- ASP.NET ด้วย C# (Web)
+- SQL Server (SQL Statement, Store Procedure)
+- Object Oriented Programming (OOP)

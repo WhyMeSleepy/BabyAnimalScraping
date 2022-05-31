@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (B2b E-Commerce Platform)
-Company : Central Retail Corporation (CRC Talent Acquisition)
-Company Location : บางรัก
+Job Positions : Software Tester/นักทดสอบระบบ
+Company : Nemera International Co., Ltd.
+Company Location : Bangkok
 Salary : No Infomation
   skill  
-- Experience in full stack is a plus
-- Python, Java, Dart, Node JS, Golang coding
-- Proactive, agile mindset
+- Annual Leave 12 Day per years
+- Heath Insurance
+- Renewal intensive up to 15 K.

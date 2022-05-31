@@ -1,8 +1,8 @@
-Job Positions : Software Developer (Backend)  / Middle - Senior
-Company : EXP Gaming Co., Ltd.
-Company Location : บางกอกน้อย
+Job Positions : Junior Data Engineer **Open for New Grads
+Company : Central Retail Corporation Ltd. (JD Finance)
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Join a gaming company in Thailand
-- Opportunity to unleash potential at early stage
-- Competitive salary, Monthly bonus
+- Understanding of Hadoop ecosystem
+- Experience with data pipeline and workflow
+- Familiar with APIs, JSON, REST

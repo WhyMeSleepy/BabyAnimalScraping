@@ -1,8 +1,8 @@
-Job Positions : Campaign Developer (SQL Server/Python)
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Job Positions : Backend Developer - Python
+Company : SWIFT DYNAMICS CO., LTD.
 Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- SQL Server, Python,Programer
-- CRM platforms
-- DMP :  Adobe, Salesforce Marketing Cloud, Knowesis
+- Pythondeveloper, IoTservice, Cloud services,
+- Programmer, Database, Server, Clodeserver, Devops
+- Strong Team, High Speed Growth, Softwaredeveloper

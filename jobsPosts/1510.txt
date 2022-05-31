@@ -1,0 +1,8 @@
+Job Positions : Application Developer (HR Transformation Project)
+Company : Thai Beverages Public Company Limited
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Undergraduate degree in Computer Sciences, IT
+- Javascript, MongoDB, Docker and Kubernetes
+- Good command of Thai & English

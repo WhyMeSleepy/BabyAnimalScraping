@@ -1,0 +1,8 @@
+Job Positions : Business Intelligence Engineer (BI) (Mid-Senior) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Business Intelligence, BI solutions
+- SQL, Python, Excel, in-house tools, Power BI
+- BAU dashboards, Azure

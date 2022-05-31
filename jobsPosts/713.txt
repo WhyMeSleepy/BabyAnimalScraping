@@ -1,8 +1,4 @@
-Job Positions : Data Scientist – Build statistical and predictive model with leading oil & gas company
-Company : Cathcart Associates Asia Recruitment Ltd.
-Company Location : บางรัก
-Salary : THB 35K - 90K /เดือน 
-  skill  
-- Salary up to 80,000 THB + Great benefits
-- Proficient with Python and its libraries
-- Fluent level of English communication
+Job Positions : Software Development (PHP)
+Company : GMM Grammy Public Company Limited
+Company Location : วัฒนา
+Salary : No Infomation

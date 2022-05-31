@@ -1,8 +1,8 @@
-Job Positions : Data Scientist/นักวิทยาศาสตร์ข้อมูล
-Company : AIGEN CO., LTD.
-Company Location : ห้วยขวาง
+Job Positions : Data Engineer (Manager/Senior Manager)
+Company : ABeam Consulting (Thailand) Ltd.
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Min. Bachelor, 2-8 yr experience
-- Provident fund, healthcare benefit
-- Exciting AI/ML growth in healthcare/insur tech biz
+- AWS Glue, Redshift, S3
+- Data Management
+- IT Implementation

@@ -1,8 +1,8 @@
-Job Positions : Data scientists (Risk model and MIS)/แบบจำลองความเสี่ยง
-Company : Kiatnakin Phatra Bank Public Company Limited
-Company Location : วัฒนา
+Job Positions : Software Engineer/Sr.Software Engineer
+Company : Skillpower Services (Thailand) Co., Ltd.
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- MIS
-- credit risk,MIS
-- AIRB Basel/ IFRS9
+- Java, Spring Boot, Go, Node.js
+- React.js, Angular.js, JavaScript
+- Hybrid work, near MRT, BTS

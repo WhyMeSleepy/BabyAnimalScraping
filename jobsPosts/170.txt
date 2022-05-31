@@ -1,0 +1,8 @@
+Job Positions : Application Developer/นักพัฒนาแอพพลิเคชั่น
+Company : Hi-Tech Apparel Co., Ltd.
+Company Location : ทุ่งครุ
+Salary : No Infomation
+  skill  
+- C#
+- SQL
+- Dynamic AX

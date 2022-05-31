@@ -1,0 +1,8 @@
+Job Positions : Programmer/โปรเเกรมเมอร์ (C# ,Java)
+Company : Supalai Public Company Limited
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- At least 2 years of experience in .Net programming
+- Minimum 1 years of experience for Senior level
+- Familiar with rational database such as MS SQL

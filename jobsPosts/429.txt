@@ -1,8 +1,4 @@
-Job Positions : Backend Developer/โปรแกรมเมอร์ Backend Developer
-Company : Puun Intelligent Co., Ltd.
-Company Location : ดินแดง
-Salary : THB 30K - 70K /เดือน 
-  skill  
-- ได้เรียนรู้การเชื่อมต่อ API กับหลายระบบ
-- ทำงานร่วมกับทีม Business และทีม Product/Tech
-- ทำงานใน Startup Culture กับทีมที่มี Growth Mindset
+Job Positions : Software Engineer - iOS (Native)
+Company : TribeHired Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation

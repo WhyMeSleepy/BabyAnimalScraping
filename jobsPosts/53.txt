@@ -1,8 +1,8 @@
 Job Positions : Data Engineer
-Company : SCG Cement-Building Materials Co., Ltd.
-Company Location : บางซื่อ
+Company : Minor International Public Company Limited (MINT)
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Develop data ingestion & data operationalization
-- Support and Implement Data Governance processes
-- Work with internal users in Digital Office
+- 5+ years of experience in a Data Engineer role
+- Strong project management & organizational skill
+- Willing to learn new technologies

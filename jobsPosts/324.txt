@@ -1,8 +1,8 @@
-Job Positions : Machine Learning_Data Scientist (Credit Scoring & Modeling) True Money
-Company : Ascend Group Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior Software Developer (Kotlin/Java)
+Company : CODIUM Company Limited
+Company Location : Pathumwan
 Salary : No Infomation
   skill  
-- Attactive Benefit
-- Flexible Hours
-- Work from Home
+- Developer / Programmer
+- Kotlin/Java
+- Friendly, cozy, delicious, high-tech environment

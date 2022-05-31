@@ -1,8 +1,8 @@
-Job Positions : Junior Data Engineer **Open for New Grads
-Company : Central Retail Corporation Ltd. (JD Finance)
-Company Location : ปทุมวัน
+Job Positions : Senior Developer (Python - Back end)/Programmer
+Company : Greenline Synergy Co., Ltd.
+Company Location : สวนหลวง
 Salary : No Infomation
   skill  
-- Understanding of Hadoop ecosystem
-- Experience with data pipeline and workflow
-- Familiar with APIs, JSON, REST
+- A Sustainable IT Company in Thailand
+- More 100 Healthcare Applications
+- We are a subsidiary Company of BDMS Group.

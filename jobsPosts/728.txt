@@ -1,8 +1,8 @@
-Job Positions : Back-end Developer
-Company : PTG Energy Public Company Limited
-Company Location : ห้วยขวาง
+Job Positions : IoT Engineer
+Company : Toyo Business Engineering (Thailand) Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Golang
-- NodeJS
-- JavaScript
+- Degree in Computer Engineering
+- Experience in utilizing SQL and NoSQL databases.
+- Experience with IoT platform and web-server.

@@ -1,0 +1,8 @@
+Job Positions : System Analyst / System Development
+Company : Symphony Communication Co., Ltd.
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- At least 4 years experience
+- Microsoft .Net, C#, Java, JavaScript, React, React
+- SQL Server (SQL Command, Stored Procedure)

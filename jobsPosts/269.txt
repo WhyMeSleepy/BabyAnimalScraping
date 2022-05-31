@@ -1,0 +1,8 @@
+Job Positions : Data Architect
+Company : CIMB Thai Bank
+Company Location : Pathumwan
+Salary : No Infomation
+  skill  
+- Data Architect, Data Modeling, Database Design
+- TOGAF, Zachman architectural modeling
+- Data warehousing / data marts - Data mining - ETL

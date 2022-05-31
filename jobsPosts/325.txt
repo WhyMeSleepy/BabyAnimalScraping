@@ -1,8 +1,4 @@
-Job Positions : Software Development Manager (Python)
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : IT Programmer,  Business Technology (Information Technology) Department
+Company : UOB Asset Management (Thailand) Co., Ltd.
+Company Location : Sathorn
 Salary : No Infomation
-  skill  
-- Software Development Manager (Python)
-- eCommerce Industry
-- Agile Environment
