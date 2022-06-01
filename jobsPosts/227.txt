@@ -1,4 +1,8 @@
-Job Positions : Software Developer / Programmer / โปรแกรมเมอร์
-Company : PROSOFT CRM COMPANY LIMITED
-Company Location : เชียงใหม่
+Job Positions : Data Engineer
+Company : JORAKAY CORPORATION CO., LTD.
+Company Location : สะพานสูง
 Salary : No Infomation
+  skill  
+- Data Engineer
+- Data Analytic
+- Statistics

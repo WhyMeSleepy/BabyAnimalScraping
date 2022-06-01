@@ -1,8 +1,8 @@
-Job Positions : Developer (Frontend or Backend)
-Company : N-SQUARED ECOMMERCE CO., LTD.
-Company Location : คลองเตย
+Job Positions : Software Engineer
+Company : Kimball Electronics (Thailand) Ltd.
+Company Location : ชลบุรี
 Salary : No Infomation
   skill  
-- Frontend - ReactJS, VueJS
-- Backend - Python, RESTful API
-- Wellness fare (Shopping) 10k per year
+- Bachelor's Degree in Computer / Electronics
+- Exp. 0-6 Years.
+- Having knowledge in MS SQL server

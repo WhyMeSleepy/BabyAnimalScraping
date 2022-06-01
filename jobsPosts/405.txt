@@ -1,8 +1,8 @@
-Job Positions : Specialist, Quality Assurance
-Company : 2C2P (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : Programmer
+Company : Mektec Manufacturing Corporation (Thailand) Ltd.
+Company Location : อยุธยา
 Salary : No Infomation
   skill  
-- Quality of the deliverable products, Automate test
-- Software automation testing implementation
-- Improvement of overall QA operation
+- VB, VB.NET, ASP.NET, HTML, XML, PHP, C# etc.
+- Knowledge about SQL Server, Oracle
+- Good command of English

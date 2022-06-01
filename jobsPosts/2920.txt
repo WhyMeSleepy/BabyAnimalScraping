@@ -1,8 +1,0 @@
-Job Positions : Web(.NET) Application Developer
-Company : Berli Jucker Public Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Web Application
-- Developer
-- .Net , Java, VB, Flutter (Dart)

@@ -1,4 +1,8 @@
-Job Positions : Junior Developer
-Company : Factorytalk Co., Ltd.
-Company Location : บางรัก
-Salary : No Infomation
+Job Positions : Senior Software Developer (PHP)
+Company : ReadyPlanet Co., Ltd.
+Company Location : บางกะปิ
+Salary : THB 45K - 90K /เดือน 
+  skill  
+- มีประสบการณ์ทำงาน 3 ปีขึ้นไป
+- มีความรู้ในการพัฒนาซอฟต์แวร์ด้วยภาษา PHP
+- เขียนโปรแกรมพัฒนาส่วนต่างๆ ของ Web App

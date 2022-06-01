@@ -1,0 +1,8 @@
+Job Positions : IT Specialist -  Data Analytics & Automation Support
+Company : True Corporation Public Company Limited
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- automated tools to extract data , Data Analyst
+- data processing platforms like Hadoop and Apache
+- data visualization software like Tableau

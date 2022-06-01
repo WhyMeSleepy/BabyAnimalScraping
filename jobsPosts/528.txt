@@ -1,8 +1,8 @@
-Job Positions : Full Stack Engineers
-Company : Arise by Infinitas Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Risk Model and analytics
+Company : KASIKORNBANK PUBLIC COMPANY LIMITED
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- Fresh graduates with a degree in computer science
-- 3 years experience as a full stack engineer
-- Strong understanding of both front-end & back-end
+- Credit Score / Model validation
+- Risk Model Validation
+- PD, LGD and EAD

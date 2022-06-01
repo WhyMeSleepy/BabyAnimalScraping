@@ -1,8 +1,8 @@
-Job Positions : Digital Strategy
-Company : SGS (Thailand) Limited
-Company Location : ยานนาวา
-Salary : THB 30K - 70K /เดือน 
+Job Positions : IoT Engineer
+Company : Toyo Business Engineering (Thailand) Co., Ltd.
+Company Location : คลองเตย
+Salary : No Infomation
   skill  
-- Digital marketing
-- UX/UI Mockup SEM,SEO
-- English Skill
+- Degree in Computer Engineering
+- Experience in utilizing SQL and NoSQL databases.
+- Experience with IoT platform and web-server.

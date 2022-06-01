@@ -1,8 +1,4 @@
-Job Positions : COBOL Programmer
-Company : Bangkok Bank Public Company Limited
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Program development
-- COBOL
-- Mainframe development
+Job Positions : Programmer (Chonburi)/โปรแกรมเมอร์ (อมตะ ชลบุรี)
+Company : NAT Consulting Co., Ltd.
+Company Location : ชลบุรี
+Salary : THB 30K - 35K /เดือน 

@@ -1,8 +1,8 @@
-Job Positions : Data Consulting (Mgr./Senior Mgr.) * Top Consultancy Firm
-Company : WE SUPPLY TALENT
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Backend Developer
+Company : T.N. INCORPORATION LTD.
+Company Location : สาทร
+Salary : THB 30K - 55K /เดือน 
   skill  
-- Multinational environment
-- Experience working with various domains
-- Extensive quality remuneration package
+- FinTech Industry
+- Core Banking System
+- i-Banking Application

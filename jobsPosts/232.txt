@@ -1,8 +1,4 @@
-Job Positions : IT Support & Programmer
-Company : Millimed Co., Ltd.
-Company Location : เชียงราย
-Salary : No Infomation
-  skill  
-- กระบวนการบริหารจัดการควบคุมด้านสารสนเทศ
-- การประกันความเชื่อถือได้ของระบบงาน
-- การวางแผนปฏิบัติในการกอบกู้ระบบไอที
+Job Positions : Senior Full Stack Engineer
+Company : GoPomelo Co., Ltd.
+Company Location : พระโขนง
+Salary : THB 55K - 90K /เดือน 

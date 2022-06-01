@@ -1,8 +1,4 @@
-Job Positions : Data Analyst
-Company : BTI Executive Placement (Thailand) Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Statistician
+Company : Economic Social Commission for Asia Pacific
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- SQL and Microsoft Excel
-- Presentation skill
-- Career growth and attractive benefits

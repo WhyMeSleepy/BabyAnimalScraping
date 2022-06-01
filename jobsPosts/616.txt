@@ -1,8 +1,8 @@
-Job Positions : Sr. specialist – Oracle Developer (PL/SQL)
-Company : Allianz Ayudhya Assurance Public Company Limited
-Company Location : Pathumwan
+Job Positions : Programmer (รับพิจารณานักศึกษาจบใหม่) - (PECTH - Samrong, Samutprakarn)
+Company : Panasonic Solutions (Thailand) Co., Ltd.
+Company Location : เมืองสมุทรปราการ
 Salary : No Infomation
   skill  
-- At least 3 years experiences in Oracle Form Report
-- At least 3 years experiences in PL/SQL
-- Can do both developer & team’s management role
+- Bachelor’s in Computer Sciences, Computer Engineer
+- 1-3 years experiences in software development
+- C, C##.Net, JavaScript, Shell Script, SQL

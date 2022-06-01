@@ -1,4 +1,8 @@
-Job Positions : MTS Design Engineering Specialist
-Company : Celestica
-Company Location : จังหวัดอื่นๆ
+Job Positions : Backend Developer
+Company : Pi SECURITIES PUBLIC COMPANY LIMITED
+Company Location : ปทุมวัน
 Salary : No Infomation
+  skill  
+- Bachelor’s Degree in Computer Science
+- Develop API and web applications
+- At least 3 years in API development with Java

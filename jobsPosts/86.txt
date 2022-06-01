@@ -1,8 +1,8 @@
-Job Positions : Programmer
-Company : SPS MEDICAL CO., LTD.
-Company Location : คลองสาน
+Job Positions : Software/ Sr. Software Developer (Cloud-base server and Web application)
+Company : Transtron (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- วุฒิการศึกษาปริญญาตรี ด้านเทคโนโลยีสารสนเทศและคอม
-- เข้าใจระบบเครือข่ายและวางแผนการจัดการระบบเครือข่าย
-- Work location close to BTS Krungthonburi
+- Develop Software for Cloud-base andWeb application
+- database, and smartphone development tool/platform
+- C/C++, C#, JAVA, HTML, CSS.

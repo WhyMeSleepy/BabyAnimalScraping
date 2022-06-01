@@ -1,0 +1,8 @@
+Job Positions : Data Analyst
+Company : Aksorn Charoentat Act Co., Ltd.
+Company Location : พระนคร
+Salary : THB 45K - 70K /เดือน 
+  skill  
+- มีประสบการณ์การใช้ Database Management System Tool
+- มีประสบการณ์การใช้ BI Tools
+- Python (optional)

@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer (Retail Platform / Digital Platform) - Middle & Senior Level
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- DevOps Solution Implementation, Cloud Technology
+- CI/CD, Jenkins, CA release automation, Jenkins
+- El, Docker, Container, Kubernetes, Openshift

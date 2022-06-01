@@ -1,8 +1,8 @@
-Job Positions : Senior DevOps Engineer
-Company : Cathcart Associates Asia Recruitment Ltd.
-Company Location : สาทร
-Salary : THB 90K - 160K /เดือน 
+Job Positions : Front and Back End Developer
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
   skill  
-- Salary is up to 140,000 THB
-- DevOps/Infrastructure
-- Great working culture
+- Coding FrontEnd (HTML/CSS not required)
+- Coding BackEnd (RestFul API)
+- System Analysis , SDLC, Project Management, Scrum

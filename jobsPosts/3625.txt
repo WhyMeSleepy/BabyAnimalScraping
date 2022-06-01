@@ -1,8 +1,0 @@
-Job Positions : Business Intelligence Manager
-Company : NES Fircroft (Thailand) Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- data and/or business analyst
-- DBA Management system/online analytical process
-- BI tools, SQL, SASS, Python

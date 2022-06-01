@@ -1,8 +1,0 @@
-Job Positions : Full Stack Developer (JavaScript, Java) - Up to 120K
-Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
-Company Location : พญาไท
-Salary : No Infomation
-  skill  
-- Back end (Java 8+, Spring Framework)
-- Front end (Angular, HTML5, CSS, JavaScript)
-- CI/CD Tools (Docker, Ansible, Jenkins, Kubernetes)

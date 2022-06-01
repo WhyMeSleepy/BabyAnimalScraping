@@ -1,8 +1,8 @@
-Job Positions : System Engineer (Cloud Specialist)
-Company : Kiatnakin Phatra Bank Public Company Limited
-Company Location : วัฒนา
-Salary : No Infomation
+Job Positions : Back End Developer
+Company : RLC
+Company Location : บางรัก
+Salary : THB 55K - 90K /เดือน 
   skill  
-- Cloud Engineer be able to design
-- Ability to architect, deliver and support cloud
-- implement and operate multi cloud infrastructure
+- Attractive salary package
+- Career development in an international environment
+- Work with a cutting-edge fintech company

@@ -1,8 +1,8 @@
-Job Positions : C Programmer/โปรแกรมเมอร์
-Company : Castle (Thailand) Co., Ltd.
-Company Location : Huaykwang
+Job Positions : Software Engineer (B2b E-Commerce Platform)
+Company : Central Retail Corporation (CRC Talent Acquisition)
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- At least 0-3 years of C /C++ embedded system
-- Design, build, and maintain efficient
-- Implement performance and quality modules
+- Experience in full stack is a plus
+- Python, Java, Dart, Node JS, Golang coding
+- Proactive, agile mindset

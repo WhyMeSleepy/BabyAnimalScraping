@@ -1,4 +1,8 @@
-Job Positions : Software Developer (Kotlin,Java Spring Boot,Golang,.Net Core )
-Company : THE CONSULTANT CO., LTD.
-Company Location : Klongtoey
-Salary : THB 30K - 70K /month 
+Job Positions : Solution Specialist Engineer
+Company : DailiTech Co., Ltd.
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- Drive with Passion in Cloud Technology
+- Deep Dive on AWS and Related Technology
+- Professional, Challenge, and Teamwork

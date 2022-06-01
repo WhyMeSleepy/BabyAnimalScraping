@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer
-Company : Carabao Tawandang Co., Ltd.
-Company Location : บางรัก
+Job Positions : | Data Integration & Advanced Data Analytics Engineer | /16466/
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Full Stack Developer, front-end or back-end
-- Experience in CI/CD
-- HTML,CSS,Python,Ruby,Java
+- Data Analytics Integration
+- Data Analysis Computer Science IT ICT
+- PowerBI Software Application

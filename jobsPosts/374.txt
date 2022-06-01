@@ -1,8 +1,8 @@
-Job Positions : Application Engineer Light & Display (L&D) (Automotive) (30K-35K) (SDG-75380)/วิศวกรแอพพลิเคชั่น ด้านแสงและจอแสดงผล (L&D) (ยานยนต์)
-Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
-Company Location : สวนหลวง
+Job Positions : Lead Software Engineer (Based in Silom Office)
+Company : Central Retail Corporation (CRC Talent Acquisition)
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Japanese company in Bangkok / Flexible and stable
-- 3-5 years of experience in Technical Sales
-- C++, Python, MATLAB programming
+- Experience in Golang, Phython, Java programming
+- Experience in automated test
+- Agile way of working

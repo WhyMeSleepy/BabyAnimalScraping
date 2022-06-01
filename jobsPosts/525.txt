@@ -1,8 +1,4 @@
-Job Positions : Data Scientist Analytics - Team Lead
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Full Stack Developer/ออกแบบและพัฒนา Application สำหรับการใช้งานร่วมกับอุปกรณ์ IoT
+Company : INTRONICS CO., LTD.
+Company Location : จตุจักร
 Salary : No Infomation
-  skill  
-- Data Scientist, ML , Deep Learning
-- Data Team Lead, Manager
-- Fintech Global Company

@@ -1,8 +1,0 @@
-Job Positions : IoT Project Engineer
-Company : CAD - IT Consultants (Asia) Pte. Ltd.
-Company Location : Huaykwang
-Salary : No Infomation
-  skill  
-- experience  IoT platforms, MES , factory exposure
-- Programming  C/C++/JavaScript and or Python
-- knowledge of PLC & SCADA is advantageous

@@ -1,8 +1,8 @@
-Job Positions : Data Analytics
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
+Job Positions : Full Stack Developer
+Company : AIA Company Limited
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- customer insights, business data analytics
-- Retail & Business Banking Analytics
-- SQL, Power BI, Tableau, QlikView, Business Objects
+- software architecture
+- Full Stack Developer
+- Agile/Scrum Methodologies

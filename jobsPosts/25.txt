@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer (Backend)
-Company : Bangkok Payment Solutions Company Limited (BPS)
-Company Location : จตุจักร
+Job Positions : Data Engineer / Big Data Engineer (SQL skill is a must)
+Company : Muang Thai Life Assurance Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- 5 minutes walk from BTS and MRT
-- creative and innovative thinking culture
-- a leading system integration company
+- Experience in ETL tools or Data Pipeline
+- Strong SQL skills
+- Data integration, Data Warehouse, Data Lake

@@ -1,8 +1,8 @@
-Job Positions : URGENT!!! - Data Scientist - Ayuthaya - up to 35K
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : อยุธยา
+Job Positions : Senior ETL Developer
+Company : BTI Executive Search (Thailand) Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Education background in Data Science
-- At least 2 years experiences in Data Management
-- Experienced in BI tool such as PowerBI
+- DataStage Development
+- Strong Datawarehouse concepts
+- Experience in Agile Method

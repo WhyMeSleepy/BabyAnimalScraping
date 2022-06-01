@@ -1,8 +1,8 @@
-Job Positions : BI Developer Supervisor
-Company : Bertram (1958) Co., Ltd.
-Company Location : วังทองหลาง
+Job Positions : Software Developer/ Programmer
+Company : Krungthai Panich Insurance Public Company Limited
+Company Location : ราชเทวี
 Salary : No Infomation
   skill  
-- Business Intelligence
-- Software development
-- Microsoft Dynamic, ETL, BI, Power BI
+- Insurance,Banking
+- Python, Flask/Django Framework
+- Java, HTML5

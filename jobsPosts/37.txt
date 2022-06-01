@@ -1,8 +1,8 @@
-Job Positions : Junior Data Engineer **Open for New Grads
-Company : Central Retail Corporation Ltd. (JD Finance)
-Company Location : ปทุมวัน
+Job Positions : Data Engineer
+Company : FWD Life Public Company Limited
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Understanding of Hadoop ecosystem
-- Experience with data pipeline and workflow
-- Familiar with APIs, JSON, REST
+- 5-7 years of experience in Hadoop technologies
+- Design and develop scripting on best practices
+- Developing and maintain Big data platform

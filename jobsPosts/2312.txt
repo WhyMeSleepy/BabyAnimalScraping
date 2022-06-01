@@ -1,8 +1,0 @@
-Job Positions : Data Analyst / Senior Data Analyst
-Company : New Concept Product Co., Ltd.
-Company Location : บางกะปิ
-Salary : No Infomation
-  skill  
-- Bachelor or master degree in Applied Mathematics
-- At least 5 years of data analysis
-- Proficient in Microsoft Excel and Power BI

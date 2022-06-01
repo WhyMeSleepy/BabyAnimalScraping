@@ -1,8 +1,0 @@
-Job Positions : Developer/ Senior Developer (.NET, Java)
-Company : Beryl 8 Plus Company Limited
-Company Location : ห้วยขวาง
-Salary : No Infomation
-  skill  
-- Minumum 1-2 years of development experience
-- 4 years for Senior Developer
-- Good knowledge in Web-based application

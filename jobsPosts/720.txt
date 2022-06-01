@@ -1,8 +1,8 @@
-Job Positions : AI-Machine Learning Engineer (Conversational AI)
-Company : CP ALL PUBLIC COMPANY LIMITED
-Company Location : ปากเกร็ด
+Job Positions : Full Stack Programmer
+Company : Mazda Sales (Thailand) Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- AI / Machine Learning / AI System / AI Services
-- Computer Engineering or related fields
-- Good Command in English / AI, ML, Python
+- Must have knowledge in Microsoft SQL Server
+- Experience in mobile application development
+- Location: Bhiraj Tower at Emquartier,BTS Promphong

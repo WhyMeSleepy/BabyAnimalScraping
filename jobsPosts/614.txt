@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : JORAKAY CORPORATION CO., LTD.
-Company Location : Sapan-suang
+Job Positions : Full Stack Developer
+Company : IBM Thailand Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Data Engineer
-- Data Analytic
-- Statistics
+- Full Stack Developer
+- Good in English
+- Design, develop, and integrate solutions

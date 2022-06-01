@@ -1,4 +1,8 @@
-Job Positions : Senior Full Stack Software Developer - Work from home
-Company : Software Angels Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : MIS Data Analyst
+Company : Citibank , N.A.
+Company Location : คลองเตย
 Salary : No Infomation
+  skill  
+- Monitoring, assess, analyze and evaluate data
+- Identifies policy gaps and formulates policies
+- Interprets data and makes recommendations

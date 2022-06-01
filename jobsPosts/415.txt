@@ -1,8 +1,8 @@
-Job Positions : Cloud Infrastructure Architect (AWS)
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
+Job Positions : Software Engineer
+Company : Learn Corporation Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- AWS, Cloud Architect, Cloud Infrastructure
-- DevSecOps
-- Certified Cloud Architect
+- Junior, Mid-level, Senior
+- Mobile/Web application
+- Frontend, Backend, Full-stack

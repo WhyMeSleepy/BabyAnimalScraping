@@ -1,8 +1,8 @@
-Job Positions : MIS & Data Analytics/MIS & Data Analytics
-Company : CP ALL PUBLIC COMPANY LIMITED (Head Quarter)
-Company Location : บางรัก
+Job Positions : | Software Engineer | /14701/
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Experience with using query languages such as SQL
-- Experience in E-commerce business
-- Customer behavior analysis  is preferable
+- Software Engineer Java Frontend
+- Programmer Developer
+- Node.JS SQL API Git

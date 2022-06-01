@@ -1,8 +1,8 @@
-Job Positions : Senior Programmer Analyst
-Company : THAICOM Public Company Limited
-Company Location : จตุจักร
+Job Positions : Intermediate Software Engineer (Web Developer)
+Company : Intelligent Bytes Co., Ltd.
+Company Location : บางกะปิ
 Salary : No Infomation
   skill  
-- Bachelor’s degree in computer related
-- Minimum 2 year experiences in programming
-- Knowledge of design and develop web applications
+- Python, Django, Docker, Responsive web
+- At least 5 years of experience in web development
+- Bonus, flexible working hours, etc.

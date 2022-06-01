@@ -1,8 +1,8 @@
-Job Positions : Junior/Senior Full Stack Developer  ประจำพระประแดง
-Company : Chanwanich Group
-Company Location : Phrapradaeng
+Job Positions : Associate Data Engineer (Open to Fresh Graduate)
+Company : aCommerce Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- C# .Net, Angular, node.js
-- Big and Stable Company
-- Health care, Provident Fund, Annual Leave 10 days
+- Options to work remotely
+- AWS cloud environment
+- Big Data System

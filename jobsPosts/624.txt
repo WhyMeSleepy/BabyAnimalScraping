@@ -1,8 +1,8 @@
-Job Positions : Programmer/Programmer
-Company : World Vision Foundation of Thailand
-Company Location : Huaykwang
+Job Positions : Full-Stack Developer at Muze (Junior/Senior) - WFH / Hybrid Working
+Company : Muze Innovation Co., Ltd.
+Company Location : ดินแดง
 Salary : No Infomation
   skill  
-- Programmer
-- Application Developer
-- Programming Experience
+- WFH / Hybrid Working
+- Vue.js, React.js, Node.js
+- Experience in Agile/Scrum

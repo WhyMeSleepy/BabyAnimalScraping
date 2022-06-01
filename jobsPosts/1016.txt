@@ -1,4 +1,8 @@
-Job Positions : Full Stack Developer
-Company : Fusionex Co., Ltd.
-Company Location : พระโขนง
+Job Positions : Web Programmer
+Company : Siam Winery Trading Plus Co., Ltd.
+Company Location : ดอนเมือง
 Salary : No Infomation
+  skill  
+- Good understanding of SEO principles
+- Understanding K2 Developer (is a plus)
+- understanding Data warehouse and ETL (is a plus)

@@ -1,8 +1,0 @@
-Job Positions : Lead Software Engineer - Product Insight
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
-Salary : No Infomation
-  skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Skill in Java, C#, SQL script, API Design and AWS

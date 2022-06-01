@@ -1,8 +1,8 @@
-Job Positions : Technical Graduate / Developer/ Analyst Developer – Management Information - FSI Business Unit
-Company : SS&C Technologies, Inc. - Thailand office
-Company Location : วัฒนา
+Job Positions : Unreal Engine Developer (AR/VR/XR)
+Company : True Digital Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Flexible approach to Working from home
-- Excellent benefits package, Medical, Flexible time
-- Work in an international environment
+- Exp in AR/VR development & Unreal Engine 4
+- Exp in Unreal Engine 4 & Augmented Reality
+- Exp in 3D programming & Face/Body tracking

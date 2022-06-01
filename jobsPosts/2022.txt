@@ -1,8 +1,0 @@
-Job Positions : Data Analytics Manager
-Company : nocnoc
-Company Location : Bangsue
-Salary : No Infomation
-  skill  
-- Strong in Data Analytics skills & techniques
-- SQL: Google BigQuery, Amazon Redshift
-- BI tools: Power BI, Tableau

@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer/ Sr. DevOps Engineer
-Company : SRS Integration Company Limited
-Company Location : กรุงเทพมหานคร
-Salary : THB 55K - 90K /เดือน 
+Job Positions : Programmer/โปรแกรมเมอร์ (Urgent!)
+Company : V.Mane Fils (Thailand) Co., Ltd.
+Company Location : ลาดกระบัง
+Salary : No Infomation
   skill  
-- 3+ years Experience with DevOps
-- Docker, Kubernetes, Jenkins, AppDynamics, Splunk
-- Cloud e.g. Azure, AWS, GCP, OpenStack
+- New Graduated are welcome 0 - 5 years
+- Support, maintain and enhance existing application
+- Web Application Software Development.

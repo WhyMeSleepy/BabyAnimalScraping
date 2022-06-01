@@ -1,8 +1,8 @@
-Job Positions : Chatbot Data Analytics and Execution
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
+Job Positions : Full stack Developer
+Company : Nexus System Resources Co., Ltd.
+Company Location : สวนหลวง
 Salary : No Infomation
   skill  
-- Customer insights management
-- Knowledge Chatbot
-- Proactive data analytics
+- Full Stack Developer,  Back-end
+- Net Stack: C#/.NET Framework/.NET Core, OOPS
+- MS SQL Server, DB2 and noSQL(Mongo)

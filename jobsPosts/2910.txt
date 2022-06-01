@@ -1,8 +1,0 @@
-Job Positions : Senior ETL Developer
-Company : BTI Executive Search (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- DataStage Development
-- Strong Datawarehouse concepts
-- Experience in Agile Method

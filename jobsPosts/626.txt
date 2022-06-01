@@ -1,8 +1,8 @@
-Job Positions : Back-end Developer (Golang)
-Company : TRIDEPT COMPANY LIMITED
-Company Location : Wattana
+Job Positions : Front-End Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- At least 2 years experience with Go (GoLang)
-- Experience in E-Commerce
-- Understanding of code versioning tools,such as Git
+- Strong understanding of front-end development
+- 3 years experience in front-end development
+- HTML5, CSS3 and JavaScript

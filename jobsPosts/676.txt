@@ -1,0 +1,8 @@
+Job Positions : Full-Stack Developer (Biotech)
+Company : Ever Medical Technologies Company Limited
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Join dynamic team of technology-driven healthcare
+- Interest and experience in blockchain technologies
+- Able to write beautiful, well tested TypeScript

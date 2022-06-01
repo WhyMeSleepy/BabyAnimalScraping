@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Kiss of Beauty Co., Ltd.
-Company Location : วัฒนา
-Salary : No Infomation
-  skill  
-- At least 2 years’ Working experience
-- Knowledge in data governance design is a plus
-- Knowledge in ERP System(Oracle Netsuite) is a plus
+Job Positions : Application Developer/Application Developer
+Company : CHINA MACHINE (THAILAND) CO., LTD.
+Company Location : จตุจักร
+Salary : THB 55K - 70K /เดือน 

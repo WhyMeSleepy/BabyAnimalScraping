@@ -1,8 +1,0 @@
-Job Positions : Android Developer/วิศวกรซอฟต์แวร์ (แอนดรอยด์)
-Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
-Company Location : Prakket
-Salary : No Infomation
-  skill  
-- Design and develop software applications
-- Have experience with Rest API, Git, Docker etc.
-- Experience with Android, Kotlin, MVVM, GrahpQL

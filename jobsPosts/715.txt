@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer
-Company : TRIDEPT COMPANY LIMITED
-Company Location : วัฒนา
+Job Positions : Golang Lead Developer (Banking and Financial)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Building and maintaining AWS
-- Experience of data stores Relational, NoSQL, Kafka
-- Experience with Docker, GitHub, Jenkins, ELK
+- Golang Developer (Blockchain Technology)
+- Attractive Salary
+- Cutting Edge Technology

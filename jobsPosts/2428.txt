@@ -1,8 +1,0 @@
-Job Positions : Senior Data Engineer - Bangpoo
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : เมืองสมุทรปราการ
-Salary : THB 45K - 70K /เดือน 
-  skill  
-- Datacenter
-- Implementing and managing computer datacenter
-- Racks

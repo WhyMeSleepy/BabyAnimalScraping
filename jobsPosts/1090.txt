@@ -1,0 +1,8 @@
+Job Positions : Developer (Frontend or Backend)
+Company : N-SQUARED ECOMMERCE CO., LTD.
+Company Location : คลองเตย
+Salary : No Infomation
+  skill  
+- Frontend - ReactJS, VueJS
+- Backend - Python, RESTful API
+- Wellness fare (Shopping) 10k per year

@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Ocean Life Insurance Public Company Limited
-Company Location : Klongtoey
+Job Positions : Full Stack Developer
+Company : Manao Software Co., Ltd.
+Company Location : เชียงใหม่
 Salary : No Infomation
-  skill  
-- Data engineer
-- BI
-- ETL/ELT Too

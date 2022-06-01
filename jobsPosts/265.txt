@@ -1,8 +1,8 @@
-Job Positions : Cloud Integration Engineer (45K-60K) (SDG-76683)/วิศวกรบูรณาการระบบคลาวด์
-Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
-Company Location : Wattana
+Job Positions : Data Modeling Assistant Manager (Data Scientist)
+Company : NES Fircroft (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Have a change to learn new technology
-- Experience in several system development project
-- Support implement cloud ERP system
+- 7 years of experience in data and/Business Analyst
+- online analytical processing, and ETL framework
+- BI tools, SQL, SASS, Python

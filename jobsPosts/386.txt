@@ -1,8 +1,8 @@
-Job Positions : Technical Project Manager
-Company : LINE Company (Thailand) Limited
-Company Location : ปทุมวัน
-Salary : No Infomation
+Job Positions : Data Engineer – Utilise enterprise data platform using cutting-edge technologies with tech company
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : ยานนาวา
+Salary : THB 45K - 120K /เดือน 
   skill  
-- Experience in leading engineering project practice
-- Lead the scrum team in using Agile methodology
-- Ability to solve complex problems through analysis
+- Salary up to 100,000 THB + Great benefits
+- Proficient with Python/Pyspark for ETL, data model
+- Working on AWS and GCP

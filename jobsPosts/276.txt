@@ -1,8 +1,8 @@
-Job Positions : Backend Web Programmer
-Company : Noble Development Public Company Limited
-Company Location : ปทุมวัน
+Job Positions : DevOps Engineer
+Company : TRIDEPT COMPANY LIMITED
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- 3 years’ experience in coding Web Development
-- Proficiency with HTML,CSS,JavaScript,PHP,C# .NET
-- Having Toeic score is advantage (minimum 450)
+- Building and maintaining AWS
+- Experience of data stores Relational, NoSQL, Kafka
+- Experience with Docker, GitHub, Jenkins, ELK

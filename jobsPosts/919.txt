@@ -1,8 +1,8 @@
-Job Positions : Senior Data Scientist
-Company : Bluebik Group Public Company Limited
-Company Location : บางรัก
+Job Positions : Assistant Data Engineer Manager
+Company : Ananda Development Public Company Limited
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Flexible working hours
-- Competitive Salary
-- Close to BTS and Work from anywhere policy
+- SQL
+- Python
+- Analysis Service

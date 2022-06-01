@@ -1,8 +1,8 @@
-Job Positions : Developer Relations/Developer Advocacy(Junior to Senior Manager)
-Company : SCB TECH X CO., LTD.
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior System Analyst (K2/RPA Developer)
+Company : ThaiNamthip Limited
+Company Location : หลักสี่
 Salary : No Infomation
   skill  
-- Experiment on new ideas and technologies
-- Technology community engagement and growth
-- Hybrid Working
+- 1+ years experienced in C# , HTML, CSS, JavaScript
+- 1+ years experienced in REST API, Web Service, SQL
+- Minimum 1 years experienced in IT

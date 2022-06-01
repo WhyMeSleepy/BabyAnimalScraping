@@ -1,8 +1,8 @@
-Job Positions : Lead QA Engineer
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Data Infrastructure Engineer (Data Reliability Engineer) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Automated tests
+- Data Infrastructure, Data Reliability
+- Incident support, incident analysis
+- SQL, Python, cloud, Big Data

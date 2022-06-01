@@ -1,8 +1,0 @@
-Job Positions : RPA Developer
-Company : The Mall Group Co., Ltd.
-Company Location : Bangkapi
-Salary : No Infomation
-  skill  
-- Developing and testing software
-- RPA, Ui Path, Automation anywhere is a plus
-- Experienced with RPA automation

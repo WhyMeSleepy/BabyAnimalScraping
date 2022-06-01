@@ -1,8 +1,4 @@
-Job Positions : Data Analyst (Fashion Retail)
-Company : Jaspal Co., Ltd.
-Company Location : พระโขนง
+Job Positions : Backend Developer (Full time)
+Company : WESERVE LIFESTYLE CO., LTD.
+Company Location : ภูเก็ต
 Salary : No Infomation
-  skill  
-- data analyst
-- ETL, SSIS, SSAS, Python
-- Data Visualization

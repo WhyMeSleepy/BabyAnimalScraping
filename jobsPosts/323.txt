@@ -1,8 +1,8 @@
-Job Positions : Software Tester/นักทดสอบระบบ
-Company : Nemera International Co., Ltd.
-Company Location : Bangkok
+Job Positions : Data Engineer
+Company : nocnoc
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Annual Leave 12 Day per years
-- Heath Insurance
-- Renewal intensive up to 15 K.
+- Experience with relational SQL and NoSQL databases
+- Experience with data science project pipeline
+- Create data tools for analytics team

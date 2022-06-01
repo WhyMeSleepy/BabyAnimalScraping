@@ -1,8 +1,8 @@
-Job Positions : | IT Developer - Audit Development | /13541/
-Company : The Siam Cement Public Company Limited (SCG)
-Company Location : Bangsue
-Salary : No Infomation
+Job Positions : Junior Data Engineer
+Company : Coforge Limited
+Company Location : บางซื่อ
+Salary : THB 25K - 35K /เดือน 
   skill  
-- IT Developer Development
-- Azure Cloud ERP Audit Git Web Application
-- Information System Security Management
+- Data Engineer 1-3 years of experience
+- Data Warehouse/ Data science for enterprise
+- Fixed Bonus, Life/Health Insurance, PVD,

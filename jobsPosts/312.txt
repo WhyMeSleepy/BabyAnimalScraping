@@ -1,8 +1,4 @@
-Job Positions : Software Verification Officer  - Mobile phone
-Company : Thai Samsung Electronics Co., Ltd.
-Company Location : ยานนาวา
+Job Positions : Backend  Developer/Backend  Developer
+Company : ANT GAMES WORLD CO., LTD.
+Company Location : เชียงราย
 Salary : No Infomation
-  skill  
-- Telecommunication/Computer/ Electronics Engineer
-- Min 1-2 Year in tester, test report findings
-- Knowledge in GSM/UMTS /LTE /NR Network

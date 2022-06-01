@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Software Engineer (Model based development)
+Company : TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) CO., LTD.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Bachelor's in Computer Engineering / Related
-- 2-3 Yrs in Hadoop Technologies, ETL , Python
-- Excellent Communication Skills
+- 5 Days work week
+- BTS Chit Lom exit 4
+- Model based development

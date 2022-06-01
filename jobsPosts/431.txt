@@ -1,4 +1,8 @@
-Job Positions : Embedded Software Engineer
-Company : Alstom
-Company Location : กรุงเทพมหานคร
+Job Positions : Business Intelligence/Data Engineer
+Company : Playtorium Solutions Company Limited
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- Business Intelligence
+- Data Engineer
+- SQL, ETL, Python, R

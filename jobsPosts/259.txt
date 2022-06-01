@@ -1,8 +1,8 @@
-Job Positions : IT Developer
-Company : PRTR
+Job Positions : Software Developer [Job ID:62503]
+Company : Reeracoen Recruitment Co.,Ltd.
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- 3+ Yrs Programming Experience: Python/PHP/Etc
-- Basic Front-End Coding, JavaScript, HTML, Etc
-- Good Command of English
+- 1 year working experience as a software developer
+- Visual Studio C#, PHP, Java and PL/SQL
+- Salary 30-55k

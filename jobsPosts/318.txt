@@ -1,8 +1,8 @@
-Job Positions : FULL STACK DEVELOPER / JAVA DEVELOPER/นักพัฒนาซอฟแวร์
-Company : JPWALL Consulting Partners (Thailand) Co., Ltd.
-Company Location : หลักสี่
+Job Positions : Programmer (Full Stack Developer) //Fresh Graduates Are Welcome/โปรแกรมเมอร์ (Full Stack Developer) //ยินดีรับนักศึกษาจบใหม่
+Company : Sony Device Technology ( Thailand ) Co.,Ltd.
+Company Location : เมืองปทุมธานี
 Salary : No Infomation
   skill  
-- 100% Agile/Scrum development process.
-- Always new innovation technology and methodology.
-- Product development not Project development.
+- Develop application and support database.
+- Bachelor's degree in Computer Science or related.
+- Good command of English is required.

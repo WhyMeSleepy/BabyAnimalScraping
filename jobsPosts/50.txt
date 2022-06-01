@@ -1,8 +1,8 @@
-Job Positions : Software Developer (Web/Mobile/Back-End/Full Stack)
-Company : Playtorium Solutions Company Limited
-Company Location : จตุจักร
+Job Positions : Software Engineer
+Company : NXP Semiconductors
+Company Location : หลักสี่
 Salary : No Infomation
   skill  
-- Web: React, Angular, Vue.js   CMS: Wordpress
-- MOB: Flutter,React-Native,Kotlin,Swift,Objective-c
-- Back-End: NodeJS,Java Spring Boost,Python,PHP
+- Bachelor degree in IT, Computer Science or related
+- Good knowledge of C# .Net, Design pattern
+- Good knowledge of JSON and REST APIs services

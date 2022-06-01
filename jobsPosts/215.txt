@@ -1,8 +1,8 @@
-Job Positions : Data Analyst
-Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
-Company Location : Prakket
+Job Positions : | Data Engineer/ETL Developer | /14741/
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Sales Management
-- Fast Growing Company
-- Flat organization with modern culture
+- Data Engineer ETL Developer
+- AWS DB Tuning Architect
+- Computer Science Computer Engineering IT ICT

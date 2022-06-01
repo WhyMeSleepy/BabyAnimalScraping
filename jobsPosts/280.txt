@@ -1,4 +1,8 @@
-Job Positions : IT Programmer/เจ้าหน้าที่เขียนโปรแกรม / โปรแกรมเมอร์
-Company : La-Z-Boy (Thailand) Co., Ltd.
-Company Location : ชลบุรี
+Job Positions : IT Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
+  skill  
+- 3+ Yrs Programming Experience: Python/PHP/Etc
+- Basic Front-End Coding, JavaScript, HTML, Etc
+- Good Command of English

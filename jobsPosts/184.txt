@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer / Website Developer
-Company : LAZUDI CO., LTD.
-Company Location : วัฒนา
+Job Positions : Data Scientist/นักวิทยาศาสตร์ข้อมูล
+Company : AIGEN CO., LTD.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- 3 years min: PHP / Laravel / Symfony
-- Prop-tech startup
-- Inhouse development team Phuket or Bangkok
+- Min. Bachelor, 2-8 yr experience
+- Provident fund, healthcare benefit
+- Exciting AI/ML growth in healthcare/insur tech biz

@@ -1,8 +1,8 @@
-Job Positions : Urgent!!! Software Tester (Manual Tester/Automated - Robot, selenium)/@Full-time/Hybrid/WFH - KG ll .LineID: keson-kelly
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Junior Developer ประจำสีลม
+Company : Chanwanich Group
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- 1+yrs of Manual Tester/Automated - Robot, selenium
-- Analyzing an organization and designing test
-- Strong command in English and Thai
+- ปสก.อย่างน้อย 1 ปี C#.Net ,ASP.NET, MVC, Python
+- รักการ coding, ชอบศึกษาเทคโนโลยีใหม่ๆ
+- โบนัส, กองทุนสำรองเลี้ยงชีพ, ประกันกลุ่ม,ลาพักร้อน

@@ -1,8 +1,4 @@
-Job Positions : DevOps Engineer
-Company : Garena Online (Thailand) Co., Ltd./ Sea Thailand
-Company Location : ดินแดง
+Job Positions : Software Developer
+Company : INNOVISOR TECH CO., LTD.
+Company Location : สาทร
 Salary : No Infomation
-  skill  
-- CI/CD
-- Autonomy at work
-- Supportive Environment

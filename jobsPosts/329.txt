@@ -1,8 +1,8 @@
-Job Positions : SAP Developer
-Company : ExxonMobil Limited
-Company Location : Bangrak
+Job Positions : Product Data Scientist - True Analytics
+Company : True Digital Group Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
   skill  
-- Software Development
-- Global Company
-- Competitive Salary
+- solid understanding of data models
+- developing analytical models to predict customer
+- build a holistic customer view

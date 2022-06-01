@@ -1,4 +1,8 @@
-Job Positions : Full Stack Developer (Senior/Junior)
-Company : Crossingsoft Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 35K - 90K /เดือน 
+Job Positions : RPA Consultant/RPA Developer
+Company : บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน)
+Company Location : พญาไท
+Salary : No Infomation
+  skill  
+- Identify opportunities for Automation
+- Design & Develop Automation processes
+- UiPath, Microsoft Power Platform, NICE, Python

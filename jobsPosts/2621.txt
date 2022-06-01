@@ -1,8 +1,0 @@
-Job Positions : Senior Infra & DevOps Engineer
-Company : Pi SECURITIES PUBLIC COMPANY LIMITED
-Company Location : Pathumwan
-Salary : No Infomation
-  skill  
-- Bachelor’s Degree in Computer Science
-- Manages cloud and on-premise infrastructure
-- At least 3 years experience in IT infrastructure

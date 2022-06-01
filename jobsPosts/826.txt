@@ -1,8 +1,8 @@
-Job Positions : AI Machine Learning Engineer (work BTS Bearing) ยินดีรับเด็กจบใหม่
-Company : UTAC Thai Limited
-Company Location : บางนา
+Job Positions : Full Stack Developer - Online Station Business **Urgently Required**
+Company : True Digital Group Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
   skill  
-- ยินดีรับเด็กจบใหม่, AI model
-- AI model Inventory,
-- AI Engineer,  Python coding
+- Experience as a Full-Stack Developer
+- Proficiency with fundamental front end languages
+- HTML, Javascript, PHP, Vue, React, Node.Js, mySQL

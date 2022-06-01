@@ -1,8 +1,8 @@
-Job Positions : Senior Consultant  (Digital Controls - Data Analytics)
-Company : Deloitte Touche Tohmatsu Jaiyos Co., Ltd.
-Company Location : Sathorn
-Salary : No Infomation
+Job Positions : Senior Full Stack Developer (Python) Upto 150K
+Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
+Company Location : บางกะปิ
+Salary : THB 120K - 160K /เดือน 
   skill  
-- 4-6 years experience in Data Analytics
-- Understanding in IT Risk, standard & regulation
-- Good understand in Business Process & Operations
+- Advanced Python, Django, React.JS
+- CI & Code Review
+- Strong in Web API - Software Architecture

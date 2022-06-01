@@ -1,8 +1,0 @@
-Job Positions : Assistant Manager - Bancassurance Application and Services (Senior Developer)
-Company : Krungthai-AXA Life Insurance Public Company Limited
-Company Location : ห้วยขวาง
-Salary : No Infomation
-  skill  
-- 3-5 years of experiences in website development
-- .Net MVC/ASP .Net/.NET languages/Visual studio/C#
-- Understanding of Object-Oriented Programming

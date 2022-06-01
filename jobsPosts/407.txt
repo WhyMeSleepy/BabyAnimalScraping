@@ -1,8 +1,4 @@
-Job Positions : Web Developer/ Manager/เว็บมาสเตอร์
-Company : Aesthetic Connect Company Limited
-Company Location : คลองสาน
+Job Positions : Programmer/โปรแกรมเมอร์ (ทำงาน 5 วัน/สัปดาห์ - ประจำสำนักงานใหญ่เยาวราช)
+Company : HUASENGHENG COMMODITAS CO., LTD.
+Company Location : สัมพันธวงศ์
 Salary : No Infomation
-  skill  
-- Web developer
-- SEO optimization
-- Project management& web management

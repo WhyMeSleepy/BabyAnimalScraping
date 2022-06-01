@@ -1,8 +1,0 @@
-Job Positions : Programmer / Senior Service Delivery Manager - Core Banking
-Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
-Company Location : จตุจักร
-Salary : No Infomation
-  skill  
-- OS/390, ZOS, Red Hat Linux, SQL, Oracle DB, DB2
-- Cobol, Cobol CICS, EASY TRIEVE, Java, .NET, Java
-- Docker, Kubernets, Jenkins, Maven, AZURE, AWS

@@ -1,4 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : TechBerry Company Limited
-Company Location : พญาไท
+Job Positions : Head of Data Architect
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
+  skill  
+- Data Architect; Data Platform
+- Data Management
+- Data Product

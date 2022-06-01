@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (DevOps and Microservices)
-Company : Sirisoft Company Limited
-Company Location : ดินแดง
+Job Positions : Data Scientist, Advanced Analytics
+Company : PANDORA
+Company Location : ประเวศ
 Salary : No Infomation
   skill  
-- คนรุ่นใหม่ไฟแรง 0-3 ปี รักการเรียนรู้ ทำงานเป็นทีม
-- ใช้งาน Linux/UNIX และสามารถอ่าน/Coding ได้
-- พร้อมเรียนรู้เทคโนโลยีใหม่ Docker, Microservices
+- Data mangling and advanced statistical analysis
+- Forecasting and optimization techniques with data
+- Analytical products, exploration and prototyping

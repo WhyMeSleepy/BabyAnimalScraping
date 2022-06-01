@@ -1,4 +1,8 @@
-Job Positions : Programmer (JAVA, .NET, Python, PHP, Fullstack, SQL, PL/SQL, Front-end, Angular, Go, Groovy, Mobile)
-Company : Vanness Plus Consulting Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Machine Learning Engineer/วิศวกรด้านแมชชีนเลิร์นนิง
+Company : AIGEN CO., LTD.
+Company Location : ห้วยขวาง
+Salary : THB 45K - 120K /เดือน 
+  skill  
+- 3-5 yrs experience in machine/deep learning
+- Bachelor Degree. Experience in NLP, machine vision
+- Flexible hrs., WFH, Health Insurance

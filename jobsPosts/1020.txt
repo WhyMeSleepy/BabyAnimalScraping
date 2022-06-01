@@ -1,8 +1,8 @@
-Job Positions : Senior Lead Developer, Index Technology
-Company : LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Developer/ Senior Developer (.NET, Java)
+Company : Beryl 8 Plus Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Embrace diversity & Value different perspectives
+- Minumum 1-2 years of development experience
+- 4 years for Senior Developer
+- Good knowledge in Web-based application

@@ -1,8 +1,8 @@
-Job Positions : Fullstack Developer (Frontend Base)
-Company : Big C Supercenter Public Co., Ltd.
-Company Location : พระโขนง
+Job Positions : Software Developer
+Company : SEC Playground
+Company Location : ลาดพร้าว
 Salary : No Infomation
   skill  
-- Fullstack Developer (Frontend Base)
-- Location: BTS Ekkamai
-- Working Day: Mon-Fri (WFA 2 days per week)
+- ไม่มีการตอกบัตรเข้างาน วัดผลจากการทำงาน
+- มีจัดกิจกรรม Team Building ทุกเดือน(ถ้าจัดได้)
+- ในออฟฟิศมีขนมและน้ำไม่อั้น

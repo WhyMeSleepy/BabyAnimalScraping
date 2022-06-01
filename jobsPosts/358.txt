@@ -1,8 +1,8 @@
-Job Positions : Senior Application Engineer - Market Information Systems Department
-Company : The Stock Exchange of Thailand
-Company Location : ดินแดง
+Job Positions : Data Engineer
+Company : Kiss of Beauty Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- ปริญญาตรีขึ้นไปสาขาวิศวกรรมคอมพิวเตอร์
-- มีประสบการณ์ด้าน IT ที่เป็นประโยชน์ต่องาน
-- มีความสามารถด้านภาษาอังกฤษในระดับดี
+- At least 2 years’ Working experience
+- Knowledge in data governance design is a plus
+- Knowledge in ERP System(Oracle Netsuite) is a plus

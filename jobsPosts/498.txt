@@ -1,0 +1,8 @@
+Job Positions : Sr./Jr. Data Engineer (สังกัดบริษัท MSyne Innovation - MFEC Group of Company)
+Company : MSyne Innovations (MFEC Group of Company)
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- ๋Sr./Jr. Data Engineer
+- Hadoop Cloudera
+- Data Warehouse and ETL concept

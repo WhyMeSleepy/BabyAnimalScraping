@@ -1,0 +1,8 @@
+Job Positions : Front End Developer / Back End Developer (Digital Delivery Solution Information Technology)
+Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Develop back end functional service
+- Test, defect fix and deploy programs
+- Coding and debugging

@@ -1,8 +1,8 @@
-Job Positions : Data Engineer/Senior Data Engineer
-Company : Greenline Synergy Co., Ltd.
-Company Location : Suanluang
+Job Positions : Software Engineer (Urgently Required)
+Company : SCB PROTECT CO., LTD.
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Data Warehouse Conceptual - ETL/ELT
-- Data Architecture, Data Lake, Data Warehouse
-- Experience with relational database systems
+- Exp. 3 yrs. in Software Engineer
+- Knowledge in Express.js/ React.js
+- Familiar with Kubernetes (EKS) and AWS Cloud

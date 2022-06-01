@@ -1,8 +1,8 @@
-Job Positions : Database Administrator (DBA)
-Company : Sirisoft Company Limited
-Company Location : ห้วยขวาง
+Job Positions : Programmer/ Welcome Fresh Graduate/ Upto 22K/ BTS Chong Nongsi
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- ปริญญาตรี วิศวะคอม ไอที วิทยาคอม ปสก 0-3 ปี
-- วางแผน, ติดตั้ง, ดูแล, ปรับปรุงประสิทธิภาพระบบ DB
-- MSSQL, Oracle, PostgreSQL, EDB, MongoDB, or Redis
+- New grad or non-experience candidate are welcome
+- Knowledge and Experience in JAVA is advantage
+- BTS Chong Nongsi

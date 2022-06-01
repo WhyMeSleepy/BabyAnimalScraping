@@ -1,8 +1,0 @@
-Job Positions : DevSecOps Lead [ID:62579]
-Company : Reeracoen Recruitment Co.,Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Bachelor degree in Computer engineering
-- Experience in Developer or Software Engineer
-- DevOps concept understanding is a must

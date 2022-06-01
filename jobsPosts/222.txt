@@ -1,8 +1,8 @@
-Job Positions : Senior Programmer/เจ้าหน้าที่พัฒนาโปรแกรมอาวุโส
-Company : Honda Leasing (Thailand) Co., Ltd.
-Company Location : บางนา
+Job Positions : Lead Data Engineer
+Company : Greenline Synergy Co., Ltd.
+Company Location : สวนหลวง
 Salary : No Infomation
   skill  
-- Senior Programmer
-- Angular JS, Node JS, React, Vue JS, Git, Docker
-- Microservice Architect, GitHub, Jenkins, Elasticse
+- Data Engineer Team Lead
+- Data Architecture, Data Lake, Data Warehouse
+- Experience with relational database systems

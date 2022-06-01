@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (ERP project)
-Company : aCommerce Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Software Engineer Specialist (Based in Vientiane)
+Company : THAICOM Public Company Limited
+Company Location : ต่างประเทศ
 Salary : No Infomation
   skill  
-- E-commerce Industry
-- International Work Environment
-- Options to Work From Home
+- Bachelor's degree / higher in computer engineering
+- Familiarity with various operating systems
+- Analytical mind with problem-solving aptitude

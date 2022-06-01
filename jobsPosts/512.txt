@@ -1,8 +1,8 @@
-Job Positions : Machine Learning Engineer
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Software Implementer
+Company : Freewill Solutions Co., Ltd.
+Company Location : สาทร
+Salary : THB 20K - 35K /เดือน 
   skill  
-- statistical programming  (e.g., Python, R,pandas)
-- database software (e.g., SQL, PySpark)
-- hypothesis testing, regression, machine learning
+- Work from home 3-4 days/week
+- New graduate welcome
+- Work with new gen dynamic team

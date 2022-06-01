@@ -1,4 +1,8 @@
-Job Positions : Programmer/Application Developer/โปรแกรมเมอร์ นักพัฒนาระบบ
-Company : Vansales Application Co., Ltd.
-Company Location : ปากเกร็ด
+Job Positions : Senior Data Engineer
+Company : Central Retail Corporation Ltd. (JD Finance)
+Company Location : ปทุมวัน
 Salary : No Infomation
+  skill  
+- Understanding of Hadoop ecosystem
+- Experience with data pipeline and workflow
+- Familiar with APIs, JSON, REST

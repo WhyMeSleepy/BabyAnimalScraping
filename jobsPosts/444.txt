@@ -1,4 +1,8 @@
-Job Positions : Associate/Senior - Audit Innovation – Innovation
-Company : KPMGThailand
-Company Location : จังหวัดอื่นๆ
+Job Positions : Cloud Data Engineer (DataX)
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- Cloud Data Engineer
+- data warehouse, big data, business intelligence
+- Hadoop/CLOUDERA, Cisco Data Virtualization,PwBI

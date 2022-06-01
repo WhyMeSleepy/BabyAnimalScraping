@@ -1,4 +1,8 @@
-Job Positions : Software Developer
-Company : INNOVISOR TECH CO., LTD.
-Company Location : Sathorn
+Job Positions : Software Developer/ซอฟแวร์ ดีเวลลอปเปอร์
+Company : CP ALL PUBLIC COMPANY LIMITED
+Company Location : ปากเกร็ด
 Salary : No Infomation
+  skill  
+- ปริญญาตรี - ปริญญาโท สาขาสารสนเทศ
+- Angular, PHP , Node js
+- computer science

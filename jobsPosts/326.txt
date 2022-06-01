@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Java Programmer)
-Company : Motif Technology Public Company Limited
-Company Location : Klongtoey
+Job Positions : Developer
+Company : ALL NOW LOGISTICS CO., LTD.
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Full stack developer
-- Welcome New Grad
-- Developed web application with Java technology
+- Experience with PHP, .Net, MVC and web service
+- Experience with SQL command and Database
+- Understanding OOP and happy work as project base

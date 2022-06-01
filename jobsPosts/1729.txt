@@ -1,8 +1,0 @@
-Job Positions : Full Stack Developer
-Company : IBM Thailand Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Full Stack Developer
-- Good in English
-- Design, develop, and integrate solutions

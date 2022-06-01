@@ -1,8 +1,8 @@
-Job Positions : Web Developer
-Company : Greenline Synergy Co., Ltd.
-Company Location : สวนหลวง
+Job Positions : Data Operations Engineer (Data Ops Team) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Develop Web Applications for Hospital Management
-- Python, .net, node.js, JavaScript (on your demand)
-- We are a subsidiary Company of BDMS Group.
+- data operations
+- data management processes
+- SQL, Python, Azure

@@ -1,0 +1,8 @@
+Job Positions : Java Developer
+Company : Boonrawd Brewery Co., Ltd.
+Company Location : ลาดพร้าว
+Salary : No Infomation
+  skill  
+- พัฒนาแอปพลิเคชั่่น
+- วิเคราะห์ ออกแบบ และติดตั้งแอปพลิเคชั่น
+- ค้นคว้าเครื่องมือ นวัตกรรมและเทคนิคการบริหารงาน

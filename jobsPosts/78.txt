@@ -1,8 +1,8 @@
-Job Positions : AVP Data Scientist
-Company : Magnolia Quality Development Corporation Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Engineer (Bangkok Based)
+Company : Primo World Co., Ltd.
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Highly Analytical
-- Project Management
-- Communication & Collaboration Across Teams
+- Data ETL and data migration works
+- Incidence management and root cause analysis
+- AWS Cloud Infrastructure

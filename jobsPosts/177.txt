@@ -1,8 +1,8 @@
-Job Positions : Data Analytics - Agency Recruitment Specialist
-Company : AIA Company Limited
-Company Location : บางรัก
+Job Positions : Software Developer (Web/Mobile/Back-End/Full Stack)
+Company : Playtorium Solutions Company Limited
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Extensive experience in Data Analytics
-- Sales & Marketing management
-- Data Management & Strategic Planning
+- Web: React, Angular, Vue.js   CMS: Wordpress
+- MOB: Flutter,React-Native,Kotlin,Swift,Objective-c
+- Back-End: NodeJS,Java Spring Boost,Python,PHP

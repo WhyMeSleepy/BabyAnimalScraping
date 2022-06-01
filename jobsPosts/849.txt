@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer (Junior/Intermediate/Senior/Lead)
+Company : PALO IT (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Full Stack Development Web & Mobile w/ Agile/Scrum
+- Node.js Express, Java Spring Boot, React, Angular
+- HTML 5, Rest Services, SQL NoSQL Databases, CI/CD

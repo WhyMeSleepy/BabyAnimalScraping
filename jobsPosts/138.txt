@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Urgently Required)
-Company : SCB PROTECT CO., LTD.
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Programmer
+Company : Tru Automotive Co., Ltd.
+Company Location : ห้วยขวาง
+Salary : THB 25K - 35K /เดือน 
   skill  
-- Exp. 3 yrs. in Software Engineer
-- Knowledge in Express.js/ React.js
-- Familiar with Kubernetes (EKS) and AWS Cloud
+- พัฒนาโปรแกรม / C#.Net
+- จบการศึกษาระดับปริญญาตรี สาขาเทคโนโลยีสารสนเทศ
+- มีความรู้ความเข้าใจในเทคโนโลยี Windows Application

@@ -1,0 +1,8 @@
+Job Positions : Data Analyst
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : THB 45K - 70K /เดือน 
+  skill  
+- Proficiency in Python and/or R
+- Expert proficiency in MS Excel, SQL
+- Understanding of ETL framework and ETL tools

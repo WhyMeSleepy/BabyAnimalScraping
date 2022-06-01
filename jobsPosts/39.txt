@@ -1,8 +1,8 @@
-Job Positions : Back-End Engineers
-Company : Arise by Infinitas Co., Ltd.
-Company Location : คลองเตย
+Job Positions : AI Machine Learning Engineer (work BTS Bearing) ยินดีรับเด็กจบใหม่
+Company : UTAC Thai Limited
+Company Location : บางนา
 Salary : No Infomation
   skill  
-- Fresh graduates with a degree in computer science
-- 3 years experience in backend development
-- Go, Java, and Python and Kotlin
+- ยินดีรับเด็กจบใหม่, AI model
+- AI model Inventory,
+- AI Engineer,  Python coding

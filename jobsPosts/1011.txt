@@ -1,8 +1,8 @@
-Job Positions : Software Developer/นักพัฒนาซอฟต์แวร์
-Company : Absolute Management Solutions Co., Ltd.
-Company Location : บางแค
-Salary : No Infomation
+Job Positions : iOS Developer (80K - 100K + attractive bonus & benefits)
+Company : Skillpower Services (Thailand) Co., Ltd.
+Company Location : สาทร
+Salary : THB 70K - 120K /เดือน 
   skill  
-- 1 years of experience
-- full-stack software developer
-- Flutter, Angular, Nodejs, and/or MongoDB, IoT
+- At least 2-3 years experiences in iOS dev
+- Skill in Swift languages
+- Good command of English

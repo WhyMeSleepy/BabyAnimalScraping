@@ -1,8 +1,8 @@
-Job Positions : Assistant Data Engineer Manager
-Company : Ananda Development Public Company Limited
-Company Location : คลองเตย
+Job Positions : Mid-Lead Golang Developer – Cutting Edge Tech, Enterprise Project
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- SQL
-- Python
-- Analysis Service
+- Golang, Enterprise Project
+- Cutting Edge Tech, API, CLoud
+- Agile, Microservices

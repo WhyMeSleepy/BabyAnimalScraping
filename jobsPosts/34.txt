@@ -1,8 +1,8 @@
-Job Positions : Data Scientist - Customer Analytics
-Company : Bangkokbank (BBL)
+Job Positions : Data Scientist
+Company : Teo Hong Silom Co., Ltd.
 Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Data Scientist Data Mining Statistics
-- Computer Engineering , IT
-- Marketing , Consumer Behavior , CRM Analytics
+- Experience in Data Scientist, BI, or Data Analytic
+- Knowledge in machine learning
+- Proficiency in SQL

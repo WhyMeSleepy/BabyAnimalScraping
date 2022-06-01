@@ -1,8 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : ISID South East Asia (Thailand) Co., Ltd.
-Company Location : วัฒนา
-Salary : THB 45K - 70K /เดือน 
+Job Positions : Software Developer
+Company : Kerry Express (Thailand) Public Company Limited
+Company Location : บางรัก
+Salary : No Infomation
   skill  
-- Dashboard, Report and Programming
-- iReporter/BI/ERP/IoT
-- Low code experience is a Plus++
+- Software Developer
+- IT
+- Software development

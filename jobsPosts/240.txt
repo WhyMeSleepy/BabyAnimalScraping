@@ -1,8 +1,8 @@
-Job Positions : Technical Consultant and Solution Design / SAS Developer (Junior/Senior)
-Company : Yip In Tsoi & Co., Ltd.
-Company Location : บางรัก
+Job Positions : Programmer/Programmer
+Company : World Vision Foundation of Thailand
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Bachelor's Degree in Computer Science
-- 1 - 5 years’ experience in SAS programing
-- Experience in Monitoring & Installation MS Window
+- Programmer
+- Application Developer
+- Programming Experience

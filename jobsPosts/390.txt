@@ -1,8 +1,8 @@
-Job Positions : Hardware Electronics Design Engineer (R&D)
-Company : Turnkey Communication Services Co., Ltd.
-Company Location : หลักสี่
-Salary : No Infomation
+Job Positions : Senior DevOps Engineer
+Company : Michael Page
+Company Location : จังหวัดอื่นๆ
+Salary : THB 55K - 120K /เดือน 
   skill  
-- Electronic Design
-- Hardware Design
-- Product Design & Research and Development
+- Multinational IT Services
+- Implement the newest technology
+- Intensive experience in DevOps + Cloud Solutions

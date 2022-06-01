@@ -1,8 +1,8 @@
-Job Positions : Full-Stack Developer (Biotech)
-Company : Ever Medical Technologies Company Limited
-Company Location : Pathumwan
+Job Positions : DevOps Engineer
+Company : Krungsri Consumer
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- Join dynamic team of technology-driven healthcare
-- Interest and experience in blockchain technologies
-- Able to write beautiful, well tested TypeScript
+- DevOps Platform
+- Open shift Container Platform
+- Work Location: BAY Rama 3 (Head Quarter)

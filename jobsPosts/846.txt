@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Familiar with  Agile & Scrum
+- Have Front-End Experience using Angular
+- Back-End Experience using .net Core + Java Spring

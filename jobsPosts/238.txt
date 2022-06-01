@@ -1,8 +1,4 @@
-Job Positions : Senior Developer สมัครด่วน.!
-Company : Prospersof Consulting Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 35K - 70K /เดือน 
-  skill  
-- ASP.NET ด้วย C# (Web)
-- SQL Server (Store Procedure)
-- Object Oriented Programming (OOP)
+Job Positions : Senior Data Engineer
+Company : 4Plus Consulting Co., Ltd.
+Company Location : ราชเทวี
+Salary : No Infomation

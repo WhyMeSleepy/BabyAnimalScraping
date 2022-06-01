@@ -1,8 +1,8 @@
-Job Positions : Python Developer/Python Developer
-Company : Benchachinda Holding Co., Ltd.
-Company Location : จตุจักร
+Job Positions : Data Scientist / Data Analyst  (Python, R, SQL) (Jr. - Team Lead)
+Company : Muang Thai Life Assurance Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Python Developer / Programmer
-- Back-end & API Gateway, Python, PostgreSQL, MySQL,
-- Back-end Gateway development & Integration
+- Develops and executes statistical analyses
+- Statistical Modeling
+- Coding skills in SQL, R, and Python is a must

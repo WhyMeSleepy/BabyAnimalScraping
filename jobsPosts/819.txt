@@ -1,8 +1,8 @@
-Job Positions : Data Engineer ( ETL )
-Company : NTT DATA (Thailand) Co., Ltd. (Locus Telecommunication Inc., Ltd.)
-Company Location : ห้วยขวาง
+Job Positions : Senior Software Engineer (.NET/HTML/Javascript)
+Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- 3 year in ETL,R Python,Data Governance
-- SQL/Store Procedure on Oracle/DB2 or other DBMS
-- CW Tower, Ratchada Rd, Near MRT
+- Solid experience in .NET or HTML or Javascript
+- Good to Fluent English
+- Hybrid and Global working environment

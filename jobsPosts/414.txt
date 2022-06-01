@@ -1,8 +1,4 @@
-Job Positions : NodeJS Developer (Senior/Junior - Many Headcounts)
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior Developer / Senior Programmer
+Company : A-HOST Company Limited
+Company Location : พญาไท
 Salary : No Infomation
-  skill  
-- 2+ years of experience with NodeJS
-- PHP/ JavaScript / ReactJS
-- Communicative English

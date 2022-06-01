@@ -1,8 +1,8 @@
-Job Positions : Business Development Operations Specialist (Technical Connectivity) – Japanese / Chinese Speakers
-Company : Agoda Services Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : SAP ABAP Developer
+Company : Bluechips Microhouse Co., Ltd.
+Company Location : เชียงใหม่
 Salary : No Infomation
   skill  
-- Mentorship + various opportunities for advancement
-- International Environment
-- Leading edge supply & data technology
+- At least 2-3 years experience ABAP Developer
+- Good command spoken and written English
+- Excellent communication and problem-solving skills

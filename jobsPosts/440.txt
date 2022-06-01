@@ -1,4 +1,8 @@
-Job Positions : Salesforce Developer
-Company : CBRE
-Company Location : กรุงเทพมหานคร
+Job Positions : IT Project coordinator/-
+Company : BANGKOK ASSET INTERGROUP COMPANY LIMITED
+Company Location : เมืองนนทบุรี
 Salary : No Infomation
+  skill  
+- C#.net, MVC,HTML, CSS, Javascript, jQuery, Ajax
+- MS Dynamics 365 business central
+- - MS-SQL

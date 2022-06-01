@@ -1,8 +1,8 @@
-Job Positions : Sales strategy & data scientist - VP (Contract 18 months)
-Company : United Overseas Bank (Thai) Public Company Limited (UOB)
+Job Positions : Software Engineer (Java Developer/C# Developer)
+Company : Freewill Solutions Co., Ltd.
 Company Location : สาทร
-Salary : No Infomation
+Salary : THB 20K - 35K /เดือน 
   skill  
-- data analytics
-- Propose strategic and tactical campaigns
-- Sales producti & marketing/tactical campaigns
+- Java Developer
+- C# Developer
+- New Graduate welcome

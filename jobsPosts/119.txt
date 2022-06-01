@@ -1,8 +1,8 @@
-Job Positions : Software Developer
-Company : Bualuang Securities Public Company Limited
-Company Location : บางรัก
+Job Positions : Engineering Manager (Golang / Android / Python)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Analyze requirements and design solution.
-- Skill in JavaScript, C+, SQL, .Net and Python
-- 1-2 years of experience in software development
+- Engineering Manager (Golang / Android)
+- International Environment
+- Global Reach

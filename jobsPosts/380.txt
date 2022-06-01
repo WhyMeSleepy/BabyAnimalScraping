@@ -1,8 +1,8 @@
-Job Positions : Investment Risk Analyst
-Company : BBL Asset Management Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : DevOps Engineer
+Company : Puun Intelligent Co., Ltd.
+Company Location : ดินแดง
+Salary : THB 45K - 90K /เดือน 
   skill  
-- Investment Risk
-- Monitoring and investigating portfolio movements
-- Presenting portfolio performance
+- Experience as DevOps Engineer or similar software
+- Proficient with git and git workflows
+- Problem-solving attitude

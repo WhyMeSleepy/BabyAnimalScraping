@@ -1,8 +1,8 @@
-Job Positions : Golang Developer
-Company : PRTR
-Company Location : Bangkok
+Job Positions : Network Engineer - Onsite: SME BANK (อารีย์)
+Company : Advanced Information Technology Public Company Limited
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- Golang Developer / Lead Golang Developer
-- Attractive Salary Package
-- Cutting Edge Technology
+- Knowledge and experience Cisco Network.
+- 3 years of experience as a network role.
+- Monitor and Maintain Network System.

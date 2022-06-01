@@ -1,8 +1,8 @@
-Job Positions : Solution Integration Engineer - TrueIDC
-Company : Ascend Group Co., Ltd.
-Company Location : Prakanong
+Job Positions : Data Engineer - Snowflake, SQL, SAP MM/SD - (12 month contract)
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- 3-5 years of experience in software development
-- Hands on exp. on RPA tools and cognitive platform
-- Exp. in PHP, CSS, JavaScript, jQuery Python etc.
+- Experience with SAP HANA, Tableau, Snowflake
+- Agile, SQL, SAP SD or MM, Data modeling
+- Excellent English verbal and written

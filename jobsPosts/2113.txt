@@ -1,8 +1,0 @@
-Job Positions : Programmer (Contract 1 Year/ WFH)/โปรแกรมเมอร์
-Company : Legacy Corp Co., Ltd.
-Company Location : Bangkok
-Salary : THB 25K - 55K /month 
-  skill  
-- Minimum of 1 -5 years experience in programming
-- Strong in Node.js, /React.js
-- WFH 100%

@@ -1,4 +1,8 @@
-Job Positions : Lead Software Engineer
-Company : Refinitiv
-Company Location : กรุงเทพมหานคร
+Job Positions : Programmer (ในเครือ PTT)/พนักงานสนับสนุนเทคโนโลยีสารสนเทศ
+Company : Business Services Alliance Co., Ltd.
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- ช่วยพัฒนา Software Web Application
+- มีความสนใจด้านระบบ MySQL,Python
+- ทำงาน 5 วันต่อสัปดาห์

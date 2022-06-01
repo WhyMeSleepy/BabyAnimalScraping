@@ -1,8 +1,8 @@
-Job Positions : Head of Engineer (Python)
-Company : PRTR
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Financial Data Scientist Team Lead
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : ห้วยขวาง
+Salary : THB 90K - 120K /เดือน 
   skill  
-- Head of Engineering (Python)
-- International Environment
-- Global Reach
+- Financial Data Scientist
+- Salary up 120,000 THB + good benefits
+- Have experience in applying Machine learning Model

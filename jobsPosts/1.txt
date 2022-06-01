@@ -1,0 +1,8 @@
+Job Positions : Python Developer/Python Developer
+Company : Benchachinda Holding Co., Ltd.
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Python Developer / Programmer
+- Back-end & API Gateway, Python, PostgreSQL, MySQL,
+- Back-end Gateway development & Integration

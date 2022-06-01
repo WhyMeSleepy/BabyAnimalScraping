@@ -1,8 +1,8 @@
-Job Positions : Automated tester/เทสเตอร์
-Company : Aware Outsourcing Services Corporation (Thailand) Ltd. (AOS)
-Company Location : พญาไท
-Salary : THB 35K - 70K /เดือน 
+Job Positions : URGENT!!! - Data Scientist - Ayuthaya - up to 35K
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : อยุธยา
+Salary : No Infomation
   skill  
-- New Technology work, Robot Framework & Career path
-- Work 5-day/week, Good Salary & Generous Benefits
-- Friendly Environment, Near BTS, Work-life balance
+- Education background in Data Science
+- At least 2 years experiences in Data Management
+- Experienced in BI tool such as PowerBI

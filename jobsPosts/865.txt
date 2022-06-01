@@ -1,0 +1,8 @@
+Job Positions : Reliability Life Test Engineer
+Company : NXP Semiconductors
+Company Location : ต่างประเทศ
+Salary : No Infomation
+  skill  
+- Bachelor's or Master degree in EE/CS
+- HW oriented /embedded firmware development
+- C (C, C++..etc) language Familiarity or experience

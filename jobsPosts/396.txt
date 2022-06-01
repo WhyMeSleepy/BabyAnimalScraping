@@ -1,8 +1,8 @@
-Job Positions : IT Manager/ผู้จัดการฝ่ายเทคโนโลยีสารสนเทศ
-Company : Thai Rung Union Car Public Company Limited
-Company Location : หนองแขม
+Job Positions : RPA Developer Lead
+Company : Metro Systems Corporation Public Company Limited
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- 5-10 years working experience
-- Extensive experience managing ERP systems
-- full professional proficiency in English
+- RPA Developer
+- MySQL
+- Oracle

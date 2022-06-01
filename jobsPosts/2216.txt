@@ -1,8 +1,0 @@
-Job Positions : Data Engineer - Snowflake, SQL, SAP MM/SD - (12 month contract)
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Experience with SAP HANA, Tableau, Snowflake
-- Agile, SQL, SAP SD or MM, Data modeling
-- Excellent English verbal and written

@@ -1,8 +1,0 @@
-Job Positions : DevOps Engineer
-Company : Muze Innovation Co., Ltd.
-Company Location : Dindaeng
-Salary : No Infomation
-  skill  
-- have experience in AWS technologies
-- Strong scripting and automation skill
-- Solid experience as a DevOps Engineer in a 24x7

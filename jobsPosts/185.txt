@@ -1,4 +1,8 @@
-Job Positions : Full Stack Developer
-Company : 4Plus Consulting Co., Ltd.
-Company Location : ราชเทวี
-Salary : No Infomation
+Job Positions : DevOps Engineer
+Company : SKOOTAR BEYOND CO., LTD.
+Company Location : วัฒนา
+Salary : THB 45K - 55K /เดือน 
+  skill  
+- DevOps Engineer แอปขนส่งออนไลน์
+- ประสบการณ์ 2-5 ปี DevOps Engineer
+- เงินเดือน 40,000 - 50,000

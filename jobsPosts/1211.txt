@@ -1,8 +1,8 @@
-Job Positions : Cloud Data Engineer (DataX)
-Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
-Company Location : Jatuchak
-Salary : No Infomation
+Job Positions : Java Programmer ( many positions )  / .Net Programmer ( 5 positions )/Software Tester (Automated) ( 10 positions )
+Company : Advanced Personnel and Solutions Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 30K - 70K /เดือน 
   skill  
-- Cloud Data Engineer
-- data warehouse, big data, business intelligence
-- Hadoop/CLOUDERA, Cisco Data Virtualization,PwBI
+- java programmer , angular, Node Js, Tester
+- .net programmer, React, Node
+- C#.Net , asp.net, tester ,java, QA Test

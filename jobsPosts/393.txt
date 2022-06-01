@@ -1,8 +1,8 @@
-Job Positions : Cloud Database Administrator
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
+Job Positions : Full-Stack Developer [Jr. / Sr. level]
+Company : Wisdom Vast Company Limited
+Company Location : ปริมณฑล-นนทบุรี
 Salary : No Infomation
   skill  
-- Database Administrator focusing on Cloud, AWS, RDS
-- Open Source Databases: MySQL, MariaDB
-- PostgreSQL, MongoDB
+- Jr. Level: 2Yrs+ in Front-End or Back-End Coding
+- Sr. Level: 5Yrs+ in full-stack programming
+- JAVA, Go Lang, Node.JS, Vue.JS, React.JS

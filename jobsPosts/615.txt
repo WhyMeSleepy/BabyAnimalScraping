@@ -1,8 +1,8 @@
-Job Positions : Machine Learning Engineer/วิศวกรด้านแมชชีนเลิร์นนิง
-Company : AIGEN CO., LTD.
-Company Location : Huaykwang
-Salary : THB 45K - 120K /month 
+Job Positions : Data Engineer & Management/ฝ่ายจัดการและวิเคราะห์ข้อมูลตลาดทุน (สายงานจัดการข้อมูล)
+Company : สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (ก.ล.ต.)
+Company Location : จตุจักร
+Salary : No Infomation
   skill  
-- 3-5 yrs experience in machine/deep learning
-- Bachelor Degree. Experience in NLP, machine vision
-- Flexible hrs., WFH, Health Insurance
+- Data Management, ออกแบบโครงสร้างข้อมูลเชิงธุรกิจ
+- วุฒิการศึกษาระดับปริญญาตรีขึ้นไป สาขา Computer
+- สร้าง Data Schema / เขียน Store Procedure/Function

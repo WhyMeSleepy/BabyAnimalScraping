@@ -1,8 +1,8 @@
-Job Positions : Python Developer / Python Programmer/นักพัฒนาซอฟต์แวร์ Python / Python โปรแกรมเมอร์
-Company : Opendream Co., Ltd.
-Company Location : จตุจักร
-Salary : THB 45K - 120K /เดือน 
+Job Positions : Data Scientist
+Company : ExxonMobil Limited
+Company Location : คลองเตย
+Salary : No Infomation
   skill  
-- Senior Python Developer
-- Resilient to failure
-- Willing to put your skill for social development
+- 3 years of work experience
+- Data Analytic, Data Scientist
+- Oil&Gas

@@ -1,8 +1,8 @@
-Job Positions : New! Software Engineer
-Company : KASIKORN Business - Technology Group (KBTG)
-Company Location : ปากเกร็ด
+Job Positions : Software Development Manager
+Company : Playtorium Solutions Company Limited
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Banking industry
-- JAVA, GO, JavaScript, Node.js, Python, C#, etc.
-- Fresh grad is also welcome
+- Seven years experience in Software Development
+- Be technically-inclined, a great problem-solver
+- Work smart and result oriented.

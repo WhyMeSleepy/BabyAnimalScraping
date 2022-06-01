@@ -1,8 +1,8 @@
-Job Positions : Software Development Engineer (2 Positions)
-Company : Net Bright Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : Data scientists (Risk model and MIS)/แบบจำลองความเสี่ยง
+Company : Kiatnakin Phatra Bank Public Company Limited
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Strong experience in Python and Block chain.
-- 0-2 years of experience
-- Good command in English
+- MIS
+- credit risk,MIS
+- AIRB Basel/ IFRS9

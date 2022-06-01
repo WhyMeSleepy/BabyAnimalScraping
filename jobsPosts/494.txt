@@ -1,0 +1,8 @@
+Job Positions : Data Scientist Manager
+Company : BTI Executive Search (Thailand) Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Planning data projects
+- Building analytic systems and predictive models
+- Managing a team of data scientists

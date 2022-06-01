@@ -1,8 +1,8 @@
-Job Positions : Andriod Developer
-Company : TISCO Financial Group Public Company Limited
-Company Location : สาทร
+Job Positions : DevOps Engineer
+Company : Central JD Fintech Co., Ltd.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- ให้โอกาสรู้จริง ทำจริง รู้กว้าง รู้ลึก
-- ทำงานกับกลุ่มสถาบันการเงินที่มั่นคง
-- สวัสการดี มั่นคง มีโบนัส ใกล้ BTS ศาลาแดง,MRT สีลม
+- Experience in DevOps roles
+- Familiar with Cloud based environment
+- Strong operational experience in Linux/Unix

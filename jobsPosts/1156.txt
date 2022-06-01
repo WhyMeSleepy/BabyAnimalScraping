@@ -1,0 +1,8 @@
+Job Positions : Full Stack Developer
+Company : Conspiracy Co., Ltd.
+Company Location : วัฒนา
+Salary : THB 25K - 55K /เดือน 
+  skill  
+- พัฒนาเว็บไซต์ตามที่ได้รับมอบหมาย
+- ดูแล ตรวจสอบ แกไ้ข และปรับปรงุ ระบบที่พัฒนาขึ้น
+- ใช้ภาษาและเทคโนโลยีต่างๆ อาธิ เช่น Javascript

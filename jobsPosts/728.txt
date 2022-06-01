@@ -1,8 +1,8 @@
-Job Positions : IoT Engineer
-Company : Toyo Business Engineering (Thailand) Co., Ltd.
-Company Location : คลองเตย
+Job Positions : IOT Engineering
+Company : Hitachi Metals (Thailand) Ltd.
+Company Location : ชลบุรี
 Salary : No Infomation
   skill  
-- Degree in Computer Engineering
-- Experience in utilizing SQL and NoSQL databases.
-- Experience with IoT platform and web-server.
+- Bachelor’s degree in Computer
+- 1 years’ experience up
+- Programming skill is must  C or C#

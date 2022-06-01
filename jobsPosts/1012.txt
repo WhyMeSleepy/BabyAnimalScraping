@@ -1,8 +1,8 @@
-Job Positions : Data Infrastructure Engineer (Data Reliability Engineer) - DataX
-Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
-Company Location : จตุจักร
+Job Positions : Market​ Risk​ Management/งานบริหารความเสี่ยงด้านตลาด
+Company : KrungThai Bank PCL
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Data Infrastructure, Data Reliability
-- Incident support, incident analysis
-- SQL, Python, cloud, Big Data
+- Market​ Risk​
+- Risk Model
+- ใช้โปรแกรม R , SAS, SQL, MS เชิงลึก และ Python

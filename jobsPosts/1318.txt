@@ -1,8 +1,4 @@
-Job Positions : JAVA System Analyst/ Senior Java Developer (5 Positions)
-Company : NTT DATA (Thailand) Co., Ltd.
-Company Location : ปากเกร็ด
-Salary : THB 55K - 90K /เดือน 
-  skill  
-- Work as project based
-- Generous of benefit, WFH during COVID
-- Competitive package
+Job Positions : Microservices Developer
+Company : IBM
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation

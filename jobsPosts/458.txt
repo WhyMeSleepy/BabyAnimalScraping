@@ -1,4 +1,8 @@
-Job Positions : Assistant Manager, Personalize Campaign System Management
-Company : DTAC
-Company Location : ปทุมวัน
+Job Positions : Programmer Web Application/โปรแกรมเมอร์
+Company : Thaisri Insurance Public Company Limited
+Company Location : คลองสาน
 Salary : No Infomation
+  skill  
+- java , jsp
+- การเดินทางติด BTS
+- พัฒนาโปรแกรม

@@ -1,8 +1,8 @@
-Job Positions : Senior System Analyst (K2/RPA Developer)
-Company : ThaiNamthip Limited
-Company Location : หลักสี่
+Job Positions : Back End Developer
+Company : DevelopNow Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- 1+ years experienced in C# , HTML, CSS, JavaScript
-- 1+ years experienced in REST API, Web Service, SQL
-- Minimum 1 years experienced in IT
+- PHP Developer
+- Laravel Framework
+- Back End Developer

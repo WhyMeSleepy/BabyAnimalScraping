@@ -1,8 +1,8 @@
-Job Positions : Data Scientist / Upto 80K/ BTS Wongwianyai/ Hybrid WFH
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : คลองสาน
+Job Positions : IT Solutions Officer (Application Developer) - Rayong Based (Nawaplastics) ,Chemical business
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : ระยอง
 Salary : No Infomation
   skill  
-- 3+ years in advanced analytics project implement
-- Good understanding in data preparation
-- Good Command of English
+- Manufacturing IT Solutions
+- Developer C,C++,C#,JavaScript,HTM,PHP, Java,Python
+- Interested in smart manufacturing, smart factory

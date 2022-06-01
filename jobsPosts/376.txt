@@ -1,8 +1,8 @@
-Job Positions : HRIS Analyst
-Company : Progress Service Support Co., Ltd.
-Company Location : ปริมณฑล-นนทบุรี
+Job Positions : Data Life Cycle Management
+Company : Thai Life Insurance Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Experience in Power BI, Web, MS Excel, Python
-- Experienced in presentation is preferred
-- 3 years of experience in HR Analytics or PMO
+- Data Life Cycle Management
+- Enterprise Data Management
+- data privacy and legal compliance.

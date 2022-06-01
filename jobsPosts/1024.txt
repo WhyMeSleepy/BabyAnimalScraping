@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Mobile / Frontend) - Middle to Senior level - Commercial Platform
-Company : ttb spark - TMBThanachart Bank or ttb
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Senior Developer (สมัครด่วน!)
+Company : Prospersof Consulting Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 35K - 70K /เดือน 
   skill  
-- JavaScript, Angular, React, HTML, CSS, Bootstrap
-- Flutter, Swift, Kotlin
-- Node.js, Python, Java, Go, C, .NET is a plus.
+- ASP.NET ด้วย C# (Web)
+- SQL Server (Store Procedure)
+- Object Oriented Programming (OOP)

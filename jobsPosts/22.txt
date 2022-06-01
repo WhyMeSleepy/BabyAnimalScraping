@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Ookbee Co., Ltd.
-Company Location : สวนหลวง
+Job Positions : Back-end Developer
+Company : PTG Energy Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Experience in ETL tools. Ex: SSIS, Pentaho, Telend
-- Free Lunch and Soft-drink.
-- Flexible working hours. (7.30 working hour/ day)
+- Golang
+- NodeJS
+- JavaScript

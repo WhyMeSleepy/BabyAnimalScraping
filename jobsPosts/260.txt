@@ -1,8 +1,8 @@
-Job Positions : Golang Developer / WFH
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : Pathumwan
+Job Positions : Manager, Data Science
+Company : dtac
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Golang Developer / WFH
-- Minimum 2 years of experience
-- Fair English communication
+- Perform large-scale data analysis
+- Develop effective machine learning, MRT Sam Yan
+- Allowance, Flexible working hrs, Work from home

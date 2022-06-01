@@ -1,8 +1,8 @@
-Job Positions : Programmers
-Company : Union Auction Public Company Limited
-Company Location : วังทองหลาง
+Job Positions : Data Scientist / Data Engineer- ttb analytics
+Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- .มีประสบการณ์ด้าน NodeJS , MongoDB , Vue.js
-- วุฒิ ป.ตรี สาขาคอมพิวเตอร์ หรือ สาขาที่เกี่ยวข้อง
-- มีประสบการณ์ด้านการเขียนโปรแกรม ดูแลระบบฐานข้อมูล
+- Python, R, Tableau, SQL
+- Execute on BUs/SUs analytics problems
+- Employs appropriate algorithm to discover patterns

@@ -1,8 +1,8 @@
-Job Positions : Mid-Lead Golang Developer – Cutting Edge Tech, Enterprise Project
-Company : Cathcart Associates Asia Recruitment Ltd.
-Company Location : Bangkok
+Job Positions : Blockchain Developer (Remote)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Golang, Enterprise Project
-- Cutting Edge Tech, API, CLoud
-- Agile, Microservices
+- 100% Work from Home (Work Remotely)
+- NFT Game Start-Up Company
+- Blockchain Technologies (Solidity)

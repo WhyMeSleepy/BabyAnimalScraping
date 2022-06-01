@@ -1,0 +1,8 @@
+Job Positions : Database Administrator (DBA)
+Company : Sirisoft Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- ปริญญาตรี วิศวะคอม ไอที วิทยาคอม ปสก 0-3 ปี
+- วางแผน, ติดตั้ง, ดูแล, ปรับปรุงประสิทธิภาพระบบ DB
+- MSSQL, Oracle, PostgreSQL, EDB, MongoDB, or Redis

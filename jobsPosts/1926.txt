@@ -1,8 +1,0 @@
-Job Positions : FULL STACK DEVELOPER
-Company : Gunkul Engineering Public Company Limited
-Company Location : พญาไท
-Salary : No Infomation
-  skill  
-- JavaScript
-- HTML/CSS
-- Node.js (NestJS)

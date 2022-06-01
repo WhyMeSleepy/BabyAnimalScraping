@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : KASIKORN Business - Technology Group (KBTG)
-Company Location : Prakket
+Job Positions : Tool Application Software Engineer
+Company : TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) CO., LTD.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Master / Ph.D in Data Scientist or relate fields
-- Exp.with Machine Learning,Statistics,data analytic
-- Work with business partners and professional teams
+- 5 days work week
+- Computer, Electronics, Electrical Engineering
+- Python, C, C#, C++, JavaScript, Vue.js, CSS, SCSS

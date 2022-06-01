@@ -1,8 +1,0 @@
-Job Positions : QA Engineer
-Company : NocNoc.com
-Company Location : Bangsue
-Salary : No Infomation
-  skill  
-- Experience in Web, Mobile & API testing
-- Experience with automated testing
-- Document test-related information

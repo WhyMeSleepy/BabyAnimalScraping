@@ -1,8 +1,8 @@
-Job Positions : QA Automated / Software Tester
-Company : QA Hive Company Limited
+Job Positions : Senior Software Engineer (Teparuk Plant)
+Company : Seagate Technology (Thailand) Ltd.
 Company Location : เมืองสมุทรปราการ
-Salary : THB 20K - 45K /เดือน 
+Salary : No Infomation
   skill  
-- ยินดีพิจารณานักศึกษาจบใหม่
-- อบรบปรับพื้นฐานกับทาง Consultant มากประสบการณ์
-- ได้ใช้งาน Automate Test Tools ที่หลากหลาย
+- C#, C++, Python
+- Framework application, NET, ROS
+- UML diagram knowledge

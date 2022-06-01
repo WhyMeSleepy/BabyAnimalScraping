@@ -1,8 +1,8 @@
-Job Positions : Senior System Engineer
-Company : ReadyPlanet Co., Ltd.
-Company Location : บางกะปิ
-Salary : THB 45K - 55K /เดือน 
+Job Positions : Data Analyst/นักวิเคราะห์ระบบข้อมูล (Data Analyst, BI)
+Company : Hi-Tech Apparel Co., Ltd.
+Company Location : ทุ่งครุ
+Salary : No Infomation
   skill  
-- มีประสบการณ์ไม่น้อยกว่า 5 ปี
-- มีประสบการณ์ในการดูแลจัดการระบบ IT
-- มีประสบการณ์การทำงานกับ Public Cloud Service
+- SQL, Reporting
+- python
+- C#

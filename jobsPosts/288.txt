@@ -1,8 +1,8 @@
-Job Positions : Java Developer(Spring Boot, NodeJS, JavaScript)/ (10 Positions) / 80K-100K /Permanent
-Company : NES Fircroft (Thailand) Ltd.
+Job Positions : Data QA
+Company : The Minor Food Group Public Company Limited
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Strong knowledge of Full Stack design, End-to-End
-- Using Spring Boot, NodeJS
-- Strong knowledge of any Javascript language
+- 1-2 years of experience
+- Engineering, science, statistics is a plus
+- Ability to write SQL

@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : SHIPPOP CO., LTD.
-Company Location : พญาไท
+Job Positions : Python Developer (Business Intelligence Team)
+Company : Jet Commerce
+Company Location : ดินแดง
 Salary : No Infomation
   skill  
-- understanding of Machine learning, Data cleansing
-- understanding of working with each type ofDatabase
-- Deliver clear and actionable recommendations
+- Experience developing Python
+- Web scraping python library| requests,selenium,bs4
+- Hybrid Workplace

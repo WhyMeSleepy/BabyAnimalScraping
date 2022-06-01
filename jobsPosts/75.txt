@@ -1,8 +1,8 @@
-Job Positions : Software Developer [Job ID:62503]
-Company : Reeracoen Recruitment Co.,Ltd.
+Job Positions : Senior Python Developer (Expert Level)
+Company : PRTR
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- 1 year working experience as a software developer
-- Visual Studio C#, PHP, Java and PL/SQL
-- Salary 30-55k
+- Senior Python Developer (Expert Level)
+- International Environment
+- Agile Methodology

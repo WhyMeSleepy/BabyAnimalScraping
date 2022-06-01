@@ -1,8 +1,4 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : DDK (Thailand) Ltd.
-Company Location : คลองหลวง
+Job Positions : IT (Programmer)/ไอที (โปรแกรมเมอร์)
+Company : THAI OBAYASHI CORPORATION LIMITED
+Company Location : คลองเตย
 Salary : No Infomation
-  skill  
-- Programming
-- ASP.Net,SQLServer.
-- ERP  program .

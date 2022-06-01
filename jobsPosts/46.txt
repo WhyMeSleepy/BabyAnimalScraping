@@ -1,8 +1,8 @@
-Job Positions : Junior Software Engineer
-Company : R V CONNEX CO., LTD.
-Company Location : คลองหลวง
+Job Positions : Data Engineer / Senior Data Engineer
+Company : Carabao Tawandang Co., Ltd.
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Bachelor’s Degree in e.g. computer engineering
-- C or Python language
-- Vacation leave 12 - 20 days.
+- At least 2 years exp as a Data Engineer
+- ETL pipeline development, Data Modeling, data lake
+- AWS Cloud services, data pipeline development

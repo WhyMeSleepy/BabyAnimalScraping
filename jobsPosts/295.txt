@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer (PHP)
-Company : ReadyPlanet Co., Ltd.
-Company Location : บางกะปิ
-Salary : THB 45K - 90K /เดือน 
+Job Positions : DevOps Engineer – FSG Business Unit
+Company : SS&C Technologies, Inc. - Thailand office
+Company Location : วัฒนา
+Salary : No Infomation
   skill  
-- มีประสบการณ์ทำงาน 3 ปีขึ้นไป
-- มีความรู้ในการพัฒนาซอฟต์แวร์ด้วยภาษา PHP
-- เขียนโปรแกรมพัฒนาส่วนต่างๆ ของ Web App
+- 6 minutes walk from BTS Promphong
+- Currently work from home, work with US Colleagues
+- Java, DevOps, CI/CD, Spring MVC, SQL

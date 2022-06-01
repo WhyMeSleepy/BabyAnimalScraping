@@ -1,8 +1,8 @@
-Job Positions : Programmer Web Application/โปรแกรมเมอร์
-Company : Thaisri Insurance Public Company Limited
-Company Location : Klongsan
+Job Positions : Quality Assurance Engineer
+Company : Appman Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- java , jsp
-- การเดินทางติด BTS
-- พัฒนาโปรแกรม
+- Manual Testing, Test case, test script
+- Passion
+- Attention to details

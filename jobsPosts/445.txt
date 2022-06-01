@@ -1,4 +1,8 @@
-Job Positions : Mid-level Full-stack Developer
-Company : Seven Peaks Software
-Company Location : คลองสามวา
+Job Positions : Data Analyst
+Company : Kiatnakin Phatra Securities Public Company Limited
+Company Location : วัฒนา
 Salary : No Infomation
+  skill  
+- Background with good understanding of statistics
+- Strong analytical and problem-solving skills
+- Fluency in advanced Excel and Power Query

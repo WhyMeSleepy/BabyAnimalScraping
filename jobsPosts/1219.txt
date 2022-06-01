@@ -1,8 +1,8 @@
-Job Positions : Senior / Team lead Data Analyst
-Company : STelligence Company Limited
-Company Location : Ladprao
+Job Positions : Engineer / Senior Engineer Advance Process Development Engineering
+Company : Magnecomp Precision Technology Public Company Limited
+Company Location : อยุธยา
 Salary : No Infomation
   skill  
-- 3 years for Senior / 5 years for Team lead
-- Data Analytic, Dashboard, Data structure,Tableau
-- Understand target customer's behavior and analyze
+- Bachelor or Master Degree in Computer/Mechanical
+- Experience: 0-6 years
+- Good problem solving and analytic skill

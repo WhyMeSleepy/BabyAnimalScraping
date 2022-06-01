@@ -1,8 +1,8 @@
-Job Positions : SAP ABAP Developer
-Company : Bluechips Microhouse Co., Ltd.
-Company Location : เชียงใหม่
+Job Positions : Automate Tester  (Contract) WFH
+Company : Extend IT Resource Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- At least 2-3 years experience ABAP Developer
-- Good command spoken and written English
-- Excellent communication and problem-solving skills
+- 1- 3 years experience in Automate Tester
+- Have API and SQL skills.
+- Work from anywhere

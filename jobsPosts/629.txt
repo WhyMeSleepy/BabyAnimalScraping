@@ -1,8 +1,4 @@
-Job Positions : Data Engineer
-Company : Arise by Infinitas Co., Ltd.
-Company Location : Klongtoey
+Job Positions : Full Stack Developer
+Company : Vandapac Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Building systems collect, manage, and convert data
-- Develop data models for analytics
-- Make data accessible so that organizations can use

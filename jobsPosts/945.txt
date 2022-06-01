@@ -1,0 +1,8 @@
+Job Positions : DevOps (Innovation Team)
+Company : Krungsri Consumer
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Experience in DevOps, CI/CD flows, Linux system
+- Experiences in Jenkins, Git, backend software
+- Working location at Krungsri Ploenchit Office

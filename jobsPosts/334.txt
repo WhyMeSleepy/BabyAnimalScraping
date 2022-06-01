@@ -1,8 +1,4 @@
-Job Positions : Risk Advisory : Senior Consultant - Manager  (Data Engineering, Business Intelligence Developer)
-Company : Deloitte Touche Tohmatsu Jaiyos Co., Ltd.
-Company Location : สาทร
+Job Positions : Programmer/Application Developer/โปรแกรมเมอร์ นักพัฒนาระบบ
+Company : Vansales Application Co., Ltd.
+Company Location : ปากเกร็ด
 Salary : No Infomation
-  skill  
-- Experienced in Data Engineering or BI Developer
-- Computer Programming BG with statistic knowledge
-- System configuration to business requirement

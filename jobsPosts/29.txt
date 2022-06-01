@@ -1,8 +1,8 @@
-Job Positions : Senior Developer (Python - Back end)/Programmer
-Company : Greenline Synergy Co., Ltd.
-Company Location : สวนหลวง
-Salary : No Infomation
+Job Positions : Software Engineer (Junior/Senior)
+Company : T.N. INCORPORATION LTD.
+Company Location : สาทร
+Salary : THB 30K - 55K /เดือน 
   skill  
-- A Sustainable IT Company in Thailand
-- More 100 Healthcare Applications
-- We are a subsidiary Company of BDMS Group.
+- Software Development in Banking technology
+- Experience in Software Development Lifecycle
+- We consider both Junior and Senior level

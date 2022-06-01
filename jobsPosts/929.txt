@@ -1,8 +1,8 @@
-Job Positions : Data Engineer Supervisor/ Executive (Business Intelligence Team)
-Company : Jet Commerce
-Company Location : ดินแดง
-Salary : No Infomation
+Job Positions : Senior Golang Developer (120K+)
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 160K /เดือน 
   skill  
-- Experience for developing Python or PySpark
-- Well understand in Data Warehouse and ETL concept
-- Hybrid Workplace
+- Golang, Java, PHP
+- Backend API, Microservices, Web App
+- Financial, Insurance, Banking Business

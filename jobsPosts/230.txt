@@ -1,4 +1,8 @@
-Job Positions : Web Developer / CMS (Content Management System) Developer
-Company : Platinum Micro Group
-Company Location : จังหวัดอื่นๆ
+Job Positions : Sr. specialist – Oracle Developer (PL/SQL)
+Company : Allianz Ayudhya Assurance Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
+  skill  
+- At least 3 years experiences in Oracle Form Report
+- At least 3 years experiences in PL/SQL
+- Can do both developer & team’s management role

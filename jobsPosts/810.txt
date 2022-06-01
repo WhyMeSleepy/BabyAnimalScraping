@@ -1,8 +1,8 @@
-Job Positions : Software Tester (Bangkok Based)
-Company : Primo World Co., Ltd.
-Company Location : บางรัก
+Job Positions : ABAP Developer /Specialist
+Company : Inteqc Feed Co., Ltd.
+Company Location : ปริมณฑล-สมุทรสาคร
 Salary : No Infomation
   skill  
-- Provide test-related expertise to the team
-- Create detailed and comprehensive test plans
-- Ensure products meet customer requirement
+- ABAP Developer
+- SAP S/4 HANA
+- Minimum 3 years of ABAP experience

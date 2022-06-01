@@ -1,8 +1,4 @@
-Job Positions : Collection Data Analyst, Collection Team (True Money)
-Company : Ascend Group Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Engineer
+Company : SENA DEVELOPMENT PCL.
+Company Location : ห้วยขวาง
 Salary : No Infomation
-  skill  
-- Attractive Benefit
-- Good Locaton
-- Challenge Job

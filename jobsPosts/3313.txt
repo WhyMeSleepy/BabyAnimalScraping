@@ -1,8 +1,0 @@
-Job Positions : PL/SQL Developer
-Company : Advanced Personnel and Solutions Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 25K - 55K /เดือน 
-  skill  
-- Automate / Tester / ทดสอบระบบ
-- Bachelor's degree in Computer Science
-- At least 3 years’ experience in Oracle developer

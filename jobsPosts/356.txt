@@ -1,8 +1,8 @@
-Job Positions : Application Engineer Light & Display
-Company : Konica Minolta Business Solutions (Thailand) Co.,Ltd.(Head office)
-Company Location : บางกะปิ
+Job Positions : Software Engineer
+Company : SRISAWAD POWER 2014 CO., LTD.
+Company Location : หลักสี่
 Salary : No Infomation
   skill  
-- Application Engineer
-- Light and Display
-- Instrumentation
+- CI/CD deployments on a Docker  based platform
+- JAVA ,J2EE, PHP,  Angular JS, React JS etc
+- 7 or more years of relevant work experience.

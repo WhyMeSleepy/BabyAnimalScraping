@@ -1,8 +1,8 @@
-Job Positions : Senior DevOps Engineer
-Company : Michael Page
-Company Location : จังหวัดอื่นๆ
-Salary : THB 55K - 120K /เดือน 
+Job Positions : Full Stack Developer (Nodejs+React)
+Company : Aware Outsourcing Services Corporation (Thailand) Limited
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- Multinational IT Services
-- Implement the newest technology
-- Intensive experience in DevOps + Cloud Solutions
+- Full Stack Passion with Attractive Salary
+- Full Stack in both Web & Mobile Development
+- BTS/MRT Location up to your preference

@@ -1,8 +1,0 @@
-Job Positions : Automated Tester
-Company : Advanced Personnel and Solutions Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 25K - 55K /เดือน 
-  skill  
-- Automate / Tester / ทดสอบระบบ
-- ประสบการณ์ 3 - 4 ปี
-- มีประสบการณ์การใช้ CI/CD ในขบวนการพัฒนาซอฟแวร์

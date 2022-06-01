@@ -1,8 +1,8 @@
-Job Positions : Programmer (RPG)
-Company : Land and Houses Bank Public Company Limited
-Company Location : สาทร
+Job Positions : Data Scientist (VP level)
+Company : CIMB Thai Bank
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Programmer (RPG)
-- RPG
-- AS400
+- Head Office based in Chidlom area (BTS)
+- Annual Leave start from 17 Days/year
+- Experience using statistical computer languages

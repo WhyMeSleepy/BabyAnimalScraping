@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Ever Medical Technologies Company Limited
-Company Location : ปทุมวัน
+Job Positions : Software Developer (Senior/ Full Stack)
+Company : Adecco Recruitment (Thailand) Limited
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Join dynamic team of technology-driven healthcare
-- Build processes supporting data transformation
-- Optimizing ‘Big Data’ pipelines, architecture
+- 5+ years of experience
+- JavaScript, TypeScript Python, Java or Go
+- Leadership + team management skills

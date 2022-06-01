@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer
-Company : AIA Company Limited
-Company Location : บางรัก
+Job Positions : System Developer/นักพัฒนาระบบ
+Company : Mitr Phol Sugar Corp., Ltd.
+Company Location : ภาคตะวันออกเฉียงเหนือจังหวัดอื่น
 Salary : No Infomation
   skill  
-- software architecture
-- Full Stack Developer
-- Agile/Scrum Methodologies
+- Software Development
+- Data Analysis
+- Machine Learning and Deep Learning

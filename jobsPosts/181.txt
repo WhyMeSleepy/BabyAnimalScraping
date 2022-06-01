@@ -1,8 +1,8 @@
-Job Positions : Software Developer
-Company : Charoen Pokphand Foods Public Company Limited
-Company Location : บางรัก
+Job Positions : | IT Developer - Audit Development | /13541/
+Company : The Siam Cement Public Company Limited (SCG)
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Work from Anywhere, New graduate are welcome
-- Competitive salary, phone allowance etc.
-- Full stack developer, frontend, backend
+- IT Developer Development
+- Azure Cloud ERP Audit Git Web Application
+- Information System Security Management

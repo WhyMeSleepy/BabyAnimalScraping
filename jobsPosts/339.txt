@@ -1,8 +1,8 @@
-Job Positions : Web Programmer
-Company : Siam Winery Trading Plus Co., Ltd.
-Company Location : ดอนเมือง
+Job Positions : Programmer  (IT)
+Company : Belton Industrial (Thailand) Ltd.
+Company Location : คลองหลวง
 Salary : No Infomation
   skill  
-- Good understanding of SEO principles
-- Understanding K2 Developer (is a plus)
-- understanding Data warehouse and ETL (is a plus)
+- Bachelor's Degree or higher in Computer Science
+- 1-3 years of experience in programming
+- Develop with VB, VC++ or Java.

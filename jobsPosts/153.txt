@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
+Job Positions : Data Engineer (3 Positions)
+Company : NES Fircroft (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- develop & maintain container-based infrastructure
-- Docker and Kubernetes, Cloud platform, AWS or Open
-- Agile Environment
+- Data Science, Statistic, Computer Science
+- Software Engineering, or related discipline in Oil
+- both structured and unstructured data

@@ -1,8 +1,8 @@
-Job Positions : Full Stack Dev (DevOps)/Full Stack Dev (DevOps)
-Company : Siam Paragon Development Co., Ltd.
-Company Location : Pathumwan
+Job Positions : Cloud Data Platform, Big Data, Datawarehouse, and BI Consultant
+Company : Inteltion Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Dev Ops
-- Working in Tech Environment
-- Programming (NodeJS, .netCore, Go, VueJS, React)
+- Skilled or interest in Big Data area
+- Exp in DataWarehouse, ETL and BI Tools
+- Azure, AWS, Tableau, Informatica, PowerBI, IBM

@@ -1,8 +1,8 @@
-Job Positions : Programmer (ในเครือ PTT)/พนักงานสนับสนุนเทคโนโลยีสารสนเทศ
-Company : Business Services Alliance Co., Ltd.
-Company Location : จตุจักร
+Job Positions : Quality Engineer Manager (Automated tester)
+Company : aCommerce Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- ช่วยพัฒนา Software Web Application
-- มีความสนใจด้านระบบ MySQL,Python
-- ทำงาน 5 วันต่อสัปดาห์
+- E-Commerce Industry
+- International Work Environment
+- Options to Work From Home

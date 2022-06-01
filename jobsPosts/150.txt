@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer- True Analytics
-Company : True Digital Group Co., Ltd.
-Company Location : พระโขนง
+Job Positions : Junior Software Engineer
+Company : R V CONNEX CO., LTD.
+Company Location : คลองหลวง
 Salary : No Infomation
   skill  
-- Work From Home & Hybrid
-- AI & Analytics team
-- Build world-class B2B analytics products
+- Bachelor’s Degree in e.g. computer engineering
+- C or Python language
+- Vacation leave 12 - 20 days.

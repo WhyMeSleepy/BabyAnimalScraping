@@ -1,8 +1,8 @@
-Job Positions : Cloud Solution Engineer - AWS
-Company : DailiTech Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Software developer for Finance & Account
+Company : Thairung Partners Group Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Drive with Passion in Cloud Technology
-- Deep Dive on AWS and Related Technology
-- Professional, Challenge, and Teamwork
+- Work Anywhere (WFH)
+- Flexible Hours
+- Low Code Development

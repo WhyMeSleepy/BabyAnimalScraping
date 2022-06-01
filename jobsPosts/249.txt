@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Java)
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Senior Programmer/เจ้าหน้าที่พัฒนาโปรแกรมอาวุโส
+Company : Honda Leasing (Thailand) Co., Ltd.
+Company Location : บางนา
 Salary : No Infomation
   skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Good programming skills in Java
+- Senior Programmer
+- Angular JS, Node JS, React, Vue JS, Git, Docker
+- Microservice Architect, GitHub, Jenkins, Elasticse

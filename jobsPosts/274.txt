@@ -1,8 +1,8 @@
-Job Positions : Urgent!!! Junior Programmer/(Experienced in C# .Net, Java) -- Open for New graduates
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Job Positions : Data Engineer (Any Level)
+Company : Adecco Recruitment (Thailand) Limited
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Software Developer/.Net Developer/Java Programmer
-- Fresh Graduates Job
-- Bangkok/Nonthaburi
+- Big Data Engineer
+- Work closely with Data Arc. and Data Sci.
+- Data Transformation and Data Management

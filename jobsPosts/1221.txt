@@ -1,8 +1,8 @@
-Job Positions : Data scientist (Chonburi)
-Company : Ancor Thailand
-Company Location : Chonburi
+Job Positions : Business Analyst(Customer Success)
+Company : Siam Makro Public Company Limited
+Company Location : บางกะปิ
 Salary : No Infomation
   skill  
-- Data-driven projects
-- Fully-fledged applications
-- Analyzing data to solve business problems
+- Business Analyst
+- e-commerce
+- b2b marketplace

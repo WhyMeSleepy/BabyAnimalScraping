@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer (Angular/.NET)
-Company : Coforge Limited
-Company Location : Jatuchak
+Job Positions : Senior Software Engineer (Front end Application) - DataX
+Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- 3+ years of experience of Full Stack Development
-- Knowledge of .Net and Angular
-- Permanent Job with full benefits
+- Software engineering, tech engineering, Fullstack
+- HTML, CSS, JavaScript, Bootstrap, jQuery, UX/UI
+- React, VueJS, Devops, CD/CI, Graphic design

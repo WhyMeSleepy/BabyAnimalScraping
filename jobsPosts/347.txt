@@ -1,8 +1,8 @@
-Job Positions : Java Programmer
-Company : ThaiTizens Co., Ltd.
-Company Location : สวนหลวง
+Job Positions : Manager, Software Development
+Company : 2C2P (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- รับสมัครด่วน, Java Programmer, เงินเดือนสูง
-- เดินทางสะดวก ใกล้ BTS อ่อนนุช
-- มีค่าคอมมิชชั่น ทำงาน5วัน/ สัปดาห์ สวัสดิการเยี่ยม
+- Min 3 yrs of experience in managing IT Development
+- Fluent communication skills in English is required
+- Only candidates currently located in Thailand

@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer – FSG Business Unit
-Company : SS&C Technologies, Inc. - Thailand office
-Company Location : วัฒนา
+Job Positions : Software Developer
+Company : Hi - Q Food Products Co., Ltd.
+Company Location : บางพลี
 Salary : No Infomation
   skill  
-- 6 minutes walk from BTS Promphong
-- Currently work from home, work with US Colleagues
-- Java, DevOps, CI/CD, Spring MVC, SQL
+- พัฒนา Application
+- Svelte,Nodel JS,JavaScript,Mongo DB,Git,Docker
+- วิทยาการคอมพิวเตอร์,วิศวกรรมคอมพิวเตอร์

@@ -1,8 +1,0 @@
-Job Positions : Data Engineer
-Company : Krungsri Auto
-Company Location : Yannawa
-Salary : No Infomation
-  skill  
-- Data Engineer/ Data Transformation
-- Python,Cloudera,Hadoop,Oracle
-- Big data Technology,Hire purchase application

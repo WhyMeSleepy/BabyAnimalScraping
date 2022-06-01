@@ -1,4 +1,8 @@
-Job Positions : .NET & Flutter Developer/ผู้พัฒนาระบบ .NET, Flutter
-Company : W2S Software Co.,Ltd.
-Company Location : ประเวศ
-Salary : THB 20K - 35K /เดือน 
+Job Positions : Data Engineer ( ETL )
+Company : NTT DATA (Thailand) Co., Ltd. (Locus Telecommunication Inc., Ltd.)
+Company Location : ห้วยขวาง
+Salary : No Infomation
+  skill  
+- 3 year in ETL,R Python,Data Governance
+- SQL/Store Procedure on Oracle/DB2 or other DBMS
+- CW Tower, Ratchada Rd, Near MRT

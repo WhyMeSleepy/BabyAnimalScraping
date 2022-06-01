@@ -1,8 +1,8 @@
-Job Positions : Urgent!!! Software Developer(.Net)/.Net Programmer-- Location: BTS Chong Nonsri
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Backend Web Programmer
+Company : Noble Development Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Software Developer/.Net Developer/Programmer
-- Banking/Fresh Graduates
-- BTS Chong Nonsri
+- 3 years’ experience in coding Web Development
+- Proficiency with HTML,CSS,JavaScript,PHP,C# .NET
+- Having Toeic score is advantage (minimum 450)

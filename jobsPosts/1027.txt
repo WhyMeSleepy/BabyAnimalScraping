@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Advanced Info Service Public Company Limited (AIS)
-Company Location : พญาไท
+Job Positions : Senior Developer (PHP)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Tableau, Power BI, Trifacta, Tibco
-- Proficient SQL : PostgreSQL on Cloudera Hadoop
-- Location: BTS Ari - Saphan Khwai
+- Senior Developer (PHP)
+- International Environment
+- Agile Methodology

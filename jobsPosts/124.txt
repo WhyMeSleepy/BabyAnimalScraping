@@ -1,8 +1,8 @@
-Job Positions : Senior Data Engineer
-Company : Adastra (Thailand) Co., Ltd.
-Company Location : Bangkok
-Salary : THB 45K - 120K /month 
+Job Positions : Junior /Senior DevOps Engineer
+Company : Thai Life Insurance Public Company Limited
+Company Location : ห้วยขวาง
+Salary : No Infomation
   skill  
-- at least 5 years of experience
-- 100%Flexible Working Hours & Remote Work Allowance
-- Salary = 50,000 – 130,000 THB (Negotiable)
+- Experiences of DevOp Engineer, AWS Cloud
+- Knowledge of Docker, CI/CD
+- Good Location

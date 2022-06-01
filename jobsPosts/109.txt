@@ -1,8 +1,8 @@
-Job Positions : Lead Software Engineer (Based in Silom Office)
-Company : Central Retail Corporation (CRC Talent Acquisition)
-Company Location : บางรัก
+Job Positions : Back-End Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Experience in Golang, Phython, Java programming
-- Experience in automated test
-- Agile way of working
+- Fresh graduates with a degree in computer science
+- 3 years experience in backend development
+- Go, Java, and Python and Kotlin

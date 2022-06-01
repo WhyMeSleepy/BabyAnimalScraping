@@ -1,8 +1,8 @@
-Job Positions : Application Support Consultant (APIs, Cloud)
-Company : LSEG (London Stock Exchange Group)
-Company Location : บางรัก
+Job Positions : Data Analytics Manager (100-140K)/Data Analyst (Big Data) / Business Intelligence
+Company : MRI Worldwide Recruitment (Thailand) Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- An opportunity to work with emerging technologies
-- An opportunity to work in a truly global company
-- Embrace diversity & Value different perspectives
+- Data Analysis Manager
+- Big Data analyst
+- Power BI, Python, Tableau

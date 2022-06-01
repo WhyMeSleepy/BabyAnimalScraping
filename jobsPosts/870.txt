@@ -1,0 +1,8 @@
+Job Positions : Programmer/โรงพยาบาลจักษุ Mrt เพชรบุรี,ใกล้ตึก GMM Grammy
+Company : 360 Quality Management Co., Ltd.
+Company Location : วัฒนา
+Salary : No Infomation
+  skill  
+- VB.NET หรือ C#.NET
+- HTML, XML CSS, JavaScript, AJAX
+- สามารถเขียนโปรแกรมที่ใช้ฐานข้อมูล MS SQL, Oracle

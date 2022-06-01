@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : nocnoc
-Company Location : บางซื่อ
+Job Positions : Full Stack Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Experience with relational SQL and NoSQL databases
-- Experience with data science project pipeline
-- Create data tools for analytics team
+- 2-3 Yrs of Full Stack Development Experience
+- Bachelor's Degree in IT or Related Field
+- Experienced & Familiar w/ Agile & Scrum

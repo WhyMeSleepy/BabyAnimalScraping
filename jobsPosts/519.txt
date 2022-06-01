@@ -1,8 +1,8 @@
-Job Positions : Data Scientist / Data Analyst  (Python, R, SQL) (Jr. - Team Lead)
-Company : Muang Thai Life Assurance Public Company Limited
-Company Location : ห้วยขวาง
+Job Positions : Developer Lead (.Net)
+Company : Metro Systems Corporation Public Company Limited
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Develops and executes statistical analyses
-- Statistical Modeling
-- Coding skills in SQL, R, and Python is a must
+- .Net Developer
+- Cloud service
+- Senior level

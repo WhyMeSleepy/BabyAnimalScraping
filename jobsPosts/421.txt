@@ -1,4 +1,8 @@
-Job Positions : Senior Data Engineer
-Company : SiteMinder
-Company Location : กรุงเทพมหานคร
+Job Positions : DevOps Engineer (Junior / Senior) - (BKK Based)
+Company : Primo World Co., Ltd.
+Company Location : บางรัก
 Salary : No Infomation
+  skill  
+- DevOps and Agile principles
+- Linux based infrastructure
+- JavaScript, Typescript

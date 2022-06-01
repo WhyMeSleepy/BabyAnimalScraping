@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Any Level)
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : กรุงเทพมหานคร
+Job Positions : Full Stack Dev (DevOps)/Full Stack Dev (DevOps)
+Company : Siam Paragon Development Co., Ltd.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Big Data Engineer
-- Work closely with Data Arc. and Data Sci.
-- Data Transformation and Data Management
+- Dev Ops
+- Working in Tech Environment
+- Programming (NodeJS, .netCore, Go, VueJS, React)

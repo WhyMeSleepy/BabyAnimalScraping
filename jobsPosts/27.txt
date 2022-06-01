@@ -1,8 +1,4 @@
-Job Positions : Data Scientist
-Company : SCB TECH X CO., LTD.
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Scientist –Python- Manager
+Company : TMB Asset Management  Co., Ltd.
+Company Location : ปทุมวัน
 Salary : No Infomation
-  skill  
-- Experience in Data Architecture, Data Modeler
-- Have a background in programming skills
-- Hand-on experience in Big Data technology

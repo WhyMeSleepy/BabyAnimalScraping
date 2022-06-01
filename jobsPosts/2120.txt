@@ -1,8 +1,0 @@
-Job Positions : Software Developer
-Company : Hi - Q Food Products Co., Ltd.
-Company Location : Bangplee
-Salary : No Infomation
-  skill  
-- พัฒนา Application
-- Svelte,Nodel JS,JavaScript,Mongo DB,Git,Docker
-- วิทยาการคอมพิวเตอร์,วิศวกรรมคอมพิวเตอร์

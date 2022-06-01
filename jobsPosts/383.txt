@@ -1,8 +1,4 @@
-Job Positions : Credit Risk Analytics Specialist
-Company : Siam Commercial Bank Public Co., Ltd.
-Company Location : จตุจักร
+Job Positions : Data Analyst
+Company : Zensorium (Thailand) Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
-  skill  
-- Model Risk
-- CFA
-- Non- Retail

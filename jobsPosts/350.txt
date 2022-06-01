@@ -1,8 +1,8 @@
-Job Positions : Senior Flutter Developer/Senior Flutter Developer
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : ปทุมวัน
+Job Positions : Data Scientist and Analyst
+Company : AIA Company Limited
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- SuperAPP Business
-- Dart & Flutter Mobile Application Development
-- Cross-Platform Mobile Application Development
+- Data Science
+- Agency Reporting
+- Data Analysis

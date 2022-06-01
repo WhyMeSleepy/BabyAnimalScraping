@@ -1,0 +1,8 @@
+Job Positions : IT Developer / Programmer
+Company : Thai Sekisui Foam Co., Ltd.
+Company Location : ชลบุรี
+Salary : No Infomation
+  skill  
+- Bachelor's Degree or higher in Computer Science
+- Have 1-3 years of experience in Programmer
+- Knowledge in SQL Server, and store procedure

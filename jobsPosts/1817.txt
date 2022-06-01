@@ -1,8 +1,0 @@
-Job Positions : Front-End Engineers
-Company : Arise by Infinitas Co., Ltd.
-Company Location : คลองเตย
-Salary : No Infomation
-  skill  
-- Strong understanding of front-end development
-- 3 years experience in front-end development
-- HTML5, CSS3 and JavaScript

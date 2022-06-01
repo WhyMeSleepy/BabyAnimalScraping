@@ -1,8 +1,8 @@
-Job Positions : Senior Tester
-Company : PRTR
-Company Location : กรุงเทพมหานคร
-Salary : THB 55K - 90K /เดือน 
+Job Positions : Data Engineer
+Company : TISCO Financial Group Public Company Limited
+Company Location : สาทร
+Salary : No Infomation
   skill  
-- 5 Years of Experience in Software Testing
-- Manual Test,  End to End Testing, SIT & UAT
-- Good English Communication Skills
+- Create and maintain  data pipeline architecture
+- Work with  Data analyst and Data Scientist teams
+- สวัสดิการดี มีโบนัส  ใกล้ BTS ศาลาแดง MRT สีลม

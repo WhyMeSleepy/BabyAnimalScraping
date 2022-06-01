@@ -1,8 +1,8 @@
-Job Positions : Fullstack Java Developer
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : Senior Data Scientist
+Company : Bluebik Group Public Company Limited
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Startup Opportunity
-- Good Career Path & Competitive Salary
-- Work w/ New Technologies (Spring & React.JS)
+- Flexible working hours
+- Competitive Salary
+- Close to BTS and Work from anywhere policy

@@ -1,8 +1,4 @@
-Job Positions : Cloud Application Support Engineer – FSG Business Unit
-Company : SS&C Technologies, Inc. - Thailand office
-Company Location : วัฒนา
-Salary : No Infomation
-  skill  
-- 6 minutes walk from BTS Promphong
-- Currently work from home, work with US Colleagues
-- Java, JavaScript, TypeScript, Cloud Native, Git
+Job Positions : Full Stack Software Developers (C#, Angular - multiple positions)
+Company : Quantium Technology Co., Ltd.
+Company Location : พระโขนง
+Salary : THB 45K - 90K /เดือน 

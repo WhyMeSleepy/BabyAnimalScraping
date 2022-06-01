@@ -1,8 +1,4 @@
-Job Positions : Programmer, Chonburi
-Company : PASONA RECRUITMENT (THAILAND) CO., LTD.
-Company Location : ชลบุรี
+Job Positions : Embedded Software Engineer
+Company : Alstom
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- mobile app development
-- business application support
-- computer applications

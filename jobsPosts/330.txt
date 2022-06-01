@@ -1,8 +1,8 @@
-Job Positions : System Analyst (Digital O2O- E-commerce)
-Company : Siam Makro Public Company Limited
-Company Location : สวนหลวง
+Job Positions : Data Scientist/นักวิทยาศาสตร์ข้อมูล
+Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
+Company Location : ปากเกร็ด
 Salary : No Infomation
   skill  
-- 3 years experience in System Analyst
-- full-stack software developer with OOP experience
-- Good knowledge in ER, MUL and UI Wireframing
+- Computer vision, pattern recognition, etc.
+- Big data on cloud infrastructure
+- New graduates are welcome too!

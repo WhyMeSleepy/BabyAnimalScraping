@@ -1,0 +1,8 @@
+Job Positions : Cloud Database Administrator
+Company : Krungsri Bank (Bank of Ayudhya PCL.)
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- Database Administrator focusing on Cloud, AWS, RDS
+- Open Source Databases: MySQL, MariaDB
+- PostgreSQL, MongoDB

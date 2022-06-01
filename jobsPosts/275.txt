@@ -1,8 +1,8 @@
-Job Positions : Data Analyst/นักวิเคราะห์ข้อมูล
-Company : KASIKORNBANK PUBLIC COMPANY LIMITED
-Company Location : พญาไท
+Job Positions : Technical Lead/ Software Engineer (Java or Golang)
+Company : KASIKORN Business - Technology Group (KBTG)
+Company Location : ปากเกร็ด
 Salary : No Infomation
   skill  
-- Data Analyst
-- Business Intelligence
-- Customer behavior / Insight
+- Experience in Technical Lead/ Functional Lead
+- Work from Anywhere
+- Experience in Java, GO, Ruby, JavaScript, Kotlin

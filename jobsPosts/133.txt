@@ -1,8 +1,8 @@
-Job Positions : Data Analyst
-Company : Kerry Express (Thailand) Public Company Limited
-Company Location : บางรัก
+Job Positions : IT Internship Student
+Company : Lumentum International (Thailand) Co., Ltd.
+Company Location : คลองหลวง
 Salary : No Infomation
   skill  
-- Data Analyst
-- Power BI
-- Business Analysis
+- 5 working day
+- C#, .NET, JavaScript, TypeScript, Angular, Python
+- IT Global team

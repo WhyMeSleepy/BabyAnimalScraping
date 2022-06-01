@@ -1,8 +1,8 @@
-Job Positions : Application Engineer (Light& Display) (ID: 551611)
-Company : BTI Executive Placement (Thailand) Co., Ltd.
-Company Location : บางกะปิ
+Job Positions : Senior Software Developer (Senior Associate)
+Company : DBS Vickers Securities (Thailand) Co., Ltd.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Business English communication level
-- Skilled in C++, Python, MATLAB
-- Have owned car and driving license.
+- Senior Software Developer
+- Knowledge with JavaScript frameworks and libraries
+- Proficiency with server-side languages

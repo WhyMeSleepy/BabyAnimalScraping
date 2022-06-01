@@ -1,8 +1,4 @@
-Job Positions : Junior Full Stack Developer
-Company : ITOPPLUS Co., Ltd. (Head Office)
-Company Location : ดินแดง
+Job Positions : Senior Data Analyst,Partner
+Company : Agoda.com
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- 0 - 3 years experience in  programming
-- experience using JavaScript/TypeScript
-- Highly self-motivated and able to learn new skills

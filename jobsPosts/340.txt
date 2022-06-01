@@ -1,8 +1,8 @@
-Job Positions : iOS Developer
-Company : Pi SECURITIES PUBLIC COMPANY LIMITED
-Company Location : ปทุมวัน
+Job Positions : Programmer (RPG)
+Company : Land and Houses Bank Public Company Limited
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Bachelor or highers degree in Computer Science
-- At least 3 years in Software Quality Assurance
-- Experienced with Agile and cross-functional
+- Programmer (RPG)
+- RPG
+- AS400

@@ -1,8 +1,8 @@
-Job Positions : Full Stack Developer
-Company : Azure Computers (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 70K - 90K /เดือน 
+Job Positions : Software Engineer (Java)/เจ้าหน้าที่พัฒนาระบบ
+Company : Stream I.T. Consulting Ltd.
+Company Location : สาทร
+Salary : No Infomation
   skill  
-- Bachelor’s Degree in IT
-- Experience developing web application
-- 5 days of working, Insurance, Bonus
+- Minimum 0-3 Year Experience in Java Developer
+- Knowledge and skills in Java platforms
+- Willing to learn new thing

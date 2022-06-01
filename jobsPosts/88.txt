@@ -1,8 +1,8 @@
-Job Positions : ผู้จัดการฝ่าย Data Development
-Company : CP ALL PUBLIC COMPANY LIMITED
-Company Location : บางรัก
+Job Positions : Data Scientist / Upto 80K/ BTS Wongwianyai/ Hybrid WFH
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : คลองสาน
 Salary : No Infomation
   skill  
-- ประสบการณ์ 5 ปีขึ้นไปในด้านการบริหารจัดการข้อมูล
-- สามารถเขียนโปรแกรม / Python / SQL / IT Structure
-- Data Scientist / Data Engineer
+- 3+ years in advanced analytics project implement
+- Good understanding in data preparation
+- Good Command of English

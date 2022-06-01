@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Model based development)
-Company : TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) CO., LTD.
-Company Location : ปทุมวัน
+Job Positions : Application Engineer Light & Display (L&D) (Automotive) (30K-35K) (SDG-75380)/วิศวกรแอพพลิเคชั่น ด้านแสงและจอแสดงผล (L&D) (ยานยนต์)
+Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
+Company Location : สวนหลวง
 Salary : No Infomation
   skill  
-- 5 Days work week
-- BTS Chit Lom exit 4
-- Model based development
+- Japanese company in Bangkok / Flexible and stable
+- 3-5 years of experience in Technical Sales
+- C++, Python, MATLAB programming

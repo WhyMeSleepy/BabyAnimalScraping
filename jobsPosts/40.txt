@@ -1,8 +1,8 @@
-Job Positions : Data Scientist, Advanced Analytics
-Company : PANDORA
-Company Location : ประเวศ
+Job Positions : Data Scientist - Ascend Commerce
+Company : Ascend Group Co., Ltd.
+Company Location : บางนา
 Salary : No Infomation
   skill  
-- Data mangling and advanced statistical analysis
-- Forecasting and optimization techniques with data
-- Analytical products, exploration and prototyping
+- SQL, SAS, Python, Spark, R, VBA, Python Dash
+- Experienced in working with analytics tools
+- statistical analysis/ and data management

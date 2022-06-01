@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer (Senior-Specialist)
-Company : Pomelo Fashion Co., Ltd.
-Company Location : Bangkok
-Salary : THB 70K - 160K /month 
+Job Positions : Data Engineer
+Company : Advanced Info Service Public Company Limited (AIS)
+Company Location : พญาไท
+Salary : No Infomation
   skill  
-- Terraform
-- AWS
-- DevOps
+- Tableau, Power BI, Trifacta, Tibco
+- Proficient SQL : PostgreSQL on Cloudera Hadoop
+- Location: BTS Ari - Saphan Khwai

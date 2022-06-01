@@ -1,8 +1,4 @@
-Job Positions : DevOps Engineer (Retail Platform / Digital Platform) - Middle & Senior Level
-Company : ttb spark - TMBThanachart Bank or ttb
-Company Location : จตุจักร
+Job Positions : Net C# Developer Website Programmer / Developer (เว็บไซต์ โปรแกรมเมอร์)
+Company : บริษัท โลจิคตอน จำกัด (สำนักงานใหญ่)
+Company Location : เชียงใหม่
 Salary : No Infomation
-  skill  
-- DevOps Solution Implementation, Cloud Technology
-- CI/CD, Jenkins, CA release automation, Jenkins
-- El, Docker, Container, Kubernetes, Openshift

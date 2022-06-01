@@ -1,8 +1,4 @@
-Job Positions : Back-end Developer
-Company : PTG Energy Public Company Limited
-Company Location : ห้วยขวาง
+Job Positions : Web Programmer
+Company : DEESTONE CORPORATION LIMITED
+Company Location : ปริมณฑล-สมุทรสาคร
 Salary : No Infomation
-  skill  
-- Golang
-- NodeJS
-- JavaScript

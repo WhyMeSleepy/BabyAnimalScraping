@@ -1,0 +1,8 @@
+Job Positions : Test Manager
+Company : MFEC Public Company Limited
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Minimum 10 years’ experience in Software Testing
+- SQL Statement, python, shell, Store Procedure
+- Test planning and management

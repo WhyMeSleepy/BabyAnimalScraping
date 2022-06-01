@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Coraline Co.,Ltd
-Company Location : ธนบุรี
+Job Positions : AI-Machine Learning Engineer (Conversational AI)
+Company : CP ALL PUBLIC COMPANY LIMITED
+Company Location : ปากเกร็ด
 Salary : No Infomation
   skill  
-- Develop ETL processes
-- Understanding Data Lake, Data Warehouse, Data Mart
-- Experience in Big Data technologies
+- AI / Machine Learning / AI System / AI Services
+- Computer Engineering or related fields
+- Good Command in English / AI, ML, Python

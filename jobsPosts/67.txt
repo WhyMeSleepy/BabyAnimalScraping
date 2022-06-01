@@ -1,8 +1,8 @@
-Job Positions : Junior Data Engineer
-Company : Coforge Limited
-Company Location : Bangsue
-Salary : THB 25K - 35K /month 
+Job Positions : ฺBusiness Data Scientist
+Company : Adecco Recruitment (Thailand) Limited
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- Data Engineer 1-3 years of experience
-- Data Warehouse/ Data science for enterprise
-- Fixed Bonus, Life/Health Insurance, PVD,
+- Exp. of Statistics, Data Mining, Machine Learning
+- Analyzing data with Python, and R
+- Strong communication in English

@@ -1,8 +1,8 @@
-Job Positions : IoT Engineer (25K-50K) (SDG-76371)/วิศวกร IoT
-Company : RGF HR Agent Recruitment (Thailand) Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Full Stack Developer (Golang / VueJS)
+Company : LINE Company (Thailand) Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Opportunity for improving your skill
-- Working experience as IT engineer more than 1 year
-- Programming ERP system
+- 3+ Years of Experience in Software Development
+- Experience in Golang and Vue.js
+- Good Practice in Software Design

@@ -1,8 +1,8 @@
-Job Positions : Django-Python Developer / Programmer
-Company : CODIUM Company Limited
-Company Location : ปทุมวัน
-Salary : No Infomation
+Job Positions : Data Engineer
+Company : Extend IT Resource Co., Ltd.
+Company Location : ห้วยขวาง
+Salary : THB 35K - 55K /เดือน 
   skill  
-- Django-Python Developer / Programmer
-- Django
-- Friendly, cozy, delicious, high-tech environment
+- Technologies: Elastic Search, Talend or ETL Tool
+- Knowledge in Data Engineer and Big Data
+- Basic Infrastructure (Network, Hardware, Cloud)

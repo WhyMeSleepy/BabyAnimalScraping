@@ -1,8 +1,8 @@
-Job Positions : Embedded Test Engineer - 2 Positions
-Company : NES Fircroft
-Company Location : กรุงเทพมหานคร
+Job Positions : ผู้จัดการฝ่าย Data Development
+Company : CP ALL PUBLIC COMPANY LIMITED
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- System Testing on Embedded Systems
-- Software Development using C Programming
-- Railway/Aerospace/Industrial/Automotive domain
+- ประสบการณ์ 5 ปีขึ้นไปในด้านการบริหารจัดการข้อมูล
+- สามารถเขียนโปรแกรม / Python / SQL / IT Structure
+- Data Scientist / Data Engineer

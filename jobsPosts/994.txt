@@ -1,0 +1,8 @@
+Job Positions : Senior Software Developer (C#)
+Company : Tilleke & Gibbins International Ltd.
+Company Location : ยานนาวา
+Salary : No Infomation
+  skill  
+- C#, ASP.Net, VB.NET, VB, Crystal Report, XML
+- RDBMS and Microsoft SQL
+- System Development, Design and Implemenetation

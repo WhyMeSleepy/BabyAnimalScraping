@@ -1,8 +1,8 @@
-Job Positions : Junior Developer ประจำสีลม
-Company : Chanwanich Group
-Company Location : บางรัก
-Salary : No Infomation
+Job Positions : PL/SQL Developer
+Company : Advanced Personnel and Solutions Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 25K - 55K /เดือน 
   skill  
-- ปสก.อย่างน้อย 1 ปี C#.Net ,ASP.NET, MVC, Python
-- รักการ coding, ชอบศึกษาเทคโนโลยีใหม่ๆ
-- โบนัส, กองทุนสำรองเลี้ยงชีพ, ประกันกลุ่ม,ลาพักร้อน
+- Automate / Tester / ทดสอบระบบ
+- Bachelor's degree in Computer Science
+- At least 3 years’ experience in Oracle developer

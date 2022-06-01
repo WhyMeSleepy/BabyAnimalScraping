@@ -1,8 +1,4 @@
-Job Positions : Full Stack Software Developer (Bangkok Based)
-Company : Primo World Co., Ltd.
-Company Location : บางรัก
-Salary : No Infomation
-  skill  
-- Design and code various web/mobile/server
-- Work in startup environment
-- Experience in software development
+Job Positions : Embedded and IoT Software Engineer/วิศวกรรมระบบไอโอทีและสารสนเทศ
+Company : Edison Motors Co., Ltd.
+Company Location : บางซื่อ
+Salary : THB 55K - 70K /เดือน 

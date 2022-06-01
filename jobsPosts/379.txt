@@ -1,8 +1,8 @@
-Job Positions : Cyber Security Engineer
-Company : Sinwattana Crowdfunding Corporation Limited
-Company Location : บางรัก
+Job Positions : Developer Relations/Developer Advocacy(Junior to Senior Manager)
+Company : SCB TECH X CO., LTD.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Experience in Cyber Security
-- 5 Days Working, Insurance Group, Provident Fund
-- Proficiency in Python, C++, Java, Ruby, Node, Go
+- Experiment on new ideas and technologies
+- Technology community engagement and growth
+- Hybrid Working

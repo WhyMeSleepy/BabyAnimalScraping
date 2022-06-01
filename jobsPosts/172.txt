@@ -1,8 +1,8 @@
-Job Positions : Data Analyst/นักวิเคราะห์และจัดการฐานข้อมูล
-Company : SGS (Thailand) Limited
-Company Location : ยานนาวา
+Job Positions : Software Tester (Phuket Based)
+Company : PRIMO
+Company Location : ภูเก็ต
 Salary : No Infomation
   skill  
-- Data Analyst - English Skill
-- Excel + Marco
-- CRM Data Analyst
+- Provide test-related expertise to the team
+- Create detailed and comprehensive test plans
+- Ensure products meet customer requirement

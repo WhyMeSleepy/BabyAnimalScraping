@@ -1,8 +1,4 @@
-Job Positions : Lead Data Engineer
-Company : Greenline Synergy Co., Ltd.
-Company Location : Suanluang
+Job Positions : Data Analyst / Business Intelligence
+Company : Hebe (Thailand) Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
-  skill  
-- Data Engineer Team Lead
-- Data Architecture, Data Lake, Data Warehouse
-- Experience with relational database systems

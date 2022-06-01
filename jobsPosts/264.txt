@@ -1,8 +1,4 @@
-Job Positions : Solution Specialist Engineer
-Company : DailiTech Co., Ltd.
-Company Location : Klongtoey
+Job Positions : Senior Programmer
+Company : Pens Marketing and Distribution Co., Ltd.
+Company Location : ยานนาวา
 Salary : No Infomation
-  skill  
-- Drive with Passion in Cloud Technology
-- Deep Dive on AWS and Related Technology
-- Professional, Challenge, and Teamwork

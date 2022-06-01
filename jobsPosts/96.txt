@@ -1,8 +1,8 @@
-Job Positions : Programmer  (IT)
-Company : Belton Industrial (Thailand) Ltd.
-Company Location : คลองหลวง
+Job Positions : Senior Python Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Bachelor's Degree or higher in Computer Science
-- 1-3 years of experience in programming
-- Develop with VB, VC++ or Java.
+- Senior Python Developer
+- Machine Learning
+- Artificial Intelligence

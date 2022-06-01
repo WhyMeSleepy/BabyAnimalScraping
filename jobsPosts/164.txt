@@ -1,8 +1,4 @@
-Job Positions : ABAP Programmer
-Company : JAC Recruitment Thailand
-Company Location : ห้วยขวาง
-Salary : THB 70K - 120K /เดือน 
-  skill  
-- 1 year experience in ABAP
-- Learn new technology such as SAP HANA
-- Offer good Benefits and career growth
+Job Positions : Data Scientist
+Company : MONIX Co., Ltd.
+Company Location : จตุจักร
+Salary : No Infomation

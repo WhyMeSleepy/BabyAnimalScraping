@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer (Junior / Senior) - (BKK Based)
-Company : Primo World Co., Ltd.
-Company Location : บางรัก
+Job Positions : Test Automation Engineer - Mobile Banking
+Company : Bangkok Bank Public Company Limited
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- DevOps and Agile principles
-- Linux based infrastructure
-- JavaScript, Typescript
+- Test Automated
+- QA, Tester
+- Mobile Application

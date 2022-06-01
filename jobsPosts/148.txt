@@ -1,4 +1,8 @@
-Job Positions : Backend Engineer
-Company : Prota Light Capital
-Company Location : บางรัก
-Salary : THB 45K - 120K /เดือน 
+Job Positions : Data Analyst
+Company : Krungthai Bank PCL
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- data analytics
+- Python or SQL
+- visualization tool

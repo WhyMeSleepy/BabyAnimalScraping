@@ -1,0 +1,8 @@
+Job Positions : Programmers
+Company : Union Auction Public Company Limited
+Company Location : วังทองหลาง
+Salary : No Infomation
+  skill  
+- .มีประสบการณ์ด้าน NodeJS , MongoDB , Vue.js
+- วุฒิ ป.ตรี สาขาคอมพิวเตอร์ หรือ สาขาที่เกี่ยวข้อง
+- มีประสบการณ์ด้านการเขียนโปรแกรม ดูแลระบบฐานข้อมูล

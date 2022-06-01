@@ -1,4 +1,8 @@
-Job Positions : Report Developer
-Company : TribeHired Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Software Engineer  Backend Developer (Digital Banking)
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- Backend developer
+- JavaScript (Node.js), Java, Python, Go, etc
+- Familiarity with API development

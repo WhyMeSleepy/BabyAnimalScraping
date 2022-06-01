@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer - 100% Remote Working
-Company : Agensi Pekerjaan Jobstreet Staffing Services Sdn Bhd
-Company Location : กรุงเทพมหานคร
+Job Positions : Technology Developer ( 1-year contract) (React, Node.js,Python,Vue.js,Nuxt.Js,Golang)
+Company : SCG Cement-Building Materials Co., Ltd.
+Company Location : บางซื่อ
 Salary : No Infomation
   skill  
-- Full-time remote with flexible working options
-- Competitive salary
-- High performing engineering culture
+- work from anywhere
+- React, Node.js,Python,Vue.js,Nuxt.Js,Golang
+- Android(Koltin), IOS (swift)

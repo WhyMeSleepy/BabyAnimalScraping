@@ -1,8 +1,8 @@
-Job Positions : System Engineer (Pre-sales,Post-sales)/พนักงานสนับสนุนเทคนิคและบริการหลังการขาย
-Company : Ricoh (Thailand) Limited
-Company Location : ประเวศ
-Salary : No Infomation
+Job Positions : Backend Developer (1 year Contract) ประจำสีลม
+Company : Chanwanich Group
+Company Location : บางรัก
+Salary : THB 55K - 70K /เดือน 
   skill  
-- การพัฒนาแอปพลิเคชั่น หรือ Computer Science
-- ระบบ Network MCP, MCSE, MCITP, CCNA, CCNP
-- มีความรู้ด้านการใช้ภาษาอังกฤษ
+- Node.JS, Java or .Net core
+- API Programming: postman , swagger
+- Git and Docker

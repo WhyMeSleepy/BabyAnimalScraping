@@ -1,4 +1,8 @@
-Job Positions : Platform Analytic Manager ( GMM Stream )
-Company : GMM Grammy Public Company Limited
-Company Location : วัฒนา
+Job Positions : Full Stack Software Developer (Phuket Based)
+Company : PRIMO
+Company Location : ภูเก็ต
 Salary : No Infomation
+  skill  
+- Design and code various web/mobile/server
+- Work in startup environment
+- 2+ years experience in software development

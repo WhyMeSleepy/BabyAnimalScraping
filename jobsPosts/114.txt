@@ -1,8 +1,4 @@
-Job Positions : Programmer
-Company : Mektec Manufacturing Corporation (Thailand) Ltd.
-Company Location : อยุธยา
+Job Positions : ฺBackend Developer/นักพัฒนาโปรแกรมส่วนหลังบ้าน
+Company : ICREATIVESYSTEMS COMPANY LIMITED
+Company Location : บางพลัด
 Salary : No Infomation
-  skill  
-- VB, VB.NET, ASP.NET, HTML, XML, PHP, C# etc.
-- Knowledge about SQL Server, Oracle
-- Good command of English

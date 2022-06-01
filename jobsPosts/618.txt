@@ -1,8 +1,4 @@
-Job Positions : Software Engineer/วิศวกรซอฟต์แวร์
-Company : Ever Medical Technologies Company Limited
-Company Location : Pathumwan
+Job Positions : Full Stack Developer
+Company : 4Plus Consulting Co., Ltd.
+Company Location : ราชเทวี
 Salary : No Infomation
-  skill  
-- Join dynamic team of technology-driven healthcare
-- Interest and experience in blockchain technologies
-- Experience working with Node.js, MongoDB, Redis

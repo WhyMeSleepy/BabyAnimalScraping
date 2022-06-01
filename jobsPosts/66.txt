@@ -1,8 +1,4 @@
-Job Positions : Cloud Data Platform, Big Data, Datawarehouse, and BI Consultant
-Company : Inteltion Co., Ltd.
-Company Location : Bangkok
+Job Positions : Senior Data Engineer
+Company : MSC Sittipol Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Skilled or interest in Big Data area
-- Exp in DataWarehouse, ETL and BI Tools
-- Azure, AWS, Tableau, Informatica, PowerBI, IBM

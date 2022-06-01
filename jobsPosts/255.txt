@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Java Developer/C# Developer)
-Company : Freewill Solutions Co., Ltd.
-Company Location : สาทร
-Salary : THB 20K - 35K /เดือน 
+Job Positions : Quantitative Researcher Senior Manager
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- Java Developer
-- C# Developer
-- New Graduate welcome
+- machine learning; Software Engineer
+- Financial Market Data
+- Quantitative Research; Python

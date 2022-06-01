@@ -1,8 +1,0 @@
-Job Positions : Development Lead (Golang) - Ascend Wealth
-Company : Ascend Group Co., Ltd.
-Company Location : Prakanong
-Salary : No Infomation
-  skill  
-- Develop and maintain microservice applications
-- Agile engineering and test-driven development
-- Flexible working hour/ high performance culture

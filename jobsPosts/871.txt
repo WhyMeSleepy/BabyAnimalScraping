@@ -1,0 +1,8 @@
+Job Positions : DevOps Engineer (120K)
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 120K /เดือน 
+  skill  
+- CI/CD, Kubernetes, Docker, Jenkins, Grafana, ELK
+- AWS, Azure, Google Cloud, Python
+- OpenShift, Linux troubleshooting

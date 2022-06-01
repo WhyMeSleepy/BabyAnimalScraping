@@ -1,8 +1,0 @@
-Job Positions : Senior Software Engineer (Front end Application) - DataX
-Company : Siam Commercial Bank Public Co., Ltd. (Project 5)
-Company Location : จตุจักร
-Salary : No Infomation
-  skill  
-- Software engineering, tech engineering, Fullstack
-- HTML, CSS, JavaScript, Bootstrap, jQuery, UX/UI
-- React, VueJS, Devops, CD/CI, Graphic design

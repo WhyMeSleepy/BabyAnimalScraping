@@ -1,4 +1,8 @@
-Job Positions : Backend Developer
-Company : Taskworld
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Analysis Specialist
+Company : Central Retail Corporation (CRC Talent Acquisition)
+Company Location : ปากเกร็ด
 Salary : No Infomation
+  skill  
+- Data Analysis
+- Monitor providing daily, weekly, monthly
+- Coordinate with related functions

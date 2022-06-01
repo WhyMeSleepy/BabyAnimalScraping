@@ -1,8 +1,8 @@
-Job Positions : IT Developer (Carrier Business)
-Company : Huawei Technologies (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : Backend Engineer
+Company : Maknet
+Company Location : บางกะปิ
 Salary : No Infomation
   skill  
-- Familiar with MySQL, Oracle, JavaScript, HTML
-- 3+ years of programming experience
-- Fluent in English communication
+- International Workplace
+- Work from Anywhere
+- Opportunities for Career Development

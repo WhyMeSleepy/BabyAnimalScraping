@@ -1,8 +1,8 @@
-Job Positions : Collections Strategy Manager/ผู้เชี่ยวชาญด้านงานวางแผนและพัฒนากลยุทธ์การติดตามหนี้
-Company : Bank of Ayudhya Public Company Limited (Ayudhya Capital Auto)
-Company Location : บางพลี
+Job Positions : Data Engineer
+Company : CIMB Thai Bank
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Collection strategy specialist
-- Strong analytical skills
-- Regarding database design development
+- Head Office based in Chidlom area (BTS)
+- Annual Leave 15 Days/year
+- Experiences in databases, query authoring (SQL)

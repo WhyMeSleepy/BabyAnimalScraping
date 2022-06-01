@@ -1,4 +1,8 @@
-Job Positions : Lead Software Engineer
-Company : Refinitiv
-Company Location : กรุงเทพมหานคร
+Job Positions : IT Development Officer - Manager (Urgently !!!)
+Company : AIRA Securities Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
+  skill  
+- Experience in using API Back-end
+- Experience with Programming languages C++,VB.NET
+- Familiarity with HTML, JavaScript, CSS, and AJAX

@@ -1,8 +1,8 @@
-Job Positions : Backend Developer (1 year Contract) ประจำสีลม
-Company : Chanwanich Group
-Company Location : บางรัก
-Salary : THB 55K - 70K /เดือน 
+Job Positions : Programmer (Contract 1 Year/ WFH)/โปรแกรมเมอร์
+Company : Legacy Corp Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 25K - 55K /เดือน 
   skill  
-- Node.JS, Java or .Net core
-- API Programming: postman , swagger
-- Git and Docker
+- Minimum of 1 -5 years experience in programming
+- Strong in Node.js, /React.js
+- WFH 100%

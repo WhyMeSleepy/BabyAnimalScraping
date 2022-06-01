@@ -1,8 +1,8 @@
-Job Positions : Data Analytics (Tableau)
-Company : TD Tawandang Co., Ltd.
-Company Location : บางรัก
+Job Positions : Data Modeling -(Assistant Manager)
+Company : Cigna Insurance Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Data Analysis
-- Retail / FMCG
-- Tableau & SQL Command
+- Bachelor/ Master degree in computer science
+- Strong results orientation
+- Strong technical skills in BI tools, SQL,

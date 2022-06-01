@@ -1,8 +1,4 @@
-Job Positions : Business Data Analyst (BITEC)
-Company : BITEC PROPERTY SOLUTIONS
+Job Positions : Software Engineer
+Company : Coindee Co.,Ltd
 Company Location : บางนา
-Salary : No Infomation
-  skill  
-- 2-3 years working experience in related fields.
-- Have good understanding in data management.
-- Advanced computer skills especially in MS Excel.
+Salary : THB 90K - 160K /เดือน 

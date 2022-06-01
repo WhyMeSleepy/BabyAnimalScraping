@@ -1,8 +1,8 @@
-Job Positions : Cloud Engineer
-Company : Krungsri Bank (Bank of Ayudhya PCL.)
-Company Location : ยานนาวา
-Salary : No Infomation
+Job Positions : Back End Developer
+Company : RLC
+Company Location : บางรัก
+Salary : THB 55K - 90K /เดือน 
   skill  
-- Krungsri Nimble (IT solutions hub)
-- Work from Anywhere and Flexible working style
-- Smart casual dress
+- Attractive salary package
+- Career development in an international environment
+- Work with a cutting-edge fintech company

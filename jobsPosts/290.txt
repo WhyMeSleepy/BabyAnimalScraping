@@ -1,8 +1,8 @@
-Job Positions : DevOps up to 130k
-Company : RDA GROUP RECRUITMENT LTD.
-Company Location : กรุงเทพมหานคร
+Job Positions : System Development : ETL Developer
+Company : Kiatnakin Phatra Bank Public Company Limited
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Strong experiences on managing CI/CD with Jenkins
-- GitLab and AWS resources
-- JIRA, Confluence, MS Team is a plus
+- Minimum 2 years of experience in ETL Developer
+- Expertise in SQL, PL/SQL,Database Administrator
+- Knowledge of programming (JAVA, Python and XML)

@@ -1,8 +1,0 @@
-Job Positions : Junior /Senior DevOps Engineer
-Company : Thai Life Insurance Public Company Limited
-Company Location : ห้วยขวาง
-Salary : No Infomation
-  skill  
-- Experiences of DevOp Engineer, AWS Cloud
-- Knowledge of Docker, CI/CD
-- Good Location

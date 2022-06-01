@@ -1,8 +1,8 @@
-Job Positions : Software Engineer - Full Stack Developer (Venture Builder)
-Company : SCB 10X Co., Ltd.
-Company Location : Klongtoey
-Salary : THB 55K - 160K /month 
+Job Positions : Senior Golang Developer (Expert Level)
+Company : PRTR
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- front-end and back-end development
-- ES6+,Typescript,Nest.js,Next.js,Solidity/CosmWasm
-- Proficiency in Python, JavaScript, Smart contract
+- Senior Golang Developer (Expert Level)
+- International Environment
+- Agile Methodology

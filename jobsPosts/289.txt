@@ -1,8 +1,8 @@
-Job Positions : Cloud Engineer
-Company : Ngernturbo Co., Ltd./ บริษัท เงินเทอร์โบ จำกัด
-Company Location : ปากเกร็ด
+Job Positions : Data Engineer (Apache Hadoop)
+Company : Bangkok Bank Public Company Limited
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- Design, implement and optimize cloud solutions
-- Support and maintain cloud infrastructure
-- 1+ years of experience in cloud platforms
+- data engineer, apache hadoop
+- big data, etl ,python, spark, hive
+- cloud platform

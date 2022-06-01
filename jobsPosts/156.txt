@@ -1,8 +1,8 @@
-Job Positions : Senior Data Engineer
-Company : Central Retail Corporation Ltd. (JD Finance)
-Company Location : ปทุมวัน
+Job Positions : Software Developer
+Company : Mu Space and Advanced Technology Co., Ltd.
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- Understanding of Hadoop ecosystem
-- Experience with data pipeline and workflow
-- Familiar with APIs, JSON, REST
+- Python, Go, Dart, JavaScript, C/C++
+- Understanding of the logic of programming
+- Experience in collaborative software development

@@ -1,8 +1,0 @@
-Job Positions : Web Development
-Company : The Royal Bangkok Sports Club
-Company Location : Pathumwan
-Salary : No Infomation
-  skill  
-- ปริญญาตรี สาขาคอมพิวเตอร์ เทคโนโลยีสารสนเทศ
-- สามารถเขียนโปรแกรม Front End และ Back End ได้
-- มีประสบการณ์ทำงานออกแบบและเขียนเว็บไซต์ 1 ปีขึ้นไป

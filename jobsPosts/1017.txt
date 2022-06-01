@@ -1,8 +1,8 @@
-Job Positions : Data Engineer – Utilise enterprise data platform using cutting-edge technologies with tech company
-Company : Cathcart Associates Asia Recruitment Ltd.
-Company Location : ยานนาวา
-Salary : THB 45K - 120K /เดือน 
+Job Positions : (Urgent) IT Project Manager (Software Developer) / Din Daeng / Up to 90k! + benefits
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : ดินแดง
+Salary : No Infomation
   skill  
-- Salary up to 100,000 THB + Great benefits
-- Proficient with Python/Pyspark for ETL, data model
-- Working on AWS and GCP
+- Software Developer, Project Manager
+- IT Project Management
+- Digital asset, blockchain, cryptocurrency

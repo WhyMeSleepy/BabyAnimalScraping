@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer (C#)
-Company : Tilleke & Gibbins International Ltd.
-Company Location : Yannawa
+Job Positions : Manager, Digital Data Engineer
+Company : dtac
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- C#, ASP.Net, VB.NET, VB, Crystal Report, XML
-- RDBMS and Microsoft SQL
-- System Development, Design and Implemenetation
+- Collect data, measure performance,solve analytical
+- Experience with advanced data management systems
+- ็ัHybrid Work

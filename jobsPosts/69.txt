@@ -1,8 +1,8 @@
-Job Positions : Senior / Lead Software Engineer (C#)
-Company : Refinitiv Software, now part of LSEG (London Stock Exchange Group)
-Company Location : Bangrak
+Job Positions : Business Data Science
+Company : Pruksa Real Estate Public Company Limited
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- Work From Home / Hybrid Work
-- Good at English
-- Strong Technical skill in C#.net
+- At least 1 years working experience
+- exp. in Business Intelligence or Business Analyst
+- Computer Science

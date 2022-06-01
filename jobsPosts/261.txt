@@ -1,8 +1,8 @@
-Job Positions : Cloud Solution Engineer - AWS
-Company : DailiTech Co., Ltd.
-Company Location : Klongtoey
+Job Positions : Software Developer (Backend)
+Company : Skillpower Services (Thailand) Co., Ltd.
+Company Location : ดินแดง
 Salary : No Infomation
   skill  
-- Drive with Passion in Cloud Technology
-- Deep Dive on AWS and Related Technology
-- Professional, Challenge, and Teamwork
+- Python, Golang, NoSQL, API Development
+- MRT Rama9
+- 1-3 years experience

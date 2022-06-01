@@ -1,8 +1,8 @@
-Job Positions : Software Engineer (Backend, Java Spring Boot)
-Company : Central JD Fintech
-Company Location : ปทุมวัน
-Salary : No Infomation
+Job Positions : DevOps Engineer
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : THB 45K - 70K /เดือน 
   skill  
-- Programming Languages: Java Spring Boot
-- Web and Mobile Application platforms
-- CI/CD tools used for automated software delivery
+- CI/CD tools. (Jenkins)
+- Amazon Web Service or Google Cloud Platform
+- (Docker, Kubernetes)

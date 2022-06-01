@@ -1,4 +1,8 @@
-Job Positions : Dev Ops
-Company : TribeHired Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Analyst
+Company : Kerry Express (Thailand) Public Company Limited
+Company Location : บางรัก
 Salary : No Infomation
+  skill  
+- Data Analyst
+- Power BI
+- Business Analysis

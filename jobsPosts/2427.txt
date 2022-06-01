@@ -1,8 +1,0 @@
-Job Positions : ABAP Developer /Specialist
-Company : Inteqc Feed Co., Ltd.
-Company Location : ปริมณฑล-สมุทรสาคร
-Salary : No Infomation
-  skill  
-- ABAP Developer
-- SAP S/4 HANA
-- Minimum 3 years of ABAP experience

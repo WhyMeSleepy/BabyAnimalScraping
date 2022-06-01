@@ -1,8 +1,8 @@
-Job Positions : Programmer (Web Application)
-Company : Kang Yong Electric Public Co., Ltd.
-Company Location : ปริมณฑล-สมุทรปราการ
+Job Positions : Collections Strategy Manager/ผู้เชี่ยวชาญด้านงานวางแผนและพัฒนากลยุทธ์การติดตามหนี้
+Company : Bank of Ayudhya Public Company Limited (Ayudhya Capital Auto)
+Company Location : บางพลี
 Salary : No Infomation
   skill  
-- Programmer
-- IT
-- สมุทรปราการ
+- Collection strategy specialist
+- Strong analytical skills
+- Regarding database design development

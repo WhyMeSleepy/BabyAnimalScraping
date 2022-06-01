@@ -1,8 +1,8 @@
-Job Positions : Lead Software Engineering (Blockchain Integrated Services) - Ascend Bit
-Company : Ascend Group Co., Ltd.
-Company Location : พระโขนง
+Job Positions : Back-end Developer (Golang)
+Company : TRIDEPT COMPANY LIMITED
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Strong hand-on technical skills
-- Good at team management
-- Good command of English
+- At least 2 years experience with Go (GoLang)
+- Experience in E-Commerce
+- Understanding of code versioning tools,such as Git

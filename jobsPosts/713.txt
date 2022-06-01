@@ -1,4 +1,8 @@
-Job Positions : Software Development (PHP)
-Company : GMM Grammy Public Company Limited
-Company Location : วัฒนา
+Job Positions : Platform Integration Specialist
+Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
+Company Location : ปากเกร็ด
 Salary : No Infomation
+  skill  
+- Make recommendations on software & platform
+- Platform usability owner
+- Ensure the longevity of our transformation effort

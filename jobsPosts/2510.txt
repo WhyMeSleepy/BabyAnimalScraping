@@ -1,8 +1,0 @@
-Job Positions : Senior Software Engineer (React Native)
-Company : Polar Bear Mission Co., Ltd.
-Company Location : ราชเทวี
-Salary : No Infomation
-  skill  
-- 2+ years of experience in React Native
-- Experienced with Git and Agile methodologies
-- Bonus, Laptop (Mac), Company Trip, Group Insurance

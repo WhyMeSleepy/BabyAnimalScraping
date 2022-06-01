@@ -1,8 +1,8 @@
-Job Positions : Senior Data Engineer
-Company : Bluebik Group Public Company Limited
-Company Location : บางรัก
+Job Positions : DevOps Engineer (Junior Level or Non Experienced are also Welcome)
+Company : Berli Jucker Public Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Flexible working hours
-- Competitive Salary
-- Close to BTS and Work from anywhere policy
+- DevOps Engineer
+- Non Experience are Welcome
+- Programmer , Software Developer, Software Engineer

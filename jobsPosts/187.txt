@@ -1,8 +1,8 @@
-Job Positions : Software Developer (New graduate are welcome)/นักพัฒนาซอฟต์แวร์
-Company : HUMANICA Public Company Limited
+Job Positions : Software Engineer, Full Stack
+Company : Finnomena Co., Ltd.
 Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Develop and coding new software programs
-- experience in C#.Net,HTML, JavaScript
-- Bachelor’s degree in IT field
+- Front-end, Back-end
+- Vuejs, React, Node.js, Golang
+- Agile, Scrum Team, Hybrid Worplace

@@ -1,8 +1,8 @@
-Job Positions : Software Engineer / Senior Software Developer
-Company : Ingenico (Thailand) Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Ecosystem Platform Analytics/Business Innovation Team
+Company : Krungthai Bank PCL
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- knowledge of C/C++ programming
-- Payment Business / EDC is request
-- Able to communicate in English
+- Ecosystem Platform
+- Data Analyst and MIS
+- SAS / SQL / MS-Excel

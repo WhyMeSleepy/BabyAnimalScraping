@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Apache Hadoop)
-Company : Bangkok Bank Public Company Limited
-Company Location : ยานนาวา
+Job Positions : Full Stack Developer (Java+Angular/Senior/Middle Level)
+Company : Allianz Technology (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- data engineer, apache hadoop
-- big data, etl ,python, spark, hive
-- cloud platform
+- 3+ years’ experience in Angular and Java
+- Good command  in English
+- Health insurance, bonus, platinum gym membership

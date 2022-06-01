@@ -1,8 +1,0 @@
-Job Positions : Senior Software Developer (NodeJS, ReacJS)
-Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
-Company Location : คลองเตย
-Salary : No Infomation
-  skill  
-- Strong in Node.JS/React.
-- Knowledge of Cloud services, microservice, noSQL
-- Understand in data structure and algorithm.

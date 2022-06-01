@@ -1,8 +1,4 @@
-Job Positions : Data Engineer / Upto 80K/ BTS Wongwianyai/ Hybrid WFH
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : คลองสาน
+Job Positions : Software Developer/โปรแกรมเมอร์
+Company : I&I Group Public Company Limited
+Company Location : เชียงใหม่
 Salary : No Infomation
-  skill  
-- 3+ years of proven experienced in big data project
-- Experienced and understanding in data ingestion
-- Good Command of English

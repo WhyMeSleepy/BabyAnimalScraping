@@ -1,8 +1,8 @@
-Job Positions : Software Engineer/Senior Software Engineer
-Company : 1Moby Co., Ltd.
-Company Location : วังทองหลาง
-Salary : THB 35K - 90K /เดือน 
+Job Positions : Data Scientist
+Company : SHIPPOP CO., LTD.
+Company Location : พญาไท
+Salary : No Infomation
   skill  
-- Work From Anywhere/ Remote Work / On Site
-- Performance Bonus & Fixed Bonus
-- Openness, Worldwide  & Growth Environment
+- understanding of Machine learning, Data cleansing
+- understanding of working with each type ofDatabase
+- Deliver clear and actionable recommendations

@@ -1,8 +1,8 @@
-Job Positions : Front and Back End Developer
-Company : True Corporation Public Company Limited
-Company Location : ห้วยขวาง
+Job Positions : Blockchain Developer – Web3 Start-Up Under Established Company
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Coding FrontEnd (HTML/CSS not required)
-- Coding BackEnd (RestFul API)
-- System Analysis , SDLC, Project Management, Scrum
+- Web3 project
+- Blockchain, Node.js
+- Great tech environment

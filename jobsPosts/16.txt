@@ -1,8 +1,8 @@
-Job Positions : Backend Developer - Python
-Company : SWIFT DYNAMICS CO., LTD.
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Backend Developer (Java, C#, NodeJs, Go or Python)  - Mid to Lead - 150,000 THB
+Company : RDA GROUP RECRUITMENT LTD.
+Company Location : กรุงเทพมหานคร
+Salary : THB 55K - 160K /เดือน 
   skill  
-- Pythondeveloper, IoTservice, Cloud services,
-- Programmer, Database, Server, Clodeserver, Devops
-- Strong Team, High Speed Growth, Softwaredeveloper
+- Minimum 3 years of experience with Developer role
+- Java, NodeJs, Golang, C#, or Python
+- Experience in cloud platform is a plus

@@ -1,8 +1,4 @@
-Job Positions : Full-Stack Developer - True Robotic
-Company : True Corporation Public Company Limited
-Company Location : ห้วยขวาง
+Job Positions : Programmer/โปรแกรมเมอร์
+Company : Sammakorn Public Company Limited
+Company Location : พญาไท
 Salary : No Infomation
-  skill  
-- Full-Stack Developer
-- Develop and maintain website backend systems
-- HTML, CSS, JavaScript, jQuery, Node.js, PHP

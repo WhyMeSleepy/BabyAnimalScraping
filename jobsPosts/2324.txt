@@ -1,8 +1,0 @@
-Job Positions : Intermediate Software Engineer (Web Developer)
-Company : Intelligent Bytes Co., Ltd.
-Company Location : บางกะปิ
-Salary : No Infomation
-  skill  
-- Python, Django, Docker, Responsive web
-- At least 5 years of experience in web development
-- Bonus, flexible working hours, etc.

@@ -1,4 +1,8 @@
-Job Positions : Net C# Developer Website Programmer / Developer (เว็บไซต์ โปรแกรมเมอร์)
-Company : บริษัท โลจิคตอน จำกัด (สำนักงานใหญ่)
-Company Location : เชียงใหม่
+Job Positions : Junior/Senior Software Engineer (Golang) - Ascend Wealth
+Company : Ascend Group Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
+  skill  
+- Develop and maintain microservice applications
+- Agile engineering and test-driven development
+- Flexible working hour/ high performance culture

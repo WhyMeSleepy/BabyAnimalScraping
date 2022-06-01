@@ -1,8 +1,8 @@
-Job Positions : Senior Data Engineer/ Data Engineer
-Company : True Corporation Public Company Limited
+Job Positions : Software Development Manager (Python)
+Company : PRTR
 Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Data Engineer
-- Artificial intelligence and machine learning
-- Data Management
+- Software Development Manager (Python)
+- eCommerce Industry
+- Agile Environment

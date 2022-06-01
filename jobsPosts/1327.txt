@@ -1,8 +1,4 @@
-Job Positions : Software Developer [IOT]/ Up to 70K/ MRT Thailand Cultural Centre
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Salesforce Developer
+Company : CBRE
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Software Development background at least 1 year
-- Web Development Languages: HTML, CSS and JavaScrip
-- Database Management Systems: PostgreSQL or MySQL

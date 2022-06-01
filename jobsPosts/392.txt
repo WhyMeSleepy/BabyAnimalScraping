@@ -1,8 +1,8 @@
-Job Positions : Business Analyst
-Company : Bualuang Securities Public Company Limited
-Company Location : บางรัก
+Job Positions : Software Engineer (Mobile / Frontend) - Middle to Senior level - Commercial Platform
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- 3ys of exp. in role of Business/System Analyst
-- Exp. in Banking or Financial industry is prefered
-- Strong problem solving and analytical skills
+- JavaScript, Angular, React, HTML, CSS, Bootstrap
+- Flutter, Swift, Kotlin
+- Node.js, Python, Java, Go, C, .NET is a plus.

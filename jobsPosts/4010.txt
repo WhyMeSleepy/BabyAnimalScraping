@@ -1,8 +1,0 @@
-Job Positions : Test Automation Engineer - Mobile Banking
-Company : Bangkok Bank Public Company Limited
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- Test Automated
-- QA, Tester
-- Mobile Application

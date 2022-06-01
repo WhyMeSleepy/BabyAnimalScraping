@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer
-Company : Muze Innovation Co., Ltd.
-Company Location : Dindaeng
+Job Positions : Full Stack Engineers
+Company : Arise by Infinitas Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- have experience in AWS technologies
-- Strong scripting and automation skill
-- Solid experience as a DevOps Engineer in a 24x7
+- Fresh graduates with a degree in computer science
+- 3 years experience as a full stack engineer
+- Strong understanding of both front-end & back-end

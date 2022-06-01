@@ -1,8 +1,8 @@
-Job Positions : Senior Data Warehouse
-Company : Nation Group (Thailand) Public Company Limited
-Company Location : บางนา
-Salary : THB 55K - 70K /เดือน 
+Job Positions : Software Developer (Education Products and Services) ประจำสีลม
+Company : Chanwanich Group
+Company Location : บางรัก
+Salary : No Infomation
   skill  
-- Data Management
-- Database design
-- Develop Data Warehouse System
+- Exp. > 3 yrs in C#, ASP.NET is a must
+- Angular, Bootstrap, Web Services, MVC, Web API
+- Work with control software e.g. GIT, Subversion

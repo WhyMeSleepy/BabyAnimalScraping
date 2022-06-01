@@ -1,8 +1,4 @@
-Job Positions : Software Implementation Specialist
-Company : Brink’s Global Technology Limited (Head Office)
-Company Location : ธนบุรี
-Salary : No Infomation
-  skill  
-- Implement software solutions
-- Product demonstrations/ Training programs
-- Good command of English
+Job Positions : Full Stack Web Developer (Internship Program Available)
+Company : AIR Technology Group (Thailand) Co., Ltd.
+Company Location : บางรัก
+Salary : THB 35K - 70K /เดือน 

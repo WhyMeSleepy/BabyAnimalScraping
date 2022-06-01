@@ -1,4 +1,8 @@
-Job Positions : Business Analytics Analyst
-Company : ExxonMobil
-Company Location : กรุงเทพมหานคร
+Job Positions : Full Stack Engineer
+Company : TD Tawandang Co., Ltd.
+Company Location : สาทร
 Salary : No Infomation
+  skill  
+- Angular, RxJs, NgRx, TypeScript
+- experience as a full stack engineer.
+- Kafka or other message queues

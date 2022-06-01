@@ -1,4 +1,8 @@
-Job Positions : Senior Software Engineer
-Company : JIBSOFT Co., Ltd.
-Company Location : Bangkok
+Job Positions : Backend Engineer
+Company : Bangkok Smartcard System Co., Ltd.
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- .net, c c#
+- SQL, PL/SQL, Data Modeling, Metadata
+- Data Warehousing, Data Mining.

@@ -1,4 +1,8 @@
-Job Positions : Mobile Application Developer
-Company : Protomate Co.,Ltd.
-Company Location : สาทร
+Job Positions : Head of Data Product Owner
+Company : Argyll Scott Asia
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
+  skill  
+- Data Governance; Product Owner
+- Project Management
+- Data Technologies

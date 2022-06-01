@@ -1,8 +1,8 @@
-Job Positions : Software Technical Lead
-Company : Ingenico (Thailand) Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Data Scientist
+Company : Thaioil Energy Services Company Limited
+Company Location : ชลบุรี
 Salary : No Infomation
   skill  
-- Fluent Thai and English required is a must
-- Experience in the payment industry a plus
-- 5+years’ Experience Analytic Problem-Solving
+- Bachelor’s degree in Computer Sc., Computer Eng.
+- Statistical and/or data science
+- Data visualization

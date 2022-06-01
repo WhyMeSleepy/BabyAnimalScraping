@@ -1,8 +1,8 @@
-Job Positions : Data Analyst
-Company : Ngernturbo Co., Ltd. / บริษัท เงินเทอร์โบ จำกัด
-Company Location : ปากเกร็ด
+Job Positions : Data Operation Specialist (Backend)
+Company : Ascend Group Co., Ltd.
+Company Location : พระโขนง
 Salary : No Infomation
   skill  
-- Sales Management
-- Fast Growing Company
-- Flat organization with modern culture
+- Experience in Software Development
+- Cloud-based platforms such as AWS, Google Cloud
+- Kubernetes, Docker, and system architect

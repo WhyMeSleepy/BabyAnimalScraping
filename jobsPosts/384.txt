@@ -1,8 +1,8 @@
-Job Positions : Quality Assurance (Automated Test)
-Company : CIMB Thai Bank
-Company Location : ปทุมวัน
+Job Positions : Chatbot Data Analytics and Execution
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Join with Digital Banking Team
-- New generation and sharing idea
-- Agile Methodology
+- Customer insights management
+- Knowledge Chatbot
+- Proactive data analytics

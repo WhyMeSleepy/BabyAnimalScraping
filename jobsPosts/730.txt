@@ -1,0 +1,8 @@
+Job Positions : Back End Developer - Golang ( Up to 100k)
+Company : TALENTVIS RECRUITMENT (THAILAND) CO., LTD.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Golang programming
+- MySQL, Postgresql, MongoDB, Redis, Kafka, ELK
+- Proficient understanding of Git.

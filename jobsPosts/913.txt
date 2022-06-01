@@ -1,8 +1,4 @@
-Job Positions : Manager, Software Development
-Company : 2C2P (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : Senior Developer / Developer
+Company : Advanced Research Group Co., Ltd.
+Company Location : ยานนาวา
 Salary : No Infomation
-  skill  
-- Min 3 yrs of experience in managing IT Development
-- Fluent communication skills in English is required
-- Only candidates currently located in Thailand

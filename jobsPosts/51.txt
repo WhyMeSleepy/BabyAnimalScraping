@@ -1,8 +1,8 @@
-Job Positions : Data Engineer (Manager/Senior Manager)
-Company : ABeam Consulting (Thailand) Ltd.
-Company Location : สาทร
+Job Positions : AI Specialist
+Company : Prudential Life Assurance (Thailand) Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- AWS Glue, Redshift, S3
-- Data Management
-- IT Implementation
+- Level – Middle (open fresh graduated)
+- Recognised qualifications in a core quantitative
+- Hands-on, real world machine learning experience

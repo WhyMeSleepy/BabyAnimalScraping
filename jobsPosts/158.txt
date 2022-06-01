@@ -1,8 +1,8 @@
-Job Positions : Data Scientist
-Company : Bank of Ayudhya Public Company Limited (Ayudhya Capital Auto)
-Company Location : ยานนาวา
+Job Positions : Senior Learning Data Analyst
+Company : Learn Corporation Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- PL/SQL database and big data Concepts
-- Hadoop, Spark, Hive or Python
-- Data Science
+- 1-2 years of work experience as a data analyst
+- experience in handling large data sets
+- Structured problem solver ability with excellent

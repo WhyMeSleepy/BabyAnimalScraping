@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Extend IT Resource Co., Ltd.
+Job Positions : Senior Data Scientist (Customer Intelligence and Insight)
+Company : True Corporation Public Company Limited
 Company Location : ห้วยขวาง
-Salary : THB 35K - 55K /เดือน 
+Salary : No Infomation
   skill  
-- Technologies: Elastic Search, Talend or ETL Tool
-- Knowledge in Data Engineer and Big Data
-- Basic Infrastructure (Network, Hardware, Cloud)
+- Data Scientist
+- Business Intelligence
+- Data Model

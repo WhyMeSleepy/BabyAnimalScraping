@@ -1,4 +1,8 @@
-Job Positions : Senior Software Developer (Bangkok, Ayutthaya)
-Company : AAPICO Hitech Public Company Limited
-Company Location : Sathorn
-Salary : No Infomation
+Job Positions : Senior Tester
+Company : PRTR
+Company Location : กรุงเทพมหานคร
+Salary : THB 55K - 90K /เดือน 
+  skill  
+- 5 Years of Experience in Software Testing
+- Manual Test,  End to End Testing, SIT & UAT
+- Good English Communication Skills

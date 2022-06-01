@@ -1,8 +1,8 @@
-Job Positions : Quantitative Researcher Senior Manager
-Company : Argyll Scott Asia
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Backend Developer (Senior/Middle level)
+Company : Satang Technology Company Limited
+Company Location : ดินแดง
+Salary : THB 55K - 90K /เดือน 
   skill  
-- machine learning; Software Engineer
-- Financial Market Data
-- Quantitative Research; Python
+- Trading technology, blockchain is preferred
+- Flexible working hours, Work from home
+- Negotiable salary and incentives

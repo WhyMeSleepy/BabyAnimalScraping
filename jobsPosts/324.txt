@@ -1,8 +1,4 @@
-Job Positions : Senior Software Developer (Kotlin/Java)
-Company : CODIUM Company Limited
-Company Location : Pathumwan
-Salary : No Infomation
-  skill  
-- Developer / Programmer
-- Kotlin/Java
-- Friendly, cozy, delicious, high-tech environment
+Job Positions : Lead Data Analyst
+Company : nocnoc
+Company Location : ไม่เปิดเผยชื่อบริษัท
+Salary : THB 35K - 45K /เดือน 

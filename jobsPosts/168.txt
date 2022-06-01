@@ -1,4 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : Siam System Consulting Co., Ltd.
-Company Location : วัฒนา
-Salary : THB 30K - 55K /เดือน 
+Job Positions : Senior Software Engineer / Software Engineer - Disruptive Digital Solution
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- Software Engineer, Programmer, Developer
+- Full Stack, Frontend, Backend, Java
+- Agile

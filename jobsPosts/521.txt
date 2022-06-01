@@ -1,8 +1,4 @@
-Job Positions : BACK - END DEVELOPER
-Company : Gunkul Engineering Public Company Limited
-Company Location : พญาไท
+Job Positions : IT Developer/นักพัฒนาระบบ
+Company : THANSETTAKIJ CAPITAL MUTUAL FUND BROKERAGE SECURITIES COMPANY LIMITED
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- JavaScript, Golang
-- Python
-- PostgreSQL, RESTful API

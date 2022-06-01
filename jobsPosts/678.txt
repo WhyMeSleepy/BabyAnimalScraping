@@ -1,0 +1,8 @@
+Job Positions : Data Modeling for Credit Risk
+Company : Central JD Fintech Co., Ltd.
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Strong SQL proficiency
+- Model life cycle management
+- Credit risk-related data modeling

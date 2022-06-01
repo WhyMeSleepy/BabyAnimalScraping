@@ -1,8 +1,8 @@
-Job Positions : Associate Data Engineer (Open to Fresh Graduate)
-Company : aCommerce Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Senior Project Manager (Software development) [Job ID:61132]
+Company : Reeracoen Recruitment Co.,Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Options to work remotely
-- AWS cloud environment
-- Big Data System
+- At least 5 years of experience working as Project
+- Experienced in website/application development
+- Salary : 40-60k

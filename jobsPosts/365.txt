@@ -1,8 +1,8 @@
-Job Positions : Channel Performance Analytics Team Manager
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
+Job Positions : Data Engineer Supervisor/ Executive (Business Intelligence Team)
+Company : Jet Commerce
+Company Location : ดินแดง
 Salary : No Infomation
   skill  
-- Leading and supervising team
-- Understand in Data analytics and powerBI dashboard
-- Python programming,with VBA & Power Query
+- Experience for developing Python or PySpark
+- Well understand in Data Warehouse and ETL concept
+- Hybrid Workplace

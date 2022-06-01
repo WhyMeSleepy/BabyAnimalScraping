@@ -1,8 +1,0 @@
-Job Positions : System Analyst
-Company : Vacharaphol Co., Ltd.
-Company Location : Jatuchak
-Salary : No Infomation
-  skill  
-- 5 years of experience as a System Analyst
-- Web-based software development
-- Java, PHP, C#

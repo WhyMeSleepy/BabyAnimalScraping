@@ -1,8 +1,8 @@
-Job Positions : ETL Developer
-Company : The Prodigy (Thailand) Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 35K - 70K /เดือน 
+Job Positions : Support Programmer
+Company : SHIPPOP CO., LTD.
+Company Location : พญาไท
+Salary : No Infomation
   skill  
-- At least 1 year's experience in ETL
-- SQL command and database management
-- Understanding of Data model
+- analyze issues related program fault
+- collaborate with others teams and developer team
+- Javascript , php, nodejs ,sql,html

@@ -1,8 +1,8 @@
-Job Positions : Software Developer/ซอฟแวร์ ดีเวลลอปเปอร์
-Company : CP ALL PUBLIC COMPANY LIMITED
-Company Location : ปากเกร็ด
-Salary : No Infomation
+Job Positions : Full Stack/Front End/Back End Developer (100K + attractive benefits)
+Company : HR Power Solution Recruitment Co., Ltd
+Company Location : สาทร
+Salary : THB 70K - 90K /เดือน 
   skill  
-- ปริญญาตรี - ปริญญาโท สาขาสารสนเทศ
-- Angular, PHP , Node js
-- computer science
+- Experiences in Javascript, Node.js and React.JS
+- Experiences in Agile methodology
+- Attractive bonus & allowances

@@ -1,4 +1,8 @@
-Job Positions : Data Analyst
-Company : Gulf
-Company Location : ปทุมวัน
+Job Positions : Software Engineer / Senior Software Developer
+Company : Ingenico (Thailand) Co., Ltd.
+Company Location : วัฒนา
 Salary : No Infomation
+  skill  
+- knowledge of C/C++ programming
+- Payment Business / EDC is request
+- Able to communicate in English

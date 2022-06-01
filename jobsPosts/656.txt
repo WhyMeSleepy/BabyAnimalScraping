@@ -1,0 +1,8 @@
+Job Positions : Senior Application Engineer (Education Tech Company)
+Company : Learn Corporation Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
+  skill  
+- Gathering requirements and designing solution
+- PHP, NodeJS, JavaScript, bootstrap, jQuery
+- RESTful  APIs

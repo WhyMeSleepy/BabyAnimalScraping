@@ -1,8 +1,0 @@
-Job Positions : Software Developer (Senior/ Full Stack)
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : คลองเตย
-Salary : No Infomation
-  skill  
-- 5+ years of experience
-- JavaScript, TypeScript Python, Java or Go
-- Leadership + team management skills

@@ -1,8 +1,8 @@
-Job Positions : Full Stack Engineers
-Company : Arise by Infinitas Co., Ltd.
-Company Location : คลองเตย
+Job Positions : Data Engineer
+Company : T.N. INCORPORATION LTD.
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Fresh graduates with a degree in computer science
-- 3 years experience as a full stack engineer
-- Strong understanding of both front-end & back-end
+- Passionate about data and strong programming
+- Work on data lake projects in Banking industry
+- Using Java/Scala Spark on Cloudera cluster

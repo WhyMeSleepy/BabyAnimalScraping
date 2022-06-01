@@ -1,8 +1,8 @@
-Job Positions : Senior E-commerce Engineer
-Company : PRTR
-Company Location : กรุงเทพมหานคร
+Job Positions : IOT Engineer (Front-End Engineer)
+Company : TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) CO., LTD.
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Senior E-commerce Engineer
-- Excellent Benefits
-- Agile Methodology
+- 5 days work week
+- BTS Chidlom location
+- Fluent in HTML5, CSS3, JavaScript.

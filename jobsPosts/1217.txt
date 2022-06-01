@@ -1,8 +1,8 @@
-Job Positions : Software Engineer  Backend Developer (Digital Banking)
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : Jatuchak
+Job Positions : Power Electronics Engineer_Firmware Engineer (Bangpoo)
+Company : Delta Electronics (Thailand) Public Company Limited
+Company Location : เมืองสมุทรปราการ
 Salary : No Infomation
   skill  
-- Backend developer
-- JavaScript (Node.js), Java, Python, Go, etc
-- Familiarity with API development
+- RD Engineer
+- Opportunity to work in International environment
+- Yearly bonus, Quarterly incentive, Shuttle Bus&Van

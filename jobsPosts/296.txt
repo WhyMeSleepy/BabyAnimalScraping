@@ -1,8 +1,8 @@
-Job Positions : IT Specialist (Programmer)
-Company : Thai Meiji Pharmaceutical Co., Ltd.
-Company Location : ลาดกระบัง
+Job Positions : Data Analyst
+Company : Wellington College International School Bangkok
+Company Location : สะพานสูง
 Salary : No Infomation
   skill  
-- 2-3 year's experience in Developer, ERP system
-- Have a knowledge (X++ , C#, SSRS or .net)
-- Provident Fund, Bonus, Cost of living allowance
+- Fluency in written and spoken English
+- experience in School Environment is advantage
+- Excellent in attention to details

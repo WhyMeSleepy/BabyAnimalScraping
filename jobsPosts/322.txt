@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer [JAVA]/ Up to 60K/ MRT Thailand Cultural Centre Station
-Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
-Company Location : Klongtoey
+Job Positions : IOT Engineering
+Company : Hitachi Metals (Thailand) Ltd.
+Company Location : ชลบุรี
 Salary : No Infomation
   skill  
-- Bachelor’s degree in IT or related
-- 2 year experience in programming using C#, NET
-- Knowledge of frameworks for .NET or JAVA
+- Bachelor’s degree in Computer
+- 1 years’ experience up
+- Programming skill is must  C or C#

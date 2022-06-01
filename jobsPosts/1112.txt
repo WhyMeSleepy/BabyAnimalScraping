@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : TISCO Financial Group Public Company Limited
-Company Location : สาทร
+Job Positions : Senior Test Engineer (Chonburi)
+Company : Fabrinet Co., Ltd.
+Company Location : ชลบุรี
 Salary : No Infomation
   skill  
-- Create and maintain  data pipeline architecture
-- Work with  Data analyst and Data Scientist teams
-- สวัสดิการดี มีโบนัส  ใกล้ BTS ศาลาแดง MRT สีลม
+- 5 years’ experience of Test Engineer
+- Proficiency in Python
+- Functional Test, Software Test, ICT and FCT.

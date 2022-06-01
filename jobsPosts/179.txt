@@ -1,8 +1,8 @@
-Job Positions : Sitecore Developer
-Company : SCB PROTECT CO., LTD.
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Backend Developer/โปรแกรมเมอร์ Backend Developer
+Company : Puun Intelligent Co., Ltd.
+Company Location : ดินแดง
+Salary : THB 30K - 70K /เดือน 
   skill  
-- Create, customize and execute Sitecore solutions
-- Knowledge Sitecore JavaScript Rendering SDK
-- Background in broker insurance/insurance/banking
+- ได้เรียนรู้การเชื่อมต่อ API กับหลายระบบ
+- ทำงานร่วมกับทีม Business และทีม Product/Tech
+- ทำงานใน Startup Culture กับทีมที่มี Growth Mindset

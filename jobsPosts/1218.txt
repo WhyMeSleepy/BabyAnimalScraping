@@ -1,8 +1,8 @@
-Job Positions : Data Analyst(Customer Support Team)
-Company : Ascend Group Co., Ltd.
-Company Location : Prakanong
+Job Positions : Quantitative Investment Fund Manager
+Company : Bualuang Securities Public Company Limited
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- Product support & development
-- MIS/ Data call center
-- Analysis and technical skills
+- quantitative aspects of investment and trading
+- quantitative,  programming skills
+- investment management.

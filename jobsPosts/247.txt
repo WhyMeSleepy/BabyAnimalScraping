@@ -1,4 +1,8 @@
-Job Positions : Senior System Analyst / Senior Software Developer (Java Technologies)
-Company : JFR Consulting Group Recruitment Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 70K - 120K /เดือน 
+Job Positions : Software Engineer - Full Stack Developer (Venture Builder)
+Company : SCB 10X Co., Ltd.
+Company Location : คลองเตย
+Salary : THB 55K - 160K /เดือน 
+  skill  
+- front-end and back-end development
+- ES6+,Typescript,Nest.js,Next.js,Solidity/CosmWasm
+- Proficiency in Python, JavaScript, Smart contract

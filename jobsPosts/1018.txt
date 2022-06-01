@@ -1,8 +1,8 @@
-Job Positions : DevOps/Cloud Engineer (Junior - Mid level)
-Company : Cathcart Associates Asia Recruitment Ltd.
-Company Location : สาทร
-Salary : THB 35K - 55K /เดือน 
+Job Positions : Cloud Engineer
+Company : BTI Executive Search (Thailand) Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- Leading Tech Company
-- Salary range from 30,000 - 80,000 THB
-- Lean, Agile, and Learning working culture
+- Lead the cloud architecture design
+- Lead the insights of the key customers
+- Migration and online delivery of Cloud Services

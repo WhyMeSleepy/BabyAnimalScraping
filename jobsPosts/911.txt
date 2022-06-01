@@ -1,8 +1,8 @@
-Job Positions : Data Scientist - Promotions and Pricing
-Company : Central Retail Corporation Ltd. (Central Technology Office)
-Company Location : บางรัก
+Job Positions : Software Development Manager
+Company : Aurora Design Co., Ltd.
+Company Location : บางนา
 Salary : No Infomation
   skill  
-- 3+ years of Data Science experience
-- Able to communicate in English
-- proficient in using Python, R, SQL and BigQuerry
+- ประสบการณ์ทำงาน 5-10 ปี ในระดับ Programmer
+- สามารถเขียนภาษา C#, VB.Net, PHP, SQL, HTML ได้
+- Visual Basic (windows form, Web base)

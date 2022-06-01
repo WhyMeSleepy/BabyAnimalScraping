@@ -1,4 +1,8 @@
-Job Positions : Remote / Phuket / Bangkok - Senior Laravel, React and Full Stack Developers
-Company : WebQuest Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : Data Analyst
+Company : Shopee (Thailand) Co., Ltd.(Shopee Express)
+Company Location : ราชเทวี
 Salary : No Infomation
+  skill  
+- Data Analyst
+- SQL
+- Logistics

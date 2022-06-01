@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : SCG Cement-Building Materials Co., Ltd.
-Company Location : Bangsue
+Job Positions : Full Stack Developer / Website Developer
+Company : LAZUDI CO., LTD.
+Company Location : วัฒนา
 Salary : No Infomation
   skill  
-- Develop data ingestion & data operationalization
-- Support and Implement Data Governance processes
-- Work with internal users in Digital Office
+- 3 years min: PHP / Laravel / Symfony
+- Prop-tech startup
+- Inhouse development team Phuket or Bangkok

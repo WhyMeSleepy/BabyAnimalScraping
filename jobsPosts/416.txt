@@ -1,4 +1,8 @@
-Job Positions : Data Visualization and Information Management Officer
-Company : COAR GLOBAL LIMITED
-Company Location : กรุงเทพมหานคร
+Job Positions : DevOps Engineer
+Company : KASIKORN Business - Technology Group (KBTG)
+Company Location : ปากเกร็ด
 Salary : No Infomation
+  skill  
+- Experience with Networking and Internetworking
+- Experience in groovy scripting for Jenkins pipelin
+- Minimum Bachelor degree in Com.Eng. other relate

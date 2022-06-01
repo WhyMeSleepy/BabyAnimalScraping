@@ -1,4 +1,8 @@
-Job Positions : Senior CRM Promotion Manager
-Company : CENTRAL GROUP
-Company Location : ปากเกร็ด
+Job Positions : IT Developer
+Company : Adecco Phaholyothin Limited (Modis)
+Company Location : ปทุมวัน
 Salary : No Infomation
+  skill  
+- 1-2 years’ experience in Software Developement
+- PowerApps, Excel Macro /Visual Basic, SharePoint
+- Understanding of Microsoft Technologies

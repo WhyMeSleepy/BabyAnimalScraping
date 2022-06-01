@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Advanced Info Service Public Company Limited (AIS)
-Company Location : พญาไท
+Job Positions : Software Engineer (Backend) - Middle to Senior level - Commercial Platform
+Company : ttb spark - TMBThanachart Bank or ttb
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Tableau, Power BI, Trifacta, Tibco
-- Proficient SQL : PostgreSQL on Cloudera Hadoop
-- Location: BTS Ari - Saphan Khwai
+- Node.js, Python, Java, Go, C, .NET
+- Flask, Spring Boot, Express
+- MySQL, Postgresql, Oracle, MongoDB

@@ -1,8 +1,8 @@
-Job Positions : Supervisor, System Analyst
-Company : dtac
-Company Location : ปทุมวัน
+Job Positions : Programmer
+Company : SPS MEDICAL CO., LTD.
+Company Location : คลองสาน
 Salary : No Infomation
   skill  
-- Experience in Developing Java application Platform
-- Strong technical knowledge in software development
-- Flexible working hours & Work from home
+- วุฒิการศึกษาปริญญาตรี ด้านเทคโนโลยีสารสนเทศและคอม
+- เข้าใจระบบเครือข่ายและวางแผนการจัดการระบบเครือข่าย
+- Work location close to BTS Krungthonburi

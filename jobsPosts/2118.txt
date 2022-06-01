@@ -1,8 +1,0 @@
-Job Positions : RPA Consultant/RPA Developer
-Company : บริษัท แอดวานซ์ อินโฟร์ เซอร์วิส จำกัด (มหาชน)
-Company Location : Phayathai
-Salary : No Infomation
-  skill  
-- Identify opportunities for Automation
-- Design & Develop Automation processes
-- UiPath, Microsoft Power Platform, NICE, Python

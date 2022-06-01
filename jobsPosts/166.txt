@@ -1,8 +1,8 @@
-Job Positions : Junior Software Engineer
-Company : OrbitInnotive
-Company Location : ปทุมวัน
+Job Positions : Senior Software Engineer / Software Engineer
+Company : Krungthai-AXA Life Insurance Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Junior Software Engineer
-- Software Developer
-- Application Developer
+- to perform software design, construction, testing
+- Ability to develop software in C, C++, C# Other
+- Node JS, AngularJS, Docker, GIT hub

@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : Bangkok Smartcard System Co., Ltd.
-Company Location : กรุงเทพมหานคร
+Job Positions : DevOps Engineer - Digital Delivery Solution
+Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
+Company Location : จตุจักร
 Salary : No Infomation
   skill  
-- Data analytics techniques, Data integration
-- Working within a fast growing team
-- Competitive salary with high benefits
+- DevOps , CI/CD
+- Scripting and automation
+- Azure , AWS

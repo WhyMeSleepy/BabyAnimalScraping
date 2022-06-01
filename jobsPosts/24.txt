@@ -1,8 +1,8 @@
-Job Positions : Data Engineer/Data Engineer
-Company : Siam Paragon Development Co., Ltd.
-Company Location : ปทุมวัน
+Job Positions : Data Engineer
+Company : Bangkok Industrial Gas Co., Ltd.
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Cloud, Python, Java or similar
-- Build data systems and pipelines
-- Hands-on experience with SQL database design
+- Data Architecture/ Data Engineer/ Data Science
+- data mining,data lake,SQL server
+- Python, Java, R Code, C#, Scala, Hadoop and Spark

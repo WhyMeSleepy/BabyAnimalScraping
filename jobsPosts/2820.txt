@@ -1,8 +1,0 @@
-Job Positions : Software Development Manager
-Company : Aurora Design Co., Ltd.
-Company Location : บางนา
-Salary : No Infomation
-  skill  
-- ประสบการณ์ทำงาน 5-10 ปี ในระดับ Programmer
-- สามารถเขียนภาษา C#, VB.Net, PHP, SQL, HTML ได้
-- Visual Basic (windows form, Web base)

@@ -1,8 +1,4 @@
-Job Positions : Data Analyst : Data Analytics
-Company : Kiatnakin Phatra Bank Public Company Limited
-Company Location : วัฒนา
+Job Positions : Data Analytics Manager
+Company : Agoda.com
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Bachelor’s degree or higher in Economics, Finance,
-- Experience with statistical programming languages
-- Newly Graduated or has experience between 1-3 year

@@ -1,4 +1,8 @@
-Job Positions : Software Engineer - iOS (Native)
-Company : TribeHired Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Data Engineer/Data Architect – Building data platform from scratch with EdTech Start-up
+Company : Cathcart Associates Asia Recruitment Ltd.
+Company Location : ปทุมวัน
+Salary : THB 45K - 90K /เดือน 
+  skill  
+- Salary up to 70,000 THB + Benefits
+- Working with PostgreSQL, GCP full-function
+- Build the whole architecture of the data platform

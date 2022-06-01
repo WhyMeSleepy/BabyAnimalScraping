@@ -1,8 +1,8 @@
-Job Positions : Backend Developer (Business Intelligence Team)
-Company : Jet Commerce
-Company Location : ดินแดง
-Salary : No Infomation
+Job Positions : Digital Strategy
+Company : SGS (Thailand) Limited
+Company Location : ยานนาวา
+Salary : THB 30K - 70K /เดือน 
   skill  
-- Strong in Python, Django and at least one RDBMS
-- Excellent with data structure & algorithm concepts
-- Hybrid Workplace
+- Digital marketing
+- UX/UI Mockup SEM,SEO
+- English Skill

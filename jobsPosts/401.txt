@@ -1,8 +1,8 @@
-Job Positions : Tech Lead
-Company : Krungsri Auto
-Company Location : ปทุมวัน
+Job Positions : Programmer \โปรแกรมเมอร์
+Company : Lenso Wheel Co., Ltd.
+Company Location : ฉะเชิงเทรา
 Salary : No Infomation
   skill  
-- Tech Lead
-- Auto Financial banking
-- Mon-Fri
+- ออกแบบ ทำโปรแกรมเพื่อนำไปใช้ในการพัฒนางาน
+- วิเคราะห์ทำโปรแกรมเพื่อนำไปใช้ในการพัฒนางาน
+- พัฒนาระบบงานใหม่

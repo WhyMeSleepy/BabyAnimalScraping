@@ -1,8 +1,8 @@
-Job Positions : Tool Application Software Engineer
-Company : TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) CO., LTD.
-Company Location : ปทุมวัน
-Salary : No Infomation
+Job Positions : Senior Developer (สมัครด่วน!!)
+Company : Prospersof Consulting Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 35K - 70K /เดือน 
   skill  
-- 5 days work week
-- Computer, Electronics, Electrical Engineering
-- Python, C, C#, C++, JavaScript, Vue.js, CSS, SCSS
+- ASP.NET ด้วย C# (Web)
+- SQL Server (Store Procedure)
+- Object Oriented Programming (OOP)

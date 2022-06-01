@@ -1,8 +1,8 @@
-Job Positions : Business Insights Analyst
-Company : Siam Commercial Bank Public Co., Ltd. (SCB)
-Company Location : จตุจักร
-Salary : No Infomation
+Job Positions : Fullstack Developer (50K-100K)
+Company : FPT Software (Thailand) Co.,Ltd.
+Company Location : สาทร
+Salary : THB 70K - 120K /เดือน 
   skill  
-- Business insight , Business Analytics
-- Data driven solutions and problem-solving abilitie
-- statistics and machine learning  programming
+- JavaScript, Java, and Python.
+- Fluent in front-end web technologies and framework
+- Flutter, IOS or Android.

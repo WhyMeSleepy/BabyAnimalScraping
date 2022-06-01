@@ -1,8 +1,8 @@
-Job Positions : Software Developer/ Programmer
-Company : Krungthai Panich Insurance Public Company Limited
-Company Location : ราชเทวี
+Job Positions : Data Analyst
+Company : Delivery Hero (Thailand) Co., Ltd.
+Company Location : ห้วยขวาง
 Salary : No Infomation
   skill  
-- Insurance,Banking
-- Python, Flask/Django Framework
-- Java, HTML5
+- 2-5 years of working experience in data analytics
+- Strong in SQL, Python/R, tableau, power BI
+- Familiar with the Big Query environment is a plus

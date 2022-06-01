@@ -1,8 +1,8 @@
-Job Positions : Software Developer (C#.Net)
-Company : Zuellig Pharma Ltd.
+Job Positions : Data Engineer
+Company : Arise by Infinitas Co., Ltd.
 Company Location : คลองเตย
-Salary : THB 55K - 70K /เดือน 
+Salary : No Infomation
   skill  
-- Programming skills
-- Work location close to BTS Pleonchit
-- Knowledge RPA
+- Building systems collect, manage, and convert data
+- Develop data models for analytics
+- Make data accessible so that organizations can use

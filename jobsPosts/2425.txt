@@ -1,8 +1,0 @@
-Job Positions : DevOps Lead
-Company : SCB PROTECT CO., LTD.
-Company Location : จตุจักร
-Salary : No Infomation
-  skill  
-- Maintain CI/CD and automating security testing
-- Experience in Development ecosystem tooling
-- Coding skills in a modern programming language

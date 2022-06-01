@@ -1,4 +1,8 @@
-Job Positions : Developer / Programmer (Windows or Android)/โปรแกรมเมอร์
-Company : Yingyong Smart Biz L.P.
-Company Location : จตุจักร
+Job Positions : Data Engineer (Manager/Senior Manager)
+Company : ABeam Consulting (Thailand) Ltd.
+Company Location : สาทร
 Salary : No Infomation
+  skill  
+- AWS Glue, Redshift, S3
+- Data Management
+- IT Implementation

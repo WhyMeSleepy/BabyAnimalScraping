@@ -1,8 +1,8 @@
-Job Positions : Data Business Partner (Business Analyst)
-Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
-Company Location : จตุจักร
+Job Positions : Software Developer/นักพัฒนาซอฟต์แวร์
+Company : Absolute Management Solutions Co., Ltd.
+Company Location : บางแค
 Salary : No Infomation
   skill  
-- Min 4 years of MIS or Producing Reports
-- BI tools: Tableu, Qlikview, Power BI, Python
-- Agile Software Development Methodologies
+- 1 years of experience
+- full-stack software developer
+- Flutter, Angular, Nodejs, and/or MongoDB, IoT

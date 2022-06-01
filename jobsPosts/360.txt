@@ -1,8 +1,8 @@
-Job Positions : Quality Assurance (Software Tester)
-Company : Krungsri Auto
-Company Location : ปทุมวัน
+Job Positions : URGENT!!! - Data Scientist - Ayuthaya - up to 35K
+Company : PERSOLKELLY HR Services Recruitment (Thailand) Co., Ltd.
+Company Location : อยุธยา
 Salary : No Infomation
   skill  
-- Automate tester
-- Python, JAVA, Shell script
-- Project Management
+- Education background in Data Science
+- At least 2 years experiences in Data Management
+- Experienced in BI tool such as PowerBI

@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer (120K)
-Company : Argyll Scott Asia
-Company Location : กรุงเทพมหานคร
-Salary : THB 70K - 120K /เดือน 
+Job Positions : DevOps Engineer
+Company : Garena Online (Thailand) Co., Ltd./ Sea Thailand
+Company Location : ดินแดง
+Salary : No Infomation
   skill  
-- CI/CD, Kubernetes, Docker, Jenkins, Grafana, ELK
-- AWS, Azure, Google Cloud, Python
-- OpenShift, Linux troubleshooting
+- CI/CD
+- Autonomy at work
+- Supportive Environment

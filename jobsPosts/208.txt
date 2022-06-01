@@ -1,8 +1,8 @@
-Job Positions : ABAP Programmer (Outsource)
-Company : Extend IT Resource Co., Ltd.
-Company Location : Jatuchak
+Job Positions : Data Engineer
+Company : Supalai Public Company Limited
+Company Location : ยานนาวา
 Salary : No Infomation
   skill  
-- ประสบการณ์ 2-3 ปี
-- Skill ABAP programing
-- Thai national only
+- PL/SQL database and big data Concepts
+- Python ,Data Science, Data Engineer
+- Can do attitude

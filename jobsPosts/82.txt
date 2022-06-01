@@ -1,8 +1,8 @@
-Job Positions : Support Programmer
-Company : SHIPPOP CO., LTD.
-Company Location : พญาไท
+Job Positions : Data Engineer Specialist
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- analyze issues related program fault
-- collaborate with others teams and developer team
-- Javascript , php, nodejs ,sql,html
+- Data Engineer, Data Pipeline Team Lead
+- Data Warehouse, Architecture Management
+- Fintech Global Company

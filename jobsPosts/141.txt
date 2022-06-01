@@ -1,8 +1,8 @@
-Job Positions : Quality Management Engineer (Data Analyst)
-Company : Continental Tyres (Thailand) Co., Ltd.
-Company Location : ระยอง
-Salary : No Infomation
+Job Positions : Lead Software Engineer / Software Development Team Lead
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : THB 90K - 160K /เดือน 
   skill  
-- Provide the data analysis results
-- Involve in Problem Structure Solving activity
-- Provide ideas about process improvement
+- 8+ years of experience in Software Engineer
+- Familiarity with the DevOps philosophy, and tools.
+- Excellent communications and presentation skills.

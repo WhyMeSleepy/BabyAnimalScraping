@@ -1,8 +1,8 @@
-Job Positions : Fullstack Developer (Backend Base)
-Company : Big C Supercenter Public Co., Ltd.
-Company Location : Prakanong
+Job Positions : Software Developer (New graduate are welcome)/นักพัฒนาซอฟต์แวร์
+Company : HUMANICA Public Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Fullstack Developer (Backend Base)
-- Location: BTS Ekkamai
-- Working Day: Mon-Fri (WFA 2 days per week)
+- Develop and coding new software programs
+- experience in C#.Net,HTML, JavaScript
+- Bachelor’s degree in IT field

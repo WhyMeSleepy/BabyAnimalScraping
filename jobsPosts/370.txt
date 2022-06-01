@@ -1,8 +1,8 @@
-Job Positions : Business Intelligence Manager
-Company : Cigna Insurance Public Company Limited
-Company Location : ปทุมวัน
+Job Positions : Data Engineer (Thai and Foreign)
+Company : Ancor Thailand
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- BI tools, SQL, SASS, Python
-- Business Intelligent
-- applied mathematics
+- Relocation package
+- Health insurance
+- Work from home

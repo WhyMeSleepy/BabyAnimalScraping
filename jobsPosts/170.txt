@@ -1,8 +1,8 @@
-Job Positions : Application Developer/นักพัฒนาแอพพลิเคชั่น
-Company : Hi-Tech Apparel Co., Ltd.
-Company Location : ทุ่งครุ
+Job Positions : Machine Learning Engineer
+Company : Mu Space and Advanced Technology Co., Ltd.
+Company Location : พญาไท
 Salary : No Infomation
   skill  
-- C#
-- SQL
-- Dynamic AX
+- Experienced in machine learning and deep learning
+- Python and/or C/C++ languages
+- Tensorflow, Keras, Pytorch, etc.

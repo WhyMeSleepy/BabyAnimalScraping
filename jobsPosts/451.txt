@@ -1,4 +1,8 @@
-Job Positions : นักวิเคราะห์ระบบงานคอมพิวเตอร์ แผนกบริการคอมพิวเตอร์ ศูนย์ดิจิทัลเพื่อการศึกษา
-Company : Huachiew Chalermprakiet University
-Company Location : บางพลี
+Job Positions : Senior / Team lead Data Analyst
+Company : STelligence Company Limited
+Company Location : ลาดพร้าว
 Salary : No Infomation
+  skill  
+- 3 years for Senior / 5 years for Team lead
+- Data Analytic, Dashboard, Data structure,Tableau
+- Understand target customer's behavior and analyze

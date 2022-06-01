@@ -1,8 +1,8 @@
-Job Positions : Senior Data Architect
-Company : Bluebik Group Public Company Limited
-Company Location : บางรัก
+Job Positions : Data Engineer
+Company : Ever Medical Technologies Company Limited
+Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Flexible working hours
-- Competitive Salary
-- Close to BTS and Work from anywhere policy
+- Join dynamic team of technology-driven healthcare
+- Build processes supporting data transformation
+- Optimizing ‘Big Data’ pipelines, architecture

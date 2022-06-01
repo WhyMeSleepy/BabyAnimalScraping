@@ -1,8 +1,0 @@
-Job Positions : RPA Developer Lead
-Company : Metro Systems Corporation Public Company Limited
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
-  skill  
-- RPA Developer
-- MySQL
-- Oracle

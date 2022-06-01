@@ -1,0 +1,8 @@
+Job Positions : ETL Developer
+Company : K.Stone Corporation Ltd.
+Company Location : จตุจักร
+Salary : No Infomation
+  skill  
+- ETL Tools (Perferred IBM Data Stage)
+- SQL Language
+- Exp. in Financial industy or Data warehouse

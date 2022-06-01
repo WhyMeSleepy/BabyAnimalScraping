@@ -1,8 +1,8 @@
-Job Positions : Assistant Data Warehouse Development Manager
-Company : Ananda Development Public Company Limited
-Company Location : คลองเตย
+Job Positions : Golang Developer
+Company : PRTR
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- data warehouse
-- Data Science
-- visualization relational Power BI
+- Golang Developer / Lead Golang Developer
+- Attractive Salary Package
+- Cutting Edge Technology

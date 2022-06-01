@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer - Max. 100K THB
-Company : Argyll Scott Asia
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : Backend Developer
+Company : SEASIA LEADAVATION CENTER CO., LTD.
+Company Location : คลองเตย
+Salary : THB 35K - 70K /เดือน 
   skill  
-- Over 5 years experience in software development
-- Over 3 years experience in DevOps role
-- Experience in Cloud Technology
+- Building performant APIs and Web Applications
+- Develop and implement solutions
+- Lead the technical aspect

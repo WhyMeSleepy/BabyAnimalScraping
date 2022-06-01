@@ -1,4 +1,8 @@
-Job Positions : QA Engineer
-Company : Ascend
-Company Location : กรุงเทพมหานคร
+Job Positions : DevOps Engineer (Welcome New Graduated)
+Company : True Corporation Public Company Limited
+Company Location : ห้วยขวาง
 Salary : No Infomation
+  skill  
+- Docker and Kubernetes (cloud platform)
+- 0-3 years of Platform, DevOps or related
+- Automation tools and monitoring tools

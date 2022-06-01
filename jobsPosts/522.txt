@@ -1,8 +1,8 @@
-Job Positions : Data Engineer
-Company : MC Group Public Company Limited
-Company Location : ประเวศ
+Job Positions : GIS Programmer/GIS โปรแกรมเมอร์
+Company : Thaisri Insurance Public Company Limited
+Company Location : คลองสาน
 Salary : No Infomation
   skill  
-- Data Engineer
-- Data Analyst
-- Data Platforms
+- java , jsp
+- การเดินทางติด BTS
+- พัฒนาโปรแกรม

@@ -1,4 +1,4 @@
-Job Positions : Software Design Engineer/วิศวกรซอฟต์แวร์
-Company : Edison Motors Co., Ltd.
-Company Location : บางซื่อ
-Salary : THB 55K - 70K /เดือน 
+Job Positions : Blockchain Engineer/Solidity, Rust, C++
+Company : A.D1 Labs
+Company Location : เชียงใหม่
+Salary : THB 20K - 35K /เดือน 

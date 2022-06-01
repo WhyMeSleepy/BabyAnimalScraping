@@ -1,8 +1,8 @@
-Job Positions : Senior Software Developer (Senior Associate)
-Company : DBS Vickers Securities (Thailand) Co., Ltd.
+Job Positions : IT Application Development (Manager - AVP)
+Company : Bank of Ayudhya Public Company Limited
 Company Location : ปทุมวัน
 Salary : No Infomation
   skill  
-- Senior Software Developer
-- Knowledge with JavaScript frameworks and libraries
-- Proficiency with server-side languages
+- Bachelor’s degree (B.S.) in Computer Science
+- 5 years programming experience in .NET MVC
+- Familiarity with Visual Studio 2015

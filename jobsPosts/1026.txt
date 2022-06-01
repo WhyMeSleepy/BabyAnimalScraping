@@ -1,8 +1,8 @@
-Job Positions : Data Analytics Manager (100-140K)/Data Analyst (Big Data) / Business Intelligence
-Company : MRI Worldwide Recruitment (Thailand) Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : No Infomation
+Job Positions : iOS Developer
+Company : TOYOTA K.MOTORS TOYOTA'S DEALER CO., LTD.
+Company Location : วัฒนา
+Salary : THB 30K - 45K /เดือน 
   skill  
-- Data Analysis Manager
-- Big Data analyst
-- Power BI, Python, Tableau
+- มีประสบการณ์ในการพัฒนา iOS Application 1-2 ปี
+- สามมารถใช้ Objective-C และ Swift ได้ดี
+- มีความรู้ความเข้าใจ REST API Node JS  AJAX  PY

@@ -1,8 +1,8 @@
-Job Positions : Senior Backend Engineer
-Company : PRTR
-Company Location : Bangkok
+Job Positions : Full Stack Developer
+Company : ExxonMobil Limited
+Company Location : บางรัก
 Salary : No Infomation
   skill  
-- International Work Environment
-- Career Path
-- Competitive Salary Package
+- IT Developer
+- Global Company
+- Competitive Salary

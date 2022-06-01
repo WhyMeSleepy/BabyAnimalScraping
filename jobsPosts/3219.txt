@@ -1,8 +1,0 @@
-Job Positions : Software Developer /Engineer / Mobile Developer / Web Developer/Full Stack Engineer, Mobile Banking
-Company : Bangkok Bank Public Company Limited
-Company Location : Bangrak
-Salary : No Infomation
-  skill  
-- Bachelor/Master’s degree in Computer Science
-- 3-5 years of experience in developing applications
-- Knowledge and regular use of source control

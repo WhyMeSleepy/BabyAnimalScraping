@@ -1,8 +1,4 @@
-Job Positions : Regulatory Credit Risk Modelling
-Company : TMBThanachart Bank or ttb / ทีเอ็มบีธนชาต หรือ ทีทีบี
-Company Location : จตุจักร
+Job Positions : Remote / Phuket / Bangkok - Senior Laravel, React and Full Stack Developers
+Company : WebQuest Co., Ltd.
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
-  skill  
-- Master in Risk Management, Statistics, Mathematics
-- 5-7 years exp. in banking or finance service
-- Monitor & implement Bank's credit risk model

@@ -1,8 +1,0 @@
-Job Positions : Full Stack Web Programmer
-Company : Noble Development Public Company Limited
-Company Location : ปทุมวัน
-Salary : No Infomation
-  skill  
-- 3 years’ experience in coding Web Development
-- Proficiency with HTML,CSS,JavaScript,OOP,JSON,XML
-- Having Toeic score is advantage (minimum 450)

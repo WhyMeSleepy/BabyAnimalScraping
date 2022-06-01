@@ -1,8 +1,8 @@
-Job Positions : Programmer (Samutprakarn)
-Company : Adecco Recruitment (Thailand) Limited
-Company Location : ปริมณฑล-สมุทรปราการ
-Salary : No Infomation
+Job Positions : DevOps Engineer (Senior-Specialist)
+Company : Pomelo Fashion Co., Ltd.
+Company Location : กรุงเทพมหานคร
+Salary : THB 70K - 160K /เดือน 
   skill  
-- Develop web applications with PHP(Laravel)
-- Experience Javascript , Css , Postgres Sql , Mysql
-- Experience with Web E-Commerce will be advantage
+- Terraform
+- AWS
+- DevOps

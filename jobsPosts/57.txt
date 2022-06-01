@@ -1,4 +1,8 @@
-Job Positions : Full Stack Software Developers (C#, Angular - multiple positions)
-Company : Quantium Technology Co., Ltd.
-Company Location : พระโขนง
-Salary : THB 45K - 90K /เดือน 
+Job Positions : Data Engineer/Data Engineer
+Company : Siam Paragon Development Co., Ltd.
+Company Location : ปทุมวัน
+Salary : No Infomation
+  skill  
+- Cloud, Python, Java or similar
+- Build data systems and pipelines
+- Hands-on experience with SQL database design

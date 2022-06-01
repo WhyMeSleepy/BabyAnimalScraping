@@ -1,8 +1,8 @@
-Job Positions : DevOps Engineer
-Company : Polar Bear Mission Co., Ltd.
-Company Location : ราชเทวี
-Salary : THB 45K - 70K /เดือน 
+Job Positions : Lead iOS, Android Engineer up to 180K
+Company : RDA GROUP RECRUITMENT LTD.
+Company Location : กรุงเทพมหานคร
+Salary : No Infomation
   skill  
-- CI/CD tools. (Jenkins)
-- Amazon Web Service or Google Cloud Platform
-- (Docker, Kubernetes)
+- Lead Mobile Engineer (iOS or Android)
+- Highly competitive salaries and benefit
+- WFH/ Remote possible

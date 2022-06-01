@@ -1,4 +1,8 @@
-Job Positions : RPA Developer (all levels)
-Company : DBot Co., Ltd.
-Company Location : กรุงเทพมหานคร
-Salary : THB 45K - 120K /เดือน 
+Job Positions : Senior Software Engineer (React Native)
+Company : Polar Bear Mission Co., Ltd.
+Company Location : ราชเทวี
+Salary : No Infomation
+  skill  
+- 2+ years of experience in React Native
+- Experienced with Git and Agile methodologies
+- Bonus, Laptop (Mac), Company Trip, Group Insurance

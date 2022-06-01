@@ -1,8 +1,8 @@
-Job Positions : IOT Engineer / Software Engineer/(For Develop Robot System and Automatic Control Agriculture Product)
-Company : Somboon Advance Technology PCL
-Company Location : บางพลี
+Job Positions : Data Architech
+Company : TISCO Financial Group Public Company Limited
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Bachelor's Degree in Computer Engineering
-- Software development skill
-- Good communication in  English
+- Develop database solutions
+- Design  data models
+- สวัสดิการดี ใกล้ BTS MRT สีลม มีโบนัส

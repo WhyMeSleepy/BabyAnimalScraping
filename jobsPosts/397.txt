@@ -1,8 +1,8 @@
-Job Positions : QA -Automation/Automation test
-Company : Kiatnakin Phatra Bank Public Company Limited
-Company Location : วัฒนา
+Job Positions : Programmer/โปรแกรมเมอร์
+Company : DDK (Thailand) Ltd.
+Company Location : คลองหลวง
 Salary : No Infomation
   skill  
-- Strong knowledge of automation testing process
-- Experience in alternative automation test tools
-- 3+years of automation testing with Robot Framework
+- Programming
+- ASP.Net,SQLServer.
+- ERP  program .

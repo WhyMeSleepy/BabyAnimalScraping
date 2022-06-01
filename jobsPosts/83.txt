@@ -1,4 +1,8 @@
-Job Positions : Programmer/โปรแกรมเมอร์
-Company : Yakult Sales (Bangkok) Co., Ltd.
-Company Location : พญาไท
+Job Positions : Campaign Developer (SQL Server/Python)
+Company : Siam Commercial Bank Public Co., Ltd. (SCB)
+Company Location : จตุจักร
 Salary : No Infomation
+  skill  
+- SQL Server, Python,Programer
+- CRM platforms
+- DMP :  Adobe, Salesforce Marketing Cloud, Knowesis

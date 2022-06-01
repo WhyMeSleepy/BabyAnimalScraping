@@ -1,8 +1,8 @@
-Job Positions : Senior Back End Developer
-Company : Allianz Technology (Thailand) Co., Ltd.
-Company Location : ห้วยขวาง
+Job Positions : IT DevOps Specialist
+Company : ANCOR Thailand
+Company Location : กรุงเทพมหานคร
 Salary : No Infomation
   skill  
-- Working with global and multicultural company
-- Explore new technologies and experiences
-- Good benefits and work life balance
+- Consult business users about reported incidents
+- Understand business requirements
+- Create / support IT Architecture

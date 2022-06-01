@@ -1,8 +1,4 @@
-Job Positions : Programmer/โรงพยาบาลจักษุ Mrt เพชรบุรี,ใกล้ตึก GMM Grammy
-Company : 360 Quality Management Co., Ltd.
-Company Location : วัฒนา
+Job Positions : Mid/Senior DevOps (Full time)
+Company : JENOSIZE Co., Ltd.
+Company Location : ปริมณฑล-นนทบุรี
 Salary : No Infomation
-  skill  
-- VB.NET หรือ C#.NET
-- HTML, XML CSS, JavaScript, AJAX
-- สามารถเขียนโปรแกรมที่ใช้ฐานข้อมูล MS SQL, Oracle

@@ -1,8 +1,8 @@
-Job Positions : Backend Developer/โปรแกรมเมอร์ Backend Developer
-Company : Puun Intelligent Co., Ltd.
-Company Location : ดินแดง
-Salary : THB 30K - 70K /เดือน 
+Job Positions : Software Engineer (HPC)
+Company : Berli Jucker Public Co., Ltd.
+Company Location : พระโขนง
+Salary : No Infomation
   skill  
-- ได้เรียนรู้การเชื่อมต่อ API กับหลายระบบ
-- ทำงานร่วมกับทีม Business และทีม Product/Tech
-- ทำงานใน Startup Culture กับทีมที่มี Growth Mindset
+- Software Engineer (HPC)
+- Location: BTS Ekkamai
+- Working Day: Mon-Fri (WFH 2 days per week)

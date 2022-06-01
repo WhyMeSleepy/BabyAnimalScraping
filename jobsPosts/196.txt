@@ -1,8 +1,8 @@
-Job Positions : Angular Developer / Programmer
-Company : CODIUM Company Limited
-Company Location : ปทุมวัน
+Job Positions : IT Software / System Data Analyst (New graduate)
+Company : Mitsubishi Motors (Thailand) Co., Ltd.
+Company Location : คลองเตย
 Salary : No Infomation
   skill  
-- Angular Developer / Programmer
-- Angular
-- Friendly, cozy, delicious, high-tech environment
+- FYI Center, MRT QSNCC, Klongtoei, 5 working days
+- Python, R, MS Power BI, UiPath
+- New graduate in Computer Science/Engineering field

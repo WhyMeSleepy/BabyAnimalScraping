@@ -1,8 +1,8 @@
-Job Positions : KX - Unit Testing Automation Engineer
-Company : KASIKORN Business - Technology Group (KBTG)
-Company Location : ปทุมวัน
+Job Positions : Software Engineer
+Company : Körber Pharma Software
+Company Location : สาทร
 Salary : No Infomation
   skill  
-- Programming skill Python, Go, TypeScript
-- Automate test
-- Manual test
+- Application Support, MES, ERP, Unix, Docker, SQL
+- Global company, Strong career path and support
+- BTS, MRT, Shifted work,flexible working

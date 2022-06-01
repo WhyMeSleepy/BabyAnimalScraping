@@ -1,8 +1,8 @@
-Job Positions : MIS Data Analyst
-Company : Citibank , N.A.
-Company Location : Klongtoey
+Job Positions : Data Analyst / Senior Data Analyst
+Company : New Concept Product Co., Ltd.
+Company Location : บางกะปิ
 Salary : No Infomation
   skill  
-- Monitoring, assess, analyze and evaluate data
-- Identifies policy gaps and formulates policies
-- Interprets data and makes recommendations
+- Bachelor or master degree in Applied Mathematics
+- At least 5 years of data analysis
+- Proficient in Microsoft Excel and Power BI
